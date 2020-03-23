@@ -10,7 +10,7 @@ collections:
   - name: "locations"
     label: "Location"
     format: "json"
-    exstention: "json"
+    extension: "json"
     delete: false
     editor:
       preview: false
