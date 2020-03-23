@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "npm-run-all prepare-content -p start:content start:app",
-    "build": "npm-run-all -s prepare-content build:app build:react-snapshot",
+    "build": "npm-run-all -s prepare-content build:app",
     "start:app": "react-scripts start",
     "start:content": "chokidar 'content/**/**' -c 'npm run prepare-content'",
     "build:app": "react-scripts build",

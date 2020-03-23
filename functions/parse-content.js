@@ -1,3 +1,4 @@
+// Based on @Jinksi functions from his netlify-cms-react boilerplate
 const fs = require('fs')
 const path = require('path')
 const jsonConcat = require('json-concat')
@@ -15,22 +16,9 @@ const options = {
   outputFile: './src/data.json'
 }
 
-const getCollectionType = filePath => {
-  const pathParsed = path.parse(filePath)
-  const objectKey = pathParsed.dir
-    .replace(options.contentDir, '')
-    .replace(/\//g, '.')
-  return `${objectKey}`
-}
-
 const getDocumentName = filePath => {
   const pathParsed = path.parse(filePath)
   return `${pathParsed.name}`
-}
-
-const getDocumentExt = filePath => {
-  const pathParsed = path.parse(filePath)
-  return `${pathParsed.ext}`
 }
 
 const getFileContents = filePath => {
