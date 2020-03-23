@@ -3,12 +3,13 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 # display_url: https://netlify-cms-react-starter.netlify.com # This url will display in the top-right of the CMS
-media_folder: "public/images/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "public/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
   - name: "locations"
-    label: "Location"
+    label: "Locations"
+    label_singular: "Location"
     format: "json"
     extension: "json"
     delete: false
@@ -19,6 +20,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields:
       - { label: "Name", name: "name", widget: "string" }
+      - { label: "Cover Image", name: "cover", widget: "image" }
       - { label: "Description", name: "description", widget: "string", pattern: [".{,300}", "Must not exceed 300 characters"] }
       - label: "Tags"
         name: "tags"

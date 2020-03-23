@@ -1,13 +1,165 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+:root {
+  --bg:#f0f0f0;
+  --base:#0B132B;  
+  --base-light:rgba(11, 19, 43, 0.05);
+  --primary:#00CCBC;
+  
+  --text-high:var(--base);
+  --text-med:rgba(11, 19, 43, 0.8);
+  --text-low:rgba(11, 19, 43, 0.4);
+
+  --text-high-white:#FFF;
+  --text-med-white:rgba(255,255,255,0.8);
+  --text-low-white:rgba(255,255,255,0.5);
+
+  --font-stack:'Averta', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+
+  --spacing-xs:1rem;
+  --spacing-sm:1.5rem;
+  --spacing-md:2rem;
+  --spacing-lg:3rem;
+  --spacing-xl:6rem;
+  --spacing-xxl:8rem;
+}
+
+*,
+*:before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  height:100%;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+  line-height: 1.25;
+  font-family:var(--font-stack);
+  color:var(--text-high);
+  background-color:var(--bg);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+ol, ul {
+	list-style: none;
 }
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+img {
+  display:block;
+  max-width:100%;
+  height:auto;
+}
+
+.l-container {
+  max-width:80rem;
+  margin:0 auto;
+  padding-left:var(--spacing-sm);
+  padding-right:var(--spacing-sm);
+}
+
+/* Type */
+@font-face {
+  font-family:"Averta";
+  src:url("/fonts/Averta-Bold.woff2") format("woff2"),url("/fonts/Averta-Bold.woff") format("woff"),url("/fonts/Averta-Bold.otf") format("opentype");
+  font-style:normal;font-weight:700;font-display:swap;
+}
+@font-face {
+  font-family:"Averta";
+  src:url("/fonts/Averta-Regular.woff2") format("woff2"),url("/fonts/Averta-Regular.woff") format("woff"),url("/fonts/Averta-Regular.otf") format("opentype");
+  font-style:normal;font-weight:400;font-display:swap;
+}
+      
+h1,h2,h3,h4 {
+  line-height: 1.2;
+  margin:0.5em 0;
+  font-weight:700;
+  letter-spacing: -0.005em;  
+}
+p {  
+  color:var(--text-med);
+  line-height: 1.65;
+  margin:0;
+}
+p + p,
+p + a {
+  margin-top:var(--spacing-sm);
+}
+
+small,
+time {
+  display: block;
+  color:var(--text-med);
+  line-height: 1.25;
+}
+
+a {
+  display: inline-block;
+  color:var(--text-high);
+}
+
+h1      { font-size: 2.25rem; }
+h2      { font-size: 1.75rem; }
+h3      { font-size: 1.5rem; }
+h4      { font-size: 1rem; }
+p.t-lg,
+a       { font-size: 1rem; }
+p       { font-size:0.85rem }
+small   { font-size: 0.75rem; }
+
+h1 + p  { font-size:calc(2.25rem / 2); }
+
+@media(min-width:48rem) {
+  h1      { font-size: 3rem; }
+  h2      { font-size: 2.25rem; }
+  h3      { font-size: 1.75rem; }
+  h4      { font-size: 1.25rem; }
+  p.t-lg,
+  a       { font-size: 1.125rem; }  
+  p       { font-size: 1rem }
+  small   { font-size: 0.85rem; }
+
+  h1 + p  { font-size:calc(3rem / 2); }
+}
+

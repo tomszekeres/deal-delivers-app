@@ -6,11 +6,14 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "contentful": "^7.14.0",
+    "dayjs": "^1.8.23",
     "json-concat": "^0.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-feather": "^2.0.3",
+    "react-fuzzy-filter": "^5.0.1",
+    "react-scripts": "3.4.1",
+    "styled-components": "^5.0.1"
   },
   "scripts": {
     "start": "npm-run-all prepare-content -p start:content start:app",

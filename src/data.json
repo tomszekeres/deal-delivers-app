@@ -1,14 +1,45 @@
 [
   {
     "name": "Roosters Piri Piri",
+    "cover": "https://placehold.it/600x600",
+    "description": "A description will go here, telling people about this business in a sentence or two",
+    "tags": [
+      "Fast Food",
+      "Chicken",
+      "Piri Piri"
+    ],
+    "address": "Unit 2 Main St Nottingham",
     "website": "www.roosters.com",
-    "openHoursStart": 13,
+    "phone": "0115 444 444",
+    "file": "/menu.pdf",
+    "deliveryHours": [
+      "Monday 10:00 - 11:00",
+      "Tuesday 10:00 - 11:00",
+      "Wednesday 10:00 - 11:00",
+      "Thursday 10:00 - 11:00"
+    ],
     "id": "roosters-piri"
   },
   {
     "name": "Zap Thai",
-    "website": "www.zapthai.com",
-    "openHoursStart": 10,
+    "cover": "https://placehold.it/600x600",
+    "description": "A description will go here, telling people about this business in a sentence or two",
+    "tags": [
+      "Fast Food",
+      "Asian",
+      "Thai"
+    ],
+    "address": "Unit 1 Main St Nottingham",
+    "website": "www.zap.com",
+    "phone": "0115 565 565",
+    "file": "",
+    "deliveryHours": [
+      "Monday 10:00 - 11:00",
+      "Tuesday 10:00 - 11:00",
+      "Wednesday 10:00 - 11:00",
+      "Thursday 10:00 - 11:00",
+      "Friday 10:00 - 11:00"
+    ],
     "id": "zap-thai"
   }
 ]
