@@ -9,6 +9,8 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 collections:
   - name: "locations"
     label: "Location"
+    format: "json"
+    exstention: "json"
     delete: false
     editor:
       preview: false
@@ -17,6 +19,19 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields:
       - { label: "Name", name: "name", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", pattern: [".{,300}", "Must not exceed 300 characters"] }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        field: {label: "Tag", name: "tag", widget: "string"}      
+      - { label: "Address", name: "website", widget: "string" }
       - { label: "Website", name: "website", widget: "string", required: false }
-      - { label: "Opening Hours", name: "openingHours", widget: "number", required: false }      
+      - { label: "Phone", name: "phone", widget: "string", required: false }
+      - { label: "PDF", name: "pdf", widget: "file", required: false }
+      - label: "Delivery Hours"
+        name: "deliveryHours"
+        widget: "list"
+        required: false
+        field: {label: "Day", name: "tag", widget: "datetime"}    
         
