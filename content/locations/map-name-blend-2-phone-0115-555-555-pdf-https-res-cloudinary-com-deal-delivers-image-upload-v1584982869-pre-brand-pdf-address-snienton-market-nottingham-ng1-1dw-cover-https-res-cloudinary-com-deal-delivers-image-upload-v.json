@@ -1,0 +1,19 @@
+{
+  "name": "Blend 2",
+  "phone": "0115 555 555",
+  "pdf": "https://res.cloudinary.com/deal-delivers/image/upload/v1584982869/Pre-Brand.pdf",
+  "address": "Snienton Market, Nottingham NG1 1DW",
+  "cover": "https://res.cloudinary.com/deal-delivers/image/upload/v1539168004/sample.jpg",
+  "tags": [
+    "Coffee",
+    "Cafe",
+    "Food"
+  ],
+  "website": "www.blendnottingham.co.uk",
+  "deliveryHours": [
+    "Monday 10 - 4",
+    "Tuesday 10 - 4",
+    "Wednesday 10 - 3"
+  ],
+  "description": "Blend is a coffee shop down the road from Rob in Nottingham"
+}
