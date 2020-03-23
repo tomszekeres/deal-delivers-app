@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Roosters Piri Piri",
+    "website": "www.roosters.com",
+    "openHoursStart": 13,
+    "id": "roosters-piri"
+  },
+  {
+    "name": "Zap Thai",
+    "website": "www.zapthai.com",
+    "openHoursStart": 10,
+    "id": "zap-thai"
+  }
+]

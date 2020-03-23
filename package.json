@@ -7,16 +7,22 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "contentful": "^7.14.0",
+    "json-concat": "^0.0.1",
     "react": "^16.13.1",
     "react-contentful": "^2.0.5",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "npm-run-all prepare-content -p start:content start:app",
+    "build": "npm-run-all -s prepare-content build:app build:react-snapshot",
+    "start:app": "react-scripts start",
+    "start:content": "chokidar 'content/**/**' -c 'npm run prepare-content'",
+    "build:app": "react-scripts build",
+    "build:react-snapshot": "react-snapshot",
+    "parse-content": "node ./functions/parse-content.js",
+    "prepare-content": "npm-run-all -s parse-content",
+    "test": "react-scripts test"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -32,5 +38,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "chokidar-cli": "^2.1.0",
+    "glob": "^7.1.6",
+    "lodash": "^4.17.15",
+    "npm-run-all": "^4.1.5"
   }
 }
