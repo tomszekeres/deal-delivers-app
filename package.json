@@ -9,7 +9,6 @@
     "contentful": "^7.14.0",
     "json-concat": "^0.0.1",
     "react": "^16.13.1",
-    "react-contentful": "^2.0.5",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
