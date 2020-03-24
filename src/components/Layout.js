@@ -4,7 +4,7 @@ import styled from 'styled-components';
 export const Grid = ({ cols, children, ...rest }) => {
   return (
     <StyledGrid cols={cols}>
-      {children.map(child => <StyledGridCell>{child}</StyledGridCell>)}
+      {children.map((child, i) => <StyledGridCell key={i}>{child}</StyledGridCell>)}
     </StyledGrid>
   )
 }

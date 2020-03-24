@@ -8,10 +8,13 @@ export const Nav = () => {
   return (
     <StyledNav role="navigation">
       <Button path="/">
-        📍 Submit your location
+        📍 List your location
       </Button>
       <Button path="/">
         💸 Donate
+      </Button>
+      <Button path="#stay-informed">
+        🚨 Stay informed
       </Button>
     </StyledNav>
   )

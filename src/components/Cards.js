@@ -1,7 +1,18 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import { MapPin, Clock } from 'react-feather';
+import { MapPin, Clock, AlertCircle } from 'react-feather';
 import { getDeliveryRange } from './Helpers';
+import { useData } from '../context/DataProvider';
+
+export const CalloutCard = ({ children, ...rest }) => {
+  return (
+    <StyledCard base="var(--base)" align="center" {...rest}>
+      <StyledCalloutCardInner>
+        {children}
+      </StyledCalloutCardInner>
+    </StyledCard>
+  )
+}
 
 const LocationCardAccordion = ({ title, children }) => {
   const [isAccordionOpen, setIsAccordionOpen] = useState(false);
@@ -25,10 +36,11 @@ const LocationCardPropList = ({ children }) => {
   )
 }
 
-export const LocationCard = ({ details, children }) => {
-  const { cover, name, website, phone, file, address, deliveryHours } = details;
+export const LocationCard = ({ details, children, ...rest }) => {
+  const { cover, name, website, phone, file, address, deliveryHours, safetyTips } = details;
+  const { postModalContent } = useData();
   return (
-    <StyledCard>
+    <StyledCard base="#fff" {...rest}>
       <StyledCardImageWrap>
         <img src={cover} alt={name} />
       </StyledCardImageWrap>
@@ -42,6 +54,7 @@ export const LocationCard = ({ details, children }) => {
             {deliveryHours.map(time => <small>{time}</small>)}
           </LocationCardAccordion>
         </li>}
+        {safetyTips && <li onClick={() => postModalContent(safetyTips)}><AlertCircle /><p>Safety tips</p></li>}
       </LocationCardPropList>
       <StyledCardLinks>
         {website && <li><StyledCardLinkItem href={`http://${website}`}>🔗 Go to website</StyledCardLinkItem></li>}
@@ -54,10 +67,10 @@ export const LocationCard = ({ details, children }) => {
 
 const StyledCard = styled.article`
   display:flex;
-  justify-content:flex-start;
-  align-items:flex-start;
+  justify-content:${props => props.align || "flex-start"};
+  align-items:${props => props.align || "flex-start"};
   flex-flow:column nowrap;
-  background-color:#FFF;
+  background-color:${props => props.base || "#FFF"};
   border-radius:0.5rem;
   box-shadow:0 1rem 2rem rgba(0,0,0,0.08);  
   height:100%;
@@ -129,10 +142,16 @@ const StyledCardList = styled.ul`
     justify-content:flex-start;
     align-items:center;
     padding-bottom:var(--spacing-sm);
-    color:var(--text-med);    
+    color:var(--text-med);   
+     
 
     &:last-of-type {
       padding-bottom:0;
+      cursor:pointer;
+
+      &:hover {
+        text-decoration:underline;
+      }
     }
     p {
       flex:1;
@@ -140,7 +159,6 @@ const StyledCardList = styled.ul`
     }
   }
 `
-
 const StyledAccordionWrap = styled.div`
   display:block;
 `
@@ -167,4 +185,18 @@ const StyledAccordionBody = styled.div`
     padding-left:2.5rem;
     color:var(--text-low);
   }
+`
+const StyledCalloutCardInner = styled.div`
+  padding:var(--spacing-md) 0;
+  text-align:center;
+
+  h2 {
+    color:var(--text-high-white);
+  }
+  p {
+    color:var(--text-med-white);
+    max-width:45ch;
+    margin-left:auto;
+    margin-right:auto;
+  }  
 `

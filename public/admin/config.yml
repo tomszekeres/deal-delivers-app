@@ -22,7 +22,7 @@ collections:
     editor:
       preview: false
     folder: content/locations
-    slug: "{{slug}}"
+    slug: "{{month}}-{{day}}-{{name}}"
     create: true # Allow users to create new documents in this collection
     fields:
       - { label: "Name", name: "name", widget: "string" }
@@ -42,4 +42,5 @@ collections:
         widget: "list"
         required: false
         field: {label: "Day & Time", name: "dayTime", widget: "string"}    
+      - { label: "Safety Guides", name: "safetyTips", widget: "string" }
         

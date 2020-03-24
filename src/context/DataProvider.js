@@ -5,6 +5,20 @@ export const DataContext = React.createContext();
 
 const DataProvider = (props) => {
   const [locations, setLocations] = useState([]);
+  const [modalContent, setModalContent] = useState({});
+
+  const postModalContent = (data) => {
+    if (!data) {
+      return
+    }
+    setModalContent({ isOpen: true, data });
+  }
+  const getModalContent = () => {
+    if (modalContent.length < 1) {
+      return
+    }
+    return modalContent
+  }
 
   // Imports from static JSON file
   const getLocations = () => {
@@ -15,8 +29,8 @@ const DataProvider = (props) => {
 
   return (
     <DataContext.Provider value={{
-      locations,
-      getLocations
+      locations, modalContent,
+      getLocations, postModalContent, getModalContent
     }} {...props} />
   )
 }

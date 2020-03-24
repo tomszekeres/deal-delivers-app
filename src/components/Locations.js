@@ -48,7 +48,7 @@ export const LocationList = () => {
               {filteredItems.slice(0, locationLimit).map(location => {
                 const { cover, name, description, tags, address, website, phone, file, deliveryHours } = location
                 return (
-                  <LocationCard details={location}>
+                  <LocationCard key={name} details={location}>
                     <h4>{name}</h4>
                     <small>{tags.map((tag, i) => { return (i + 1) == tags.length ? `${tag}` : `${tag} • ` })}</small>
                     <p>{description}</p>
