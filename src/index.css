@@ -7,7 +7,8 @@
   --bg:#f0f0f0;
   --base:#0B132B;  
   --base-light:rgba(11, 19, 43, 0.05);
-  --primary:#00CCBC;
+  --primary:#FF5630;
+  --secondary:#6554C0;
   
   --text-high:var(--base);
   --text-med:rgba(11, 19, 43, 0.8);
