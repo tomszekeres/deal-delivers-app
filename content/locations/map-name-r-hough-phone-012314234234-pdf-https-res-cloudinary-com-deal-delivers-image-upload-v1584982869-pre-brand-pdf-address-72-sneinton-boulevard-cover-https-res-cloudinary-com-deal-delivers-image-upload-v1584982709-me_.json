@@ -4,16 +4,12 @@
   "phone": "01304 379686",
   "pdf": "",
   "address": "1 St George's Passage, Deal, CT14 6TA",
-  "cover": "https://res.cloudinary.com/deal-delivers/image/upload/v1584982709/me_prof.jpg",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585229072/black-pig-butchers_gx3qde.jpg",
   "tags": [
     "Groceries",
     "Butcher"
   ],
   "website": "www.theblackpigbutchers.com",
-  "deliveryHours": [
-    "Monday 10 – 11",
-    "Tuesday 10 - 13",
-    "Wednesday 11 - 20"
-  ],
+  "deliveryHours": [],
   "description": "For meat deliveries in Deal and the surrounding areas "
 }
