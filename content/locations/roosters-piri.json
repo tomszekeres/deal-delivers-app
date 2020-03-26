@@ -1,20 +1,23 @@
 {
-  "name": "Roosters Piri Piri",
-  "cover": "https://placehold.it/600x600",
-  "description": "A description will go here, telling people about this business in a sentence or two",
+  "safetyTips": "Closed shop for staff safety. Contactless delivery only.",
+  "name": "Peckish Takeaway",
+  "phone": "01304 363736",
+  "address": "14A King Street, Deal, CT14 6HX",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585230540/peckish-delivery_acot5k.jpg",
   "tags": [
-    "Fast Food",
-    "Chicken",
-    "Piri Piri"
+    "Takeaway",
+    "Food"
   ],
-  "address": "Unit 2 Main St Nottingham",
-  "website": "www.roosters.com",
-  "phone": "0115 444 444",
-  "file": "/menu.pdf",
+  "website": "www.peckish-deal.co.uk/",
   "deliveryHours": [
-    "Monday 10:00 - 11:00",
-    "Tuesday 10:00 - 11:00",
-    "Wednesday 10:00 - 11:00",
-    "Thursday 10:00 - 11:00"
-  ]
+    "Monday 16:00 - 20:00",
+    "Tuesday 16:00 - 20:00",
+    "Wednesday 16:00 - 20:00",
+    "Thursday 16:00 - 20:00",
+    "Friday 16:00 - 20:00",
+    "Saturday 16:00 - 20:00",
+    "Sunday 16:00 - 20:00"
+  ],
+  "file": "/menu.pdf",
+  "description": "Delicious rotisserie chicken and all the trimmings delivered to your door for free. Visit our website for the menu and to order or call "
 }
