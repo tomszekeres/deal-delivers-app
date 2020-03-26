@@ -1,19 +1,19 @@
 {
-  "name": "R Hough",
-  "phone": "012314234234",
-  "pdf": "https://res.cloudinary.com/deal-delivers/image/upload/v1584982869/Pre-Brand.pdf",
-  "address": "72 SNEINTON BOULEVARD",
+  "safetyTips": "Contactless deliveries",
+  "name": "The Black Pig Butchers",
+  "phone": "01304 379686",
+  "pdf": "",
+  "address": "1 St George's Passage, Deal, CT14 6TA",
   "cover": "https://res.cloudinary.com/deal-delivers/image/upload/v1584982709/me_prof.jpg",
   "tags": [
-    "Fast Food",
-    "Asian",
-    "Thai"
+    "Groceries",
+    "Butcher"
   ],
-  "website": "www.robhough.com",
+  "website": "www.theblackpigbutchers.com",
   "deliveryHours": [
     "Monday 10 – 11",
     "Tuesday 10 - 13",
     "Wednesday 11 - 20"
   ],
-  "description": "asdasdasdasdasdasdadasdasdasda"
+  "description": "For meat deliveries in Deal and the surrounding areas "
 }
