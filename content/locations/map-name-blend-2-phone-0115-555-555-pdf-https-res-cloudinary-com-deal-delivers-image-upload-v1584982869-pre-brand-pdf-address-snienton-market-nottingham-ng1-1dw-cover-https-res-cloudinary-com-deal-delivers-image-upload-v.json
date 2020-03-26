@@ -1,20 +1,16 @@
 {
-  "name": "Blend 2",
-  "phone": "0115 555 555",
-  "pdf": "https://res.cloudinary.com/deal-delivers/image/upload/v1584982869/Pre-Brand.pdf",
-  "address": "Snienton Market, Nottingham NG1 1DW",
+  "safetyTips": "Deliveries will be left on your doorstep",
+  "name": "Smugglers Records",
+  "phone": "",
+  "pdf": "",
+  "address": "9 King Street, Deal, CT14 6HX",
   "cover": "https://res.cloudinary.com/deal-delivers/image/upload/v1539168004/sample.jpg",
   "tags": [
-    "Coffee",
-    "Cafe",
-    "Food"
+    "Beer",
+    "Booze",
+    "Music"
   ],
-  "website": "www.blendnottingham.co.uk",
-  "deliveryHours": [
-    "Monday 10 - 4",
-    "Tuesday 10 - 4",
-    "Wednesday 10 - 3"
-  ],
-  "safetyTips": "We leave your food outside your door and ring the bell, then wait around to see that you get it",
-  "description": "Blend is a coffee shop down the road from Rob in Nottingham"
+  "website": "www.smugglersrecords.com",
+  "deliveryHours": [],
+  "description": "Independent record label, cafe and shop delivering vinyl records and beers. Visit their website for further information"
 }
