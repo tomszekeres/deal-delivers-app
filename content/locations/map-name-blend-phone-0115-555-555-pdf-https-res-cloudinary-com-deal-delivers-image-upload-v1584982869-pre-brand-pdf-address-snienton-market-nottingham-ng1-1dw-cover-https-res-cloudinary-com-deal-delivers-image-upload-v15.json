@@ -1,19 +1,16 @@
 {
-  "name": "Blend",
-  "phone": "0115 555 555",
-  "pdf": "https://res.cloudinary.com/deal-delivers/image/upload/v1584982869/Pre-Brand.pdf",
-  "address": "Snienton Market, Nottingham NG1 1DW",
+  "safetyTips": "Completely contactless service!",
+  "name": "Bygga Bo",
+  "phone": "07496 993816",
+  "pdf": "",
+  "address": "Deal Market",
   "cover": "https://res.cloudinary.com/deal-delivers/image/upload/v1539168004/sample.jpg",
   "tags": [
-    "Cafe",
-    "Coffee",
-    "Cake"
+    "Food"
   ],
-  "website": "www.blendnottingham.co.uk",
+  "website": "Instagram: @byygabo ",
   "deliveryHours": [
-    "Monday 10 - 18",
-    "Tuesday 10 -18",
-    "Wednesday 10 - 17"
+    "Saturday 9am -11:30am"
   ],
-  "description": "Blend is a coffee shop down the road from Rob in Nottingham"
+  "description": "Delivering all of your favourite Scandi buns direct to your door! Every Saturday morning 09:00-11:30."
 }
