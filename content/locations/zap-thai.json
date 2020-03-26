@@ -1,21 +1,22 @@
 {
-  "name": "Zap Thai",
-  "cover": "https://placehold.it/600x600",
-  "description": "A description will go here, telling people about this business in a sentence or two",
+  "safetyTips": "Currently offering collections, to be collected outside the shop but please do not bring families down. Contactless deliveries preferred.",
+  "name": "The Fryer Tuck Deal",
+  "phone": "01304 364221",
+  "address": "49 College Road, Deal, CT14 6DD",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585231553/the-fryer-tuck_s4jq2q.jpg",
   "tags": [
-    "Fast Food",
-    "Asian",
-    "Thai"
+    "Fish and Chips",
+    "Takeaway"
   ],
-  "address": "Unit 1 Main St Nottingham",
-  "website": "www.zap.com",
-  "phone": "0115 565 565",
-  "file": "",
+  "website": "https://www.facebook.com/FryerTuckDeal",
   "deliveryHours": [
-    "Monday 10:00 - 11:00",
-    "Tuesday 10:00 - 11:00",
-    "Wednesday 10:00 - 11:00",
-    "Thursday 10:00 - 11:00",
-    "Friday 10:00 - 11:00"
-  ]
+    "Monday 17:00 - 20:30",
+    "Tuesday 17:00 - 21:00",
+    "Wednesday 17:00 - 21:00",
+    "Thursday 17:00 - 21:00",
+    "Friday 17:00 - 21:00",
+    "Saturday 17:00 - 21:00"
+  ],
+  "file": "",
+  "description": "Fish and Chips delivery only. 50% for NHS Staff."
 }
