@@ -49,7 +49,7 @@ export const LocationCard = ({ details, children, ...rest }) => {
       </StyledCardBody>
       <LocationCardPropList>
         {address && <li><MapPin /><p>{address}</p></li>}
-        {deliveryHours && <li>
+        {deliveryHours.length > 0 && <li>
           <LocationCardAccordion title={getDeliveryRange(deliveryHours)}>
             {deliveryHours.map(time => <small>{time}</small>)}
           </LocationCardAccordion>
