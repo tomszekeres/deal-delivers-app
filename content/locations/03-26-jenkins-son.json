@@ -1,0 +1,18 @@
+{
+  "safetyTips": "Contactless deliveries on deliveries on Wednesdays, Thursdays and Fridays. Call to order.",
+  "name": "Jenkins & Son",
+  "phone": "01304364613",
+  "address": "118 High Street Deal CT14 6BB",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585248812/10June_Display6_gwaq0v.jpg",
+  "tags": [
+    "Fishmonger",
+    "Frozen Meals"
+  ],
+  "website": "https://www.facebook.com/jenkinsandsonfishandgame",
+  "deliveryHours": [
+    "Wednesday 08:00 - 14:00",
+    "Thursday 08:00 - 14:00",
+    "Friday 08:00 - 14:00"
+  ],
+  "description": "Fishmonger and Poulterers. Home delivery menus for fresh, frozen and heat-and-eat fish soups, bisque, curries and pies on our Facebook page."
+}
