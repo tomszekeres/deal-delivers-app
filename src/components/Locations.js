@@ -5,7 +5,7 @@ import { Grid, Container } from './Layout';
 import fuzzyFilterFactory, { onChangeInputValue } from "react-fuzzy-filter";
 import styled from 'styled-components';
 import { Search } from 'react-feather';
-import { ButtonPrimary } from './Buttons';
+import { ButtonSecondary } from './Buttons';
 import { LoadingSpinner } from './Helpers';
 
 // Fuse
@@ -60,7 +60,7 @@ export const LocationList = () => {
         }
         }
       </FilterResults>
-      {locations.length > locationLimit ? <ButtonPrimary onClick={() => setLocationLimit(locationLimit + 9)}>Load More</ButtonPrimary> : null}
+      {locations.length > locationLimit ? <ButtonSecondary onClick={() => setLocationLimit(locationLimit + 9)}>Load More</ButtonSecondary> : null}
     </Container>
   )
 }

@@ -7,7 +7,7 @@ import { Button } from './Buttons';
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
-      <Button path="/">
+      <Button path="mailto:dealdeliver2020@gmail.com?subject=list+my+location">
         📍 List your location
       </Button>
       <Button path="/">
@@ -24,11 +24,11 @@ export const HeroHeader = ({ search }) => {
   return (
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
-        <h1>dealdelivers.com</h1>
-        <p>Local restaurants, shops & essential services that deliver direct to your door</p>
+        <h1>Deal Delivers</h1>
+        <p>Helping the high-street with local restaurants, shops & essential services that deliver direct to your door</p>
         <LocationSearch />
       </Container>
-    </StyledHeroHeader>
+    </StyledHeroHeader >
   )
 }
 
@@ -65,9 +65,19 @@ const StyledNav = styled.nav`
   flex-flow:row nowrap;
   width:100%;  
   padding:var(--spacing-sm);
+  overflow: auto;
+  white-space: nowrap;
+  
+  a {
+    margin-right:var(--spacing-sm);
+  }
 
   @media(min-width:48rem) {
     justify-content:flex-end;
+
+    a {
+      margin-right:0;
+    }
 
     a {
       margin-left:var(--spacing-xs);

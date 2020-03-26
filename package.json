@@ -8,11 +8,14 @@
     "@testing-library/user-event": "^7.1.2",
     "dayjs": "^1.8.23",
     "json-concat": "^0.0.1",
+    "polished": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-feather": "^2.0.3",
     "react-fuzzy-filter": "^5.0.1",
     "react-scripts": "3.4.1",
+    "react-toastify": "^5.5.0",
+    "react-toasts": "^3.0.6",
     "styled-components": "^5.0.1"
   },
   "scripts": {

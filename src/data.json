@@ -1,106 +1,100 @@
 [
   {
-    "name": "Blend 2",
-    "phone": "0115 555 555",
-    "pdf": "https://res.cloudinary.com/deal-delivers/image/upload/v1584982869/Pre-Brand.pdf",
-    "address": "Snienton Market, Nottingham NG1 1DW",
-    "cover": "https://res.cloudinary.com/deal-delivers/image/upload/v1539168004/sample.jpg",
+    "safetyTips": "Deliveries will be left on your doorstep",
+    "name": "Smugglers Records",
+    "phone": "",
+    "pdf": "",
+    "address": "9 King Street, Deal, CT14 6HX",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585226787/smugglers-records-deal_qc4kdw.jpg",
     "tags": [
-      "Coffee",
-      "Cafe",
-      "Food"
+      "Beer",
+      "Booze",
+      "Music"
     ],
-    "website": "www.blendnottingham.co.uk",
-    "deliveryHours": [
-      "Monday 10 - 4",
-      "Tuesday 10 - 4",
-      "Wednesday 10 - 3"
-    ],
-    "safetyTips": "We leave your food outside your door and ring the bell, then wait around to see that you get it",
-    "description": "Blend is a coffee shop down the road from Rob in Nottingham",
+    "website": "www.smugglersrecords.com",
+    "deliveryHours": [],
+    "description": "Independent record label, cafe and shop delivering vinyl records and beers. Visit their website for further information",
     "id": "map-name-blend-2-phone-0115-555-555-pdf-https-res-cloudinary-com-deal-delivers-image-upload-v1584982869-pre-brand-pdf-address-snienton-market-nottingham-ng1-1dw-cover-https-res-cloudinary-com-deal-delivers-image-upload-v"
   },
   {
-    "name": "Blend",
-    "phone": "0115 555 555",
-    "pdf": "https://res.cloudinary.com/deal-delivers/image/upload/v1584982869/Pre-Brand.pdf",
-    "address": "Snienton Market, Nottingham NG1 1DW",
-    "cover": "https://res.cloudinary.com/deal-delivers/image/upload/v1539168004/sample.jpg",
+    "safetyTips": "Completely contactless service!",
+    "name": "Bygga Bo",
+    "phone": "07496 993816",
+    "pdf": "",
+    "address": "Deal Market",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585228372/bygga-bo-deal-market_fapn63.jpg",
     "tags": [
-      "Cafe",
-      "Coffee",
-      "Cake"
+      "Food",
+      "Groceries"
     ],
-    "website": "www.blendnottingham.co.uk",
+    "website": "Instagram: @byygabo ",
     "deliveryHours": [
-      "Monday 10 - 18",
-      "Tuesday 10 -18",
-      "Wednesday 10 - 17"
+      "Saturday 9am -11:30am"
     ],
-    "description": "Blend is a coffee shop down the road from Rob in Nottingham",
+    "description": "Delivering all of your favourite Scandi buns direct to your door! Every Saturday morning 09:00-11:30.",
     "id": "map-name-blend-phone-0115-555-555-pdf-https-res-cloudinary-com-deal-delivers-image-upload-v1584982869-pre-brand-pdf-address-snienton-market-nottingham-ng1-1dw-cover-https-res-cloudinary-com-deal-delivers-image-upload-v15"
   },
   {
-    "name": "R Hough",
-    "phone": "012314234234",
-    "pdf": "https://res.cloudinary.com/deal-delivers/image/upload/v1584982869/Pre-Brand.pdf",
-    "address": "72 SNEINTON BOULEVARD",
-    "cover": "https://res.cloudinary.com/deal-delivers/image/upload/v1584982709/me_prof.jpg",
+    "safetyTips": "Contactless deliveries",
+    "name": "The Black Pig Butchers",
+    "phone": "01304 379686",
+    "pdf": "",
+    "address": "1 St George's Passage, Deal, CT14 6TA",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585229072/black-pig-butchers_gx3qde.jpg",
     "tags": [
-      "Fast Food",
-      "Asian",
-      "Thai"
+      "Groceries",
+      "Butcher"
     ],
-    "website": "www.robhough.com",
-    "deliveryHours": [
-      "Monday 10 – 11",
-      "Tuesday 10 - 13",
-      "Wednesday 11 - 20"
-    ],
-    "description": "asdasdasdasdasdasdadasdasdasda",
+    "website": "www.theblackpigbutchers.com",
+    "deliveryHours": [],
+    "description": "For meat deliveries in Deal and the surrounding areas. Initially for the most vulnerable.  ",
     "id": "map-name-r-hough-phone-012314234234-pdf-https-res-cloudinary-com-deal-delivers-image-upload-v1584982869-pre-brand-pdf-address-72-sneinton-boulevard-cover-https-res-cloudinary-com-deal-delivers-image-upload-v1584982709-me_"
   },
   {
-    "name": "Roosters Piri Piri",
-    "cover": "https://placehold.it/600x600",
-    "description": "A description will go here, telling people about this business in a sentence or two",
+    "safetyTips": "Closed shop for staff safety. Contactless delivery only.",
+    "name": "Peckish Takeaway",
+    "phone": "01304 363736",
+    "address": "14A King Street, Deal, CT14 6HX",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585230540/peckish-delivery_acot5k.jpg",
     "tags": [
-      "Fast Food",
-      "Chicken",
-      "Piri Piri"
+      "Takeaway",
+      "Food"
     ],
-    "address": "Unit 2 Main St Nottingham",
-    "website": "www.roosters.com",
-    "phone": "0115 444 444",
-    "file": "/menu.pdf",
+    "website": "www.peckish-deal.co.uk/",
     "deliveryHours": [
-      "Monday 10:00 - 11:00",
-      "Tuesday 10:00 - 11:00",
-      "Wednesday 10:00 - 11:00",
-      "Thursday 10:00 - 11:00"
+      "Monday 16:00 - 20:00",
+      "Tuesday 16:00 - 20:00",
+      "Wednesday 16:00 - 20:00",
+      "Thursday 16:00 - 20:00",
+      "Friday 16:00 - 20:00",
+      "Saturday 16:00 - 20:00",
+      "Sunday 16:00 - 20:00"
     ],
+    "file": "",
+    "description": "Delicious rotisserie chicken and all the trimmings delivered to your door for free. Visit our website for the menu and to order or call ",
     "id": "roosters-piri"
   },
   {
-    "name": "Zap Thai",
-    "cover": "https://placehold.it/600x600",
-    "description": "A description will go here, telling people about this business in a sentence or two",
+    "safetyTips": "Currently offering collections, to be collected outside the shop but please do not bring families down. Contactless deliveries preferred.",
+    "name": "The Fryer Tuck Deal",
+    "phone": "01304 364221",
+    "address": "49 College Road, Deal, CT14 6DD",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585231553/the-fryer-tuck_s4jq2q.jpg",
     "tags": [
-      "Fast Food",
-      "Asian",
-      "Thai"
+      "Fish and Chips",
+      "Takeaway"
     ],
-    "address": "Unit 1 Main St Nottingham",
-    "website": "www.zap.com",
-    "phone": "0115 565 565",
-    "file": "",
+    "website": "https://www.facebook.com/FryerTuckDeal",
     "deliveryHours": [
-      "Monday 10:00 - 11:00",
-      "Tuesday 10:00 - 11:00",
-      "Wednesday 10:00 - 11:00",
-      "Thursday 10:00 - 11:00",
-      "Friday 10:00 - 11:00"
+      "Monday 17:00 - 20:30",
+      "Tuesday 17:00 - 21:00",
+      "Wednesday 17:00 - 21:00",
+      "Thursday 17:00 - 21:00",
+      "Friday 17:00 - 21:00",
+      "Saturday 17:00 - 21:00"
     ],
+    "file": "",
+    "description": "Fish and Chips delivery only. 50% for NHS Staff.",
     "id": "zap-thai"
   }
 ]
