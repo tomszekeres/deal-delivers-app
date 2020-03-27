@@ -10,6 +10,13 @@
     "Food"
   ],
   "website": "www.yourlittlegreenshop.com",
-  "deliveryHours": [],
-  "description": "We are providing dried groceries, cooking oils, Sumac, Heatonomy, cleaning products and toiletries. Plus some household essentials. We are taking orders via our website for daily collection from the shop. Local deliveries are made on Thursdays."
+  "deliveryHours": [
+    "Monday 11:00 - 16:00",
+    "Tuesday 11:00 - 16:00",
+    "Wednesday 11:00 - 16:00",
+    "Thursday 11:00 - 16:00",
+    "Friday 11:00 - 16:00",
+    "Saturday 11:00 - 16:00"
+  ],
+  "description": "We are providing dried groceries, cooking oils, Sumac, Heatonomy, cleaning products and toiletries. Plus some household essentials. We are taking orders via our website for daily collection from the shop. Local deliveries are made on Thursdays. Order for collection by 4pm for following day collection."
 }
