@@ -1,18 +1,15 @@
 {
-  "safetyTips": "Contactless deliveries on deliveries on Wednesdays, Thursdays and Fridays. Call to order.",
-  "name": "Jenkins & Son",
-  "phone": "01304364613",
-  "address": "118 High Street Deal CT14 6BB",
-  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585248812/10June_Display6_gwaq0v.jpg",
+  "safetyTips": "orders placed before 4pm will be ready for collection the following day. Orders will be delivered on Thursday.",
+  "name": "Your Little Green Shop",
+  "phone": "",
+  "address": "119 High Street Deal CT14 6BB",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585327866/IMG_4877_dlp1kh.jpg",
   "tags": [
-    "Fishmonger",
-    "Frozen Meals"
+    "Dried Groceries",
+    "Cleaning Products",
+    "Food"
   ],
-  "website": "https://www.facebook.com/jenkinsandsonfishandgame",
-  "deliveryHours": [
-    "Wednesday 08:00 - 14:00",
-    "Thursday 08:00 - 14:00",
-    "Friday 08:00 - 14:00"
-  ],
-  "description": "Fishmonger and Poulterers. Home delivery menus for fresh, frozen and heat-and-eat fish soups, bisque, curries and pies on our Facebook page."
+  "website": "www.yourlittlegreenshop.com",
+  "deliveryHours": [],
+  "description": "We are providing dried groceries, cooking oils, Sumac, Heatonomy, cleaning products and toiletries. Plus some household essentials. We are taking orders via our website for daily collection from the shop. Local deliveries are made on Thursdays."
 }
