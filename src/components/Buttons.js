@@ -55,6 +55,11 @@ const StyledButtonPrimary = styled.button`
   cursor:pointer;
   transition:all .2s ease;
 
+  &.disabled {
+    pointer-events:none;    
+    opacity:0.5;
+  }
+
   &:hover {
     background-color:${darken(0.2, '#FF5630')};
     transition:all .2s ease;

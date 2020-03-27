@@ -5,20 +5,6 @@ import { getDeliveryRange } from './Helpers';
 import { useData } from '../context/DataProvider';
 import { ButtonPrimary } from './Buttons';
 
-
-export const MailchimpForm = (props) => {
-  const form = useRef();
-  return (
-    <StyledForm {...props} ref={form}>
-      <StyledInputWrap>
-        <input type="email" />
-        <ButtonPrimary onClick={() => { form.submit(); }}>Sign up</ButtonPrimary>
-      </StyledInputWrap>
-      <small>You can unsubscribe from these communications at anytime. We won't spam you. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our Privacy Policy.</small>
-    </StyledForm>
-  )
-}
-
 export const CalloutCard = ({ children, ...rest }) => {
   return (
     <StyledCard base="var(--base)" align="center" {...rest}>
@@ -64,7 +50,7 @@ export const LocationCard = ({ details, children, ...rest }) => {
       </StyledCardBody>
       <LocationCardPropList>
         {address && <li><MapPin /><p>{address}</p></li>}
-        {deliveryHours.length > 0 && <li>
+        {deliveryHours && deliveryHours.length > 0 && <li>
           <LocationCardAccordion title={getDeliveryRange(deliveryHours)}>
             {deliveryHours.map(time => <small key={time}>{time}</small>)}
           </LocationCardAccordion>
@@ -216,50 +202,3 @@ const StyledCalloutCardInner = styled.div`
   }  
 `
 
-const StyledForm = styled.form`
-  display:block;
-  margin:0 auto;
-  text-align:center;
-
-  small {
-    max-width:480px;
-    margin:0 auto;
-    color:var(--text-low-white);
-  }
-`
-
-
-const StyledInputWrap = styled.div`
-  position:relative;
-  display:flex;
-  justify-content:flex-start;
-  align-items:center;
-  max-width:420px;  
-  margin:var(--spacing-sm) auto;
-  color:#d8d8d8;
-
-  button {
-    flex:0 0 30%;
-    font-size:1.125rem;
-    line-height:1.25;
-    border-top-left-radius:0;
-    border-bottom-left-radius:0;
-    margin:0;
-  }
-  input {
-    display:block;
-    width:100%;
-    flex:1;
-    padding:var(--spacing-xs);
-    border-radius:0.25rem;
-    border-top-right-radius:0;
-    border-bottom-right-radius:0;
-    background-color:#fff;
-    border:1px solid var(--base-light);
-    box-shadow:0 0.5rem 1rem rgba(0,0,0,0.08);
-    font-size:1rem;
-    line-height:1;
-    font-family:var(--font-stack);
-    color:var(--text-med);
-  }
-`

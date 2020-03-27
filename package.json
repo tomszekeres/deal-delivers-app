@@ -13,6 +13,7 @@
     "react-dom": "^16.13.1",
     "react-feather": "^2.0.3",
     "react-fuzzy-filter": "^5.0.1",
+    "react-mailchimp-subscribe": "^2.1.0",
     "react-scripts": "3.4.1",
     "react-toastify": "^5.5.0",
     "react-toasts": "^3.0.6",
