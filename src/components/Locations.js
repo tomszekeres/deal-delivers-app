@@ -50,7 +50,7 @@ export const LocationList = () => {
                 return (
                   <LocationCard key={name} details={location}>
                     <h4>{name}</h4>
-                    <small>{tags.map((tag, i) => { return (i + 1) == tags.length ? `${tag}` : `${tag} • ` })}</small>
+                    <small>{tags.map((tag, i) => { return (i + 1) == tags.length ? <span key={tag}>{tag}</span> : <span key={tag}>{tag} • </span> })}</small>
                     <p>{description}</p>
                   </LocationCard>
                 )

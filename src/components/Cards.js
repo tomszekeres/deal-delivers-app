@@ -66,7 +66,7 @@ export const LocationCard = ({ details, children, ...rest }) => {
         {address && <li><MapPin /><p>{address}</p></li>}
         {deliveryHours.length > 0 && <li>
           <LocationCardAccordion title={getDeliveryRange(deliveryHours)}>
-            {deliveryHours.map(time => <small>{time}</small>)}
+            {deliveryHours.map(time => <small key={time}>{time}</small>)}
           </LocationCardAccordion>
         </li>}
         {safetyTips && <li onClick={() => postModalContent(safetyTips)}><AlertCircle /><p>Safety tips</p></li>}
