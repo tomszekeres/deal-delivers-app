@@ -69,16 +69,14 @@ const StyledButtonPrimary = styled.button`
 const StyledButtonSecondary = styled.button`
   display:block;
   padding:var(--spacing-xs) var(--spacing-sm);
-  font-size:0.85rem;
+  font-size:1rem;
   text-decoration:none;
   background-color:transparent;
   color:var(--base);
   font-weight:700;
   border-radius:0.25rem;
-  border:2px solid var(--base);
-  box-shadow:0 1px 3px rgba(0,0,0,0.08);
-  margin:var(--spacing-sm) auto;
-  border:none;
+  border:2px solid rgba(11,19,43,0.7);  
+  margin:var(--spacing-sm) auto;  
   text-align:center;
   cursor:pointer;
   transition:all .2s ease;
