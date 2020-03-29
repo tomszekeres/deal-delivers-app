@@ -10,9 +10,6 @@ export const Nav = () => {
       <Button path="mailto:dealdeliver2020@gmail.com?subject=list+my+location">
         📍 List your location
       </Button>
-      <Button path="/">
-        💸 Donate
-      </Button>
       <Button path="#stay-informed">
         🚨 Stay informed
       </Button>
@@ -59,28 +56,25 @@ const StyledNav = styled.nav`
   top:0;
   left:0;
   width:100%;
-  display:flex;
+  display:block;
   justify-content:space-between;
   align-items:center;
   flex-flow:row nowrap;
   width:100%;  
   padding:var(--spacing-sm);
-  overflow: auto;
-  white-space: nowrap;
   
   a {
-    margin-right:var(--spacing-sm);
+    width:100%;
+    margin:0 0 var(--spacing-xs) 0;
   }
 
   @media(min-width:48rem) {
+    display:flex;
     justify-content:flex-end;
 
     a {
-      margin-right:0;
-    }
-
-    a {
-      margin-left:var(--spacing-xs);
+      width:auto;
+      margin:0 0 0 var(--spacing-xs);
     }
   }
 
