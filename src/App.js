@@ -3,7 +3,7 @@ import MailchimpSubscribe from 'react-mailchimp-subscribe';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.min.css';
 
-import { CalloutCard, } from './components/Cards';
+import { CalloutCard, CookieNotice, } from './components/Cards';
 import { Container } from './components/Layout';
 import { HeroHeader, Nav } from './components/Headers';
 import { LoadingSpinner } from './components/Helpers';
@@ -41,6 +41,7 @@ const App = () => {
           />
         </CalloutCard>
         <ToastContainer />
+        <CookieNotice />
       </Container>
     </>
   )
