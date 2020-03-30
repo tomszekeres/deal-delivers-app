@@ -1,13 +1,12 @@
 {
-  "safetyTips": "Contactless deliveries, order and pay online. Deliveries Saturday's online.",
+  "safetyTips": "call for information",
   "name": "La Pinardier",
   "phone": "07572421966",
   "address": "102 High St, Deal, Kent CT14 6EE",
   "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585599294/la_pinardier_deal_b1rzwg.jpg",
   "tags": [
     "Wine",
-    "Booze",
-    "call for information"
+    "Booze"
   ],
   "website": "frogandscot@gmail.com",
   "deliveryHours": [],
