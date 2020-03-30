@@ -29,6 +29,10 @@ export const isURL = (url) => {
   return pattern.test(url);
 }
 
+export const formatPhone = (str) => {
+  return str.replace(/(\d{3})(\d{3})(\d{4})/,'$1 $2 $3'); 
+}
+
 export const isEmail = (str) => {
   return str.indexOf('@') != -1 ? str : false
 }

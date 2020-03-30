@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import styled from 'styled-components';
 import { MapPin, Clock, AlertCircle } from 'react-feather';
-import { getDeliveryRange, isURL, isEmail } from './Helpers';
+import { getDeliveryRange, isURL, isEmail, formatPhone } from './Helpers';
 import { useData } from '../context/DataProvider';
 import { ButtonPrimary } from './Buttons';
 
@@ -60,7 +60,7 @@ export const LocationCard = ({ details, children, ...rest }) => {
       <StyledCardLinks>
         {website && isURL(website) && <li><StyledCardLinkItem href={`${website}`}>🔗 Go to website</StyledCardLinkItem></li>}
         {email && isEmail(email) && <li><StyledCardLinkItem href={`${email}`}>✉️ Email us</StyledCardLinkItem></li>}
-        {phone && <li><StyledCardLinkItem href={`tel://${phone}`}>{`🤙 Call ${phone}`}</StyledCardLinkItem></li>}
+        {phone && <li><StyledCardLinkItem href={`tel://${phone.replace(/\s/g, '')}`}>{`🤙 Call ${formatPhone(phone)}`}</StyledCardLinkItem></li>}
         {file && <li><StyledCardLinkItem href={`/uploads/${file}`}>📃 Download PDF</StyledCardLinkItem></li>}
       </StyledCardLinks>
     </StyledCard>
