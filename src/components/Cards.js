@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import styled from 'styled-components';
 import { MapPin, Clock, AlertCircle } from 'react-feather';
-import { getDeliveryRange } from './Helpers';
+import { getDeliveryRange, isURL, isEmail } from './Helpers';
 import { useData } from '../context/DataProvider';
 import { ButtonPrimary } from './Buttons';
 
@@ -38,7 +38,7 @@ const LocationCardPropList = ({ children }) => {
 }
 
 export const LocationCard = ({ details, children, ...rest }) => {
-  const { cover, name, website, phone, file, address, deliveryHours, safetyTips } = details;
+  const { cover, name, website, phone, file, address, deliveryHours, safetyTips, email } = details;
   const { postModalContent } = useData();
   return (
     <StyledCard base="#fff" {...rest}>
@@ -58,7 +58,8 @@ export const LocationCard = ({ details, children, ...rest }) => {
         {safetyTips && <li onClick={() => postModalContent(safetyTips)}><AlertCircle /><p>Safety tips</p></li>}
       </LocationCardPropList>
       <StyledCardLinks>
-        {website && <li><StyledCardLinkItem href={`${website}`}>🔗 Go to website</StyledCardLinkItem></li>}
+        {website && isURL(website) && <li><StyledCardLinkItem href={`${website}`}>🔗 Go to website</StyledCardLinkItem></li>}
+        {email && isEmail(email) && <li><StyledCardLinkItem href={`${email}`}>✉️ Email us</StyledCardLinkItem></li>}
         {phone && <li><StyledCardLinkItem href={`tel://${phone}`}>{`🤙 Call ${phone}`}</StyledCardLinkItem></li>}
         {file && <li><StyledCardLinkItem href={`/uploads/${file}`}>📃 Download PDF</StyledCardLinkItem></li>}
       </StyledCardLinks>

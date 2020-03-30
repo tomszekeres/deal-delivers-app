@@ -40,6 +40,7 @@ collections:
         field: {label: "Tag", name: "tag", widget: "string"}      
       - { label: "Address", name: "address", widget: "string" }
       - { label: "Website", name: "website", widget: "string", required: false }
+      - { label: "Email", name: "email", widget: "string", required: false }
       - { label: "Phone", name: "phone", widget: "string", required: false }
       - { label: "PDF", name: "pdf", widget: "file", required: false, multiple: false }
       - label: "Delivery Hours"

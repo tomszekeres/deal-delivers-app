@@ -29,7 +29,7 @@
       "Groceries",
       "Cheese & Dairy"
     ],
-    "website": "mike779@hotmail.co.uk",
+    "email": "mike779@hotmail.co.uk",
     "deliveryHours": [
       "Saturday 09:00 - 12:00"
     ],
@@ -88,6 +88,55 @@
     "safetyTips": "Contactless deliveries",
     "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585330366/milaad-tandoori_m1i6tw.jpg",
     "id": "03-27-milaad-tandoori"
+  },
+  {
+    "name": "Real Deal Roasters",
+    "description": " We deliver freshly roasted coffee throughout Kent and beyond.",
+    "tags": [
+      "Coffee",
+      "Groceries"
+    ],
+    "address": "Deal Market",
+    "phone": "07722009166",
+    "safetyTips": "Contactless deliveries",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585511696/9AB1C38A71E841B2AE65D207CFE4AE8E_cxp00v.jpg",
+    "website": "realdealroasters.co.uk",
+    "id": "03-29-real-deal-roasters"
+  },
+  {
+    "name": "The Bicycle Repair Business",
+    "description": " The bicycle repair business is operating on a delivery and contactless collection basis.  Inner tubes, bike pumps and accessories available.",
+    "tags": [
+      "Cycling ",
+      "Bike Repair",
+      "Service"
+    ],
+    "address": "Dea",
+    "phone": "01304365823 / 07543871963",
+    "safetyTips": "Contactless deliveries and collecions",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585512296/bike-repair-deal_vbck6w.jpg",
+    "website": "",
+    "id": "03-29-the-bicycle-repair-business"
+  },
+  {
+    "safetyTips": "No contact deliveries",
+    "name": "Sumac Levantine Cuisine ",
+    "phone": "07967849050",
+    "pdf": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585563101/sumac-deliveries_xp2pnm.jpg",
+    "address": "Deal Market",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585563195/sumac-deal-deliveries_lsoiu2.jpg",
+    "tags": [
+      "Takeaway",
+      "Lunch",
+      "Groceries"
+    ],
+    "website": "https://www.facebook.com/sumaclevantine/",
+    "deliveryHours": [
+      "Monday 9:00 - 16:00",
+      "Tuesday 9:00 - 16:00"
+    ],
+    "description": "Offering items that can enhance home cooking, our sauces and cheese. Plus fresh food and items that can be frozen. Check Facebook or Instagram for weekly menu. Orders taken Monday and Tuesday for Thursday or Friday delivery.",
+    "id": "03-30-sumac-levantine-cuisine"
   },
   {
     "safetyTips": "Deliveries will be left on your doorstep",

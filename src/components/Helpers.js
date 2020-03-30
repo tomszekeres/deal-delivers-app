@@ -18,6 +18,21 @@ export const getDeliveryRange = (hours) => {
   return `${getDay(firstDateTime)} – ${getDay(lastDateTime)}`
 }
 
+export const isURL = (url) => {  
+  var pattern = new RegExp('^(https?:\\/\\/)?'+ // protocol
+  '((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.?)+[a-z]{2,}|'+ // domain name
+  '((\\d{1,3}\\.){3}\\d{1,3}))'+ // OR ip (v4) address
+  '(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*'+ // port and path
+  '(\\?[;&a-z\\d%_.~+=-]*)?'+ // query string
+  '(\\#[-a-z\\d_]*)?$','i'); // fragment locator
+  
+  return pattern.test(url);
+}
+
+export const isEmail = (str) => {
+  return str.indexOf('@') != -1 ? str : false
+}
+
 const StyledLoadingSpinnerWrap = styled.div`
   position:${props => props.fixed ? 'fixed' : 'static'};
   top:0;
