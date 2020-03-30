@@ -1,0 +1,15 @@
+{
+  "safetyTips": "We are doing no contact deliveries by bike in assigned time frames.",
+  "name": "Popup Cafe",
+  "phone": "07929203019",
+  "address": "16 High Street, Deal, Kent, CT14 7AE",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585597205/sourdough_copy_ci8c5o.jpg",
+  "tags": [
+    "Bread",
+    "Coffee",
+    "Food"
+  ],
+  "website": "https://www.popupcafe.co.uk/",
+  "deliveryHours": [],
+  "description": "We are offering an online shop delivering: sourdough bread, coffee and more. Deliver on Fridays - last orders Wednesday midday"
+}
