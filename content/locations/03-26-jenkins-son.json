@@ -1,18 +1,19 @@
 {
-  "safetyTips": "Contactless deliveries on deliveries on Wednesdays, Thursdays and Fridays. Call to order.",
+  "safetyTips": "Home delivery orders and payment are taken over the phone. If you are self-isolating, then let us know. The shop and kitchen (where our heat-and-eat meals are prepared) both have the top hygiene rating of 5 and we are taking all recommended additional precautions.",
   "name": "Jenkins & Son",
   "phone": "01304364613",
   "address": "118 High Street Deal CT14 6BB",
-  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_300/v1585326689/10June_Display6_gwaq0v_gfs2h0.jpg",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585594488/fresh-fish-from-jenkins_dkpwzr.jpg",
   "tags": [
     "Fishmonger",
     "Frozen Meals"
   ],
-  "website": "https://www.facebook.com/jenkinsandsonfishandgame",
+  "website": "https://www.jenkinsandsonfishandgame.co.uk/",
   "deliveryHours": [
     "Wednesday 08:00 - 14:00",
     "Thursday 08:00 - 14:00",
-    "Friday 08:00 - 14:00"
+    "Friday 08:00 - 14:00",
+    "Saturday 08:00 - 14:00"
   ],
-  "description": "Fishmonger and Poulterers. Home delivery menus for fresh, frozen and heat-and-eat fish soups, bisque, curries and pies on our Facebook page."
+  "description": "Jenkins and Son the fishmongers delivers fish and heat-and-eat dishes free to the local area. Call to order. Free home delivery on Wednesday, Thursday, Friday and Saturday to Deal, Sandwich and Dover area (min order £25) and to Folkestone, Canterbury and Thanet area (min order £50)"
 }
