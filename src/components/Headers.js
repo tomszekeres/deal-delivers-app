@@ -10,8 +10,8 @@ export const Nav = () => {
       <Button path="mailto:dealdeliver2020@gmail.com?subject=list+my+location">
         📍 List your location
       </Button>
-      <Button path="#stay-informed">
-        🚨 Stay informed
+      <Button path="https://www.facebook.com/groups/2607836459447926/">
+        🙌 Follow on Facebook
       </Button>
     </StyledNav>
   )
