@@ -1,17 +1,16 @@
 {
   "safetyTips": "Currently offering collections, to be collected outside the shop but please do not bring families down. Contactless deliveries preferred.",
-  "name": "The Fryer Tuck Deal",
+  "name": "Fryer Tuck Deal",
   "phone": "01304 364221",
   "address": "49 College Road, Deal, CT14 6DD",
   "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585247725/fish-chips_im8tqr.jpg",
   "tags": [
     "Fish and Chips",
-    "Takeaway"
+    "Takeaway",
+    "Food"
   ],
   "website": "https://www.facebook.com/FryerTuckDeal",
   "deliveryHours": [
-    "Monday 17:00 - 20:30",
-    "Tuesday 17:00 - 21:00",
     "Wednesday 17:00 - 21:00",
     "Thursday 17:00 - 21:00",
     "Friday 17:00 - 21:00",
