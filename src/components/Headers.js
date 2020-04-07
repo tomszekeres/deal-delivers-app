@@ -7,7 +7,7 @@ import { Button } from './Buttons';
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
-      <Button path="mailto:dealdeliver2020@gmail.com?subject=list+my+location">
+      <Button path="mailto:hello@dealdelivers.com?subject=List Me">
         📍 List your location
       </Button>
       <Button path="https://www.facebook.com/groups/2607836459447926/">
