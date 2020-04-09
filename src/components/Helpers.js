@@ -18,19 +18,19 @@ export const getDeliveryRange = (hours) => {
   return `${getDay(firstDateTime)} – ${getDay(lastDateTime)}`
 }
 
-export const isURL = (url) => {  
+export const isURL = (url) => {
   var pattern = new RegExp('^(https?:\\/\\/)?'+ // protocol
   '((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.?)+[a-z]{2,}|'+ // domain name
   '((\\d{1,3}\\.){3}\\d{1,3}))'+ // OR ip (v4) address
   '(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*'+ // port and path
   '(\\?[;&a-z\\d%_.~+=-]*)?'+ // query string
   '(\\#[-a-z\\d_]*)?$','i'); // fragment locator
-  
+
   return pattern.test(url);
 }
 
 export const formatPhone = (str) => {
-  return str.replace(/(\d{3})(\d{3})(\d{4})/,'$1 $2 $3'); 
+  return str.replace(/(\d{3})(\d{4})(\d{4})/,'$1 $2 $3'); 
 }
 
 export const isEmail = (str) => {
@@ -47,12 +47,12 @@ const StyledLoadingSpinnerWrap = styled.div`
   background-color:${props => props.fixed ? 'rgba(255,255,255,0.2)' : 'transparent'};
   display:flex;
   justify-content:center;
-  align-items:center;  
+  align-items:center;
 
 `;
 const StyledLoadingSpinner = styled.div`
   --faded-color:var(--base-light);
-  --color:var(--base);  
+  --color:var(--base);
   border-radius: 50%;
   width: ${props => props.size === 'large' ? '10rem' : '3rem'};
   height: ${props => props.size === 'large' ? '10rem' : '3rem'};

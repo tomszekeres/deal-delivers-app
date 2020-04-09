@@ -7,12 +7,12 @@ import { Button } from './Buttons';
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
-      <Button path="mailto:hello@dulwichdelivers.com?subject=List Me">
+      <Button path="https://forms.gle/9MdrFgRAueyUNkSWA">
         📍 List your location
       </Button>
-      // <Button path="https://www.facebook.com/groups/2607836459447926/">
-      //   🙌 Follow on Facebook
-      // </Button>
+       <Button path="mailto:tom@dulwichdelivers.com">
+        📧 Email us
+       </Button>
     </StyledNav>
   )
 }
@@ -22,7 +22,7 @@ export const HeroHeader = ({ search }) => {
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
         <h1>Dulwich Delivers</h1>
-        <p>Helping the high-street with local restaurants, shops & essential services that deliver direct to your door</p>
+        <p>Helping local restaurants, shops & essential services that deliver direct to your door</p>
         <LocationSearch />
       </Container>
     </StyledHeroHeader >
