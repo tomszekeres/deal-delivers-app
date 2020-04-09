@@ -7,12 +7,12 @@ import { Button } from './Buttons';
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
-      <Button path="mailto:hello@dealdelivers.com?subject=List Me">
+      <Button path="mailto:hello@dulwichdelivers.com?subject=List Me">
         📍 List your location
       </Button>
-      <Button path="https://www.facebook.com/groups/2607836459447926/">
-        🙌 Follow on Facebook
-      </Button>
+      // <Button path="https://www.facebook.com/groups/2607836459447926/">
+      //   🙌 Follow on Facebook
+      // </Button>
     </StyledNav>
   )
 }
@@ -21,7 +21,7 @@ export const HeroHeader = ({ search }) => {
   return (
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
-        <h1>Deal Delivers</h1>
+        <h1>Dulwich Delivers</h1>
         <p>Helping the high-street with local restaurants, shops & essential services that deliver direct to your door</p>
         <LocationSearch />
       </Container>
@@ -60,9 +60,9 @@ const StyledNav = styled.nav`
   justify-content:space-between;
   align-items:center;
   flex-flow:row nowrap;
-  width:100%;  
+  width:100%;
   padding:var(--spacing-sm);
-  
+
   a {
     width:100%;
     margin:0 0 var(--spacing-xs) 0;
@@ -78,5 +78,5 @@ const StyledNav = styled.nav`
     }
   }
 
- 
+
 `

@@ -14,7 +14,7 @@ import { CustomForm } from './components/Forms';
 const LocationList = React.lazy(() => import('./components/Locations').then(module => ({ default: module.LocationList })));
 const Modal = React.lazy(() => import('./components/Modal').then(module => ({ default: module.Modal })));
 
-const url = 'https://dealdelivers.us19.list-manage.com/subscribe/post?u=0a023d66dca681efd881a0433&amp;id=b404300e61';
+const url = 'https://dulwichdelivers.us19.list-manage.com/subscribe/post?u=1fb0ba3091b34c633f598e606&amp;id=7359b6efb1';
 
 const App = () => {
   return (
@@ -28,7 +28,7 @@ const App = () => {
       <Container style={{ paddingBottom: '6rem' }}>
         <CalloutCard id="stay-informed">
           <h2>Stay informed</h2>
-          <p>Sign up for occasional emails from Deal Delivers</p>
+          <p>Sign up for occasional emails from Dulwich Delivers</p>
           <MailchimpSubscribe
             url={url}
             render={({ subscribe, status, message }) => (

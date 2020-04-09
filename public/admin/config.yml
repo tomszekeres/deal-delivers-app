@@ -9,8 +9,8 @@ public_folder: "/uploads" # The src attribute for uploaded media will begin with
 media_library:
   name: cloudinary
   config:
-    cloud_name: dealdelivers
-    api_key: 146853338836854
+    cloud_name: dgbpwtij2
+    api_key: 486367118649997
     default_transformations:
       - - fetch_format: auto
           width: 500
@@ -37,7 +37,7 @@ collections:
         name: "tags"
         widget: "list"
         required: false
-        field: {label: "Tag", name: "tag", widget: "string"}      
+        field: {label: "Tag", name: "tag", widget: "string"}
       - { label: "Address", name: "address", widget: "string" }
       - { label: "Website", name: "website", widget: "string", required: false }
       - { label: "Email", name: "email", widget: "string", required: false }
@@ -47,6 +47,5 @@ collections:
         name: "deliveryHours"
         widget: "list"
         required: false
-        field: {label: "Day & Time", name: "dayTime", widget: "string"}    
+        field: {label: "Day & Time", name: "dayTime", widget: "string"}
       - { label: "Safety Guides", name: "safetyTips", widget: "string" }
-        
