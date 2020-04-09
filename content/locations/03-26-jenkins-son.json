@@ -1,19 +1,18 @@
 {
-  "safetyTips": "Home delivery orders and payment are taken over the phone. If you are self-isolating, then let us know. The shop and kitchen (where our heat-and-eat meals are prepared) both have the top hygiene rating of 5 and we are taking all recommended additional precautions.",
-  "name": "Jenkins & Son",
-  "phone": "01304364613",
-  "address": "118 High Street Deal CT14 6BB",
+  "safetyTips": "Please enquire directly about safety measures.",
+  "name": "Dulwich Pantry",
+  "phone": "02077370946",
+  "address": "Unit 4 Stone Trading Estate, Milkwood Rd, London SE24 0JU",
   "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585594488/fresh-fish-from-jenkins_dkpwzr.jpg",
   "tags": [
-    "Fishmonger",
+    "Baked Goods",
     "Frozen Meals"
   ],
-  "website": "https://www.jenkinsandsonfishandgame.co.uk/",
+  "website": "https://www.dulwichpantry.co.uk",
   "deliveryHours": [
-    "Wednesday 08:00 - 14:00",
-    "Thursday 08:00 - 14:00",
-    "Friday 08:00 - 14:00",
-    "Saturday 08:00 - 14:00"
+    "Wednesday 12:00 - 18:00",
+    "Friday 12:00 - 18:00"
   ],
-  "description": "Jenkins and Son the fishmongers delivers fish and heat-and-eat dishes free to the local area. Call to order. Free home delivery on Wednesday, Thursday, Friday and Saturday to Deal, Sandwich and Dover area (min order £25) and to Folkestone, Canterbury and Thanet area (min order £50)"
+  "email": "sales@dulwichpantry.co.uk",
+  "description": "Quality savoury baked products from their kitchen in Herne Hill. Delivering to households in the local communities and around south London. Delivery costs £5."
 }
