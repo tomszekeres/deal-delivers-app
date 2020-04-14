@@ -22,7 +22,7 @@ export const HeroHeader = ({ search }) => {
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
         <h1>Dulwich Delivers</h1>
-        <p>Helping local restaurants, shops & essential services that deliver direct to your door</p>
+        <p>Helping local restaurants, shops & essential services that deliver direct to your door. Search for something e.g. coffee, ice cream:</p>
         <LocationSearch />
       </Container>
     </StyledHeroHeader >

@@ -11,7 +11,7 @@ export const CookieNotice = () => {
   const cookies = new Cookies();
 
   useEffect(() => {
-    const cookie = cookies.get('gaAccept');    
+    const cookie = cookies.get('gaAccept');
     setHasCookie(cookie);
   }, []);
 
@@ -86,7 +86,7 @@ export const LocationCard = ({ details, children, ...rest }) => {
         {safetyTips && <li onClick={() => postModalContent(safetyTips)}><AlertCircle /><p>Safety tips</p></li>}
       </LocationCardPropList>
       <StyledCardLinks>
-        {website && isURL(website) && <li><StyledCardLinkItem href={`${website}`}>🔗 Go to website</StyledCardLinkItem></li>}
+        {website && isURL(website) && <li><StyledCardLinkItem href={`${website}`}>🔗 Order online</StyledCardLinkItem></li>}
         {email && isEmail(email) && <li><StyledCardLinkItem href={`mailto:${email}`}>✉️ Email us</StyledCardLinkItem></li>}
         {phone && <li><StyledCardLinkItem href={`tel://${phone.replace(/\s/g, '')}`}>{`🤙 Call ${formatPhone(phone)}`}</StyledCardLinkItem></li>}
         {file && <li><StyledCardLinkItem href={`/uploads/${file}`}>📃 Download PDF</StyledCardLinkItem></li>}
@@ -102,7 +102,7 @@ const StyledCard = styled.article`
   flex-flow:column nowrap;
   background-color:${props => props.base || "#FFF"};
   border-radius:0.5rem;
-  box-shadow:0 1rem 2rem rgba(0,0,0,0.08);  
+  box-shadow:0 1rem 2rem rgba(0,0,0,0.08);
   height:100%;
 
   > * {
@@ -111,7 +111,7 @@ const StyledCard = styled.article`
   }
 `;
 const StyledCardImageWrap = styled.picture`
-  display:block;  
+  display:block;
   width:100%;
   height:200px;
   overflow:hidden;
@@ -148,19 +148,19 @@ const StyledCardBody = styled.div`
   }
 `
 const StyledCardLinks = styled.ul`
-  display:block;  
+  display:block;
   padding:0 var(--spacing-sm);
 `
 const StyledCardLinkItem = styled.a`
   display:block;
   border-top:1px solid var(--base-light);
-  padding:var(--spacing-xs) 0;  
-  text-decoration:none;  
+  padding:var(--spacing-xs) 0;
+  text-decoration:none;
   transition:all .2s ease;
 
   &:hover {
     text-decoration:underline;
-    transition:all .2s ease;    
+    transition:all .2s ease;
   }
 `
 const StyledCardList = styled.ul`
@@ -172,8 +172,8 @@ const StyledCardList = styled.ul`
     justify-content:flex-start;
     align-items:center;
     padding-bottom:var(--spacing-sm);
-    color:var(--text-med);   
-     
+    color:var(--text-med);
+
 
     &:last-of-type {
       padding-bottom:0;
@@ -195,7 +195,7 @@ const StyledAccordionWrap = styled.div`
 const StyledAccordionTitle = styled.div`
   display:flex;
   justify-content:flex-start;
-  align-items:center;  
+  align-items:center;
   color:var(--text-med);
   cursor:pointer;
   text-decoration:none;
@@ -204,7 +204,7 @@ const StyledAccordionTitle = styled.div`
     text-decoration:underline;
   }
 `
-const StyledAccordionBody = styled.div`  
+const StyledAccordionBody = styled.div`
   will-change:max-height, overflow;
   max-height:${props => props.isOpen ? '200px' : '0'};
   overflow: ${ props => props.isOpen ? 'auto' : 'hidden'};
@@ -228,7 +228,7 @@ const StyledCalloutCardInner = styled.div`
     max-width:45ch;
     margin-left:auto;
     margin-right:auto;
-  }  
+  }
 `
 
 const StyledCookieBarWrap = styled.div`
@@ -242,7 +242,7 @@ const StyledCookieBarWrap = styled.div`
   opacity:${props => props.visible ? 1 : 0};
   pointer-events:${props => props.visible ? 'auto' : 'none'};
 
-  article{    
+  article{
     max-width:780px;
     margin:0 auto;
     padding:var(--spacing-sm);
@@ -265,7 +265,7 @@ const StyledCookieBarInner = styled.div`
   justify-content:flex-start;
   align-items:center;
   padding:var(--spacing-sm) 0;
-  margin:0;  
+  margin:0;
 
   p {
     color:var(--text-high-white);

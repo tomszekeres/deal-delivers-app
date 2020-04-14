@@ -9,8 +9,13 @@
   "address": "147 Lordship Ln, East Dulwich SE22 8HX ",
   "website": "https://www.ubereats.com/gb/london/food-delivery/oddonos-east-dulwich/qs6FtnQoR_u068RWFxxZqQ",
   "deliveryHours": [
-    "Monday - Friday 11:00 - 23:00",
-    "Saturday - Sunday 09:30 - 23:00"
+    "Monday 11:00 - 23:00",
+    "Tuesday 11:00 - 23:00",
+    "Wednesday 11:00 - 23:00",
+    "Thursday 11:00 - 23:00",
+    "Friday 11:00 - 23:00",
+    "Saturday 09:30 - 00:00",
+    "Sunday 09:30 - 23:00"
   ],
   "safetyTips": "Oddono's has a FHRS rating of 5 out of 5."
 }
