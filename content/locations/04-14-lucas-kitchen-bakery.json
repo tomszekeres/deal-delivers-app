@@ -1,0 +1,17 @@
+{
+  "name": "Luca's Kitchen & Bakery",
+  "description": "Minimum order for delivery £25 - deliveries before 3pm will be delivered the following day, within a 3 mile radius. Orders can only be made by Facebook Messenger - include your full address and phone number, and they will call you back and take payment over the phone.",
+  "address": "35 North Cross Road, East Dulwich SE22 9ET",
+  "website": "https://m.me/LucasKitchenAndBakery",
+  "tags": [
+    "Baked Goods",
+    "Bread",
+    "Fruit & Veg",
+    "Cakes",
+    "Groceries",
+    "Gelato"
+  ],
+  "pdf": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1586881616/lucas_hwnglj.pdf",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1586881765/69880177_2378577545745182_3214286570081222656_o_u1jnju.jpg",
+  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking."
+}
