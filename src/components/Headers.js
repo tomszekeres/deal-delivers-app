@@ -23,7 +23,7 @@ export const HeroHeader = ({ search }) => {
       <Container>
         <h1>Dulwich Delivers</h1>
         <p>Helping local restaurants, shops & essential services that deliver direct to your door.</p>
-        <p>Try searching what you're looking for e.g. coffee, ice cream:</p>
+        <p>Try searching what you're looking for e.g. bread, coffee, ice cream, beer, prescriptions:</p>
         <LocationSearch />
       </Container>
     </StyledHeroHeader >
