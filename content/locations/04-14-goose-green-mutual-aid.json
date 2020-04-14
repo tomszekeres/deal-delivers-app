@@ -1,0 +1,24 @@
+{
+  "safetyTips": "Volunteers will not enter anyone’s home, they will leave deliveries of food or medicine outside the front door. Where possible, there will be one volunteer per household. ",
+  "name": "Goose Green Mutual Aid",
+  "address": "Goose Green Ward, SE22",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1586886931/Screenshot_2020-04-14_at_18.55.00_xos4tw.png",
+  "tags": [
+    "Mutual Aid",
+    "Prescriptions",
+    "Dog Walking",
+    "Errands"
+  ],
+  "website": "http://goosegreenmutualaid.co.uk/ask-for-help/",
+  "deliveryHours": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "email": "goosegrncovid19@gmail.com",
+  "description": "Are you unable to leave your home because of coronavirus? We are a group of East Dulwich residents from the Goose Green ward volunteering to help out in our community during this time of crisis. Need someone to run errands for you? Walk your dog? Pick up your prescription? Get in touch, today."
+}
