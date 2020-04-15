@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Items are being delivered on a Next Day Service by DHL who are following all necessary precautions to protect their drivers and customers.",
+  "name": "The Dulwich Trader",
+  "phone": "02087613457",
+  "address": "9-11 Croxted Road, West Dulwich, SE21 8SZ",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1586991263/DulwichTrader_01_ypngk1.jpg",
+  "tags": [
+    "Gifts",
+    "Clothing",
+    "Homeware"
+  ],
+  "website": "https://www.rigbyandmac.com/",
+  "deliveryHours": [
+    "Monday 09.00 - 18.00",
+    "Tuesday 09.00 - 18.00",
+    "Wednesday 09.00 - 18.00",
+    "Thursday 09.00 - 18.00",
+    "Friday 09.00 - 18.00"
+  ],
+  "email": "dan.rigby@rigbyandmac.com",
+  "description": "The Dulwich Trader offers a wide range of beautiful modern country furniture, garden furniture, homewares, gifts, jewellery, women's fashion, candles, diffusers and hand-care products. The Dulwich Trader stocks a full range of Annie Sloan Chalk Paints and accessories if you are longing to reinvent any tired looking furniture around the house. Much stock is on our website but please do call if there is anything not there that you require."
+}
