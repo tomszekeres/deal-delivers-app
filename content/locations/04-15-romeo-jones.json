@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Non-contact home delivery",
+  "name": "Romeo Jones",
+  "phone": "02082991900",
+  "address": "80 Dulwich Village, SE21 7AJ",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1586983618/RomeoJones_01_ftvx9y.jpg",
+  "tags": [
+    "Vegetables",
+    "Fruit",
+    "Veg Box",
+    "Bread",
+    "Eggs",
+    "Cheese"
+  ],
+  "website": "http://www.romeojones.co.uk",
+  "deliveryHours": [
+    "Thursday 8.30-5.00"
+  ],
+  "email": "patrick@romeojones.co.uk",
+  "description": "Usually a dog-friendly cafe and deli that specialises in top quality British produce.  Now offering home delivery of fine fruit & veg, handmade bread & free range eggs."
+}

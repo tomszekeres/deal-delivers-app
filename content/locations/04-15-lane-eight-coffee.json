@@ -1,0 +1,17 @@
+{
+  "safetyTips": "Hand-sanitiser, only George in the shop packaging and delivering.",
+  "name": "Lane Eight Coffee",
+  "address": "11 Melbourne Grove, East Dulwich SE22 8RG",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1586984832/LaneEight_02_landscape_zg6wlo.jpg",
+  "tags": [
+    "Coffee"
+  ],
+  "website": "http://laneeightcoffee.com",
+  "deliveryHours": [
+    "Monday 09.00 - 19.00",
+    "Wednesday 09.00 - 19.00",
+    "Friday 09.00 - 19.00"
+  ],
+  "email": "hello@laneeightcoffee.com",
+  "description": "Neighbourhood speciality coffee shop in East Dulwich delivering premium coffee beans and cold brew coffees to your door by bike 🚲 "
+}
