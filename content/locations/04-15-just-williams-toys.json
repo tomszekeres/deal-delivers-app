@@ -1,0 +1,13 @@
+{
+  "safetyTips": "Everyone's safety is of the utmost importance, therefore we only have one person permitted into our shop and that same person is delivering the goods. The shop is deep-cleaned at the start and end of every day, with all surfaces and points of contact sanitised after use.  We use fresh sterilised latex gloves and antibac wipes to pack and deliver your orders, with no-contact deliveries as standard.",
+  "name": "Just Williams Toys",
+  "phone": "07909 994331",
+  "address": "106 Grove Lane, East Dulwich London SE22 8DR",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1586957417/JustWilliams_01_idmgqf.jpg",
+  "website": "https://www.justwilliamstoys.com/",
+  "deliveryHours": [
+    "Mondays, Wednesdays, Fridays (afternoon from 4pm)"
+  ],
+  "email": "info@justwilliamstoys.com",
+  "description": "Traditional toy shop, selling a variety of games, puzzles (including adult puzzles), science kits, construction toys, arts and crafts, outdoor toys (including paddling pools), Sylvanian Families, Brio, to name just a few. Our website has just a small selection of items, much more in-store. Please do get in touch by email.  Free local delivery over £10.  "
+}
