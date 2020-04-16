@@ -1,9 +1,11 @@
 {
-  "name" : "Clarkshaws Brewery",
-  "address" : "497 Ridgway Rd, Brixton SW9 7AH",
-  "website" : "https://www.clarkshaws.co.uk/shop.html",
-  "description" : "We have plenty of bottles, cases and 5L minikegs of beer available. Delivery is free for nearby postcode - select 'Collect from Brewery' when checking out. Minimum order £15.",
-  "safetyTips" : "Please get in contact with this supplier to find out safety measures they are taking.",
-  "tags" : ["Beer"],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+  "name": "Clarkshaws Brewery",
+  "address": "497 Ridgway Rd, Brixton SW9 7AH",
+  "website": "https://www.clarkshaws.co.uk/shop.html",
+  "description": "We have plenty of bottles, cases and 5L minikegs of beer available. Delivery is free for nearby postcode - select 'Collect from Brewery' when checking out. Minimum order £15.",
+  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
+  "tags": [
+    "Beer"
+  ],
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587074098/ClarkshawsBrewery_01_nbsnhh.jpg"
 }
