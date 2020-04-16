@@ -1,0 +1,10 @@
+{
+  "name" : "BOnA Pizzeria",
+  "address" : "25 Dartmouth Road, SE23 3HN",
+  "website" : "http://www.bona-sourdough.co.uk/",
+  "description" : "Sourdough pizzas, delivered.",
+  "safetyTips" : "Please enquire directly about safety measures.",
+  "phone" : "02086164620",
+  "tags" : ["Restaurant"],
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+}

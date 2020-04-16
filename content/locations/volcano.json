@@ -1,0 +1,11 @@
+{
+  "name" : "Volcano Coffee",
+  "address" : "1 Beadman Street, SE27 0DN",
+  "website" : "https://volcano-coffee-works-grocery.squarespace.com/",
+  "description" : "Fresh bread, milk, coffee, eggs, fruit and veg. Next-day delivery if ordered before 3pm. 10% off with code TENTENTEN. Currently covering SW2, SE21, SE24, SE27. Also offering donation deliveries to Kings College Hospital (100% of donations go to the hardworking staff).",
+  "safetyTips" : "Please enquire directly about safety measures.",
+  "phone" : "07855742212",
+  "email" : "cafe@volcanocoffeeworks.com",
+  "tags" : ["Coffee"],
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+}
