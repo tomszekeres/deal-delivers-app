@@ -1,0 +1,10 @@
+    {
+      "name" : "Tiger Vines",
+      "address" : "47 Avondale Rise, Peckham SE15 4AJ",
+      "website" : "https://www.tigervines.com/essentials-selection-box",
+      "description" : "High-end wine cases, usually reserved for the likes of The Fat Duck, Hawksmoor, Trishna and other leading restaurants and hotels. Delivery twice per week, more deliveries available depending on demand. £5 delivery.",
+      "safetyTips" : "All wines and boxes will be wiped down, vehicles regularly internally wiped down and thoroughly cleaned externally. Wines left on your door. We’ll text you when arriving to ensure you’re home. If you have any specific requests we will be in touch with you directly.",
+      "email" : "info@tigervines.com",
+      "tags": ["Wine"],
+      "cover" : "https://dl.airtable.com/.attachments/bf38f8195fc7c3489dd7525a2b3c436c/60873a94/tiger-vines.jpeg"
+    }
