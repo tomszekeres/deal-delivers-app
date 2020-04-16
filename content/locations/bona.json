@@ -1,10 +1,13 @@
 {
-  "name" : "BOnA Pizzeria",
-  "address" : "25 Dartmouth Road, SE23 3HN",
-  "website" : "https://deliveroo.co.uk/menu/london/forest-hill/bona-sourdough-pizza",
-  "description" : "BOnA Sourdough pizza’s are a unique find – wood-fired, Neapolitan style sourdough bases that are soft, airy and slightly chewy. They’re very light thanks to the extra long maturation of the dough – so indulge guilt-free with gourmet, traditional toppings.",
-  "safetyTips" : "Please enquire directly about safety measures.",
-  "phone" : "02086164620",
-  "tags" : ["Restaurant","Pizza"],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+  "name": "BOnA Pizzeria",
+  "address": "25 Dartmouth Road, SE23 3HN",
+  "website": "https://deliveroo.co.uk/menu/london/forest-hill/bona-sourdough-pizza",
+  "description": "BOnA Sourdough pizza’s are a unique find – wood-fired, Neapolitan style sourdough bases that are soft, airy and slightly chewy. They’re very light thanks to the extra long maturation of the dough – so indulge guilt-free with gourmet, traditional toppings.",
+  "safetyTips": "Please enquire directly about safety measures.",
+  "phone": "02086164620",
+  "tags": [
+    "Restaurant",
+    "Pizza"
+  ],
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587072878/BOnaPizza_01_jsrda7.jpg"
 }
