@@ -1,10 +1,13 @@
 {
-  "name" : "Chubby Dumpling",
-  "address" : "Peckham",
-  "website" : "https://www.instagram.com/chubbydumplinguk",
-  "description" : "We are a dad & daughter business - Joe (my dad) and Chantel (me). We hand-make dumplings using recipes passed all the way down our family tree. Email for orders and we will send you a menu.  Selling frozen dumplings for cooking at home. Delivery costs £3.",
-  "safetyTips" : "Please get in contact with this supplier to find out safety measures they are taking.",
-  "email" : "chubbydumplinguk@gmail.com",
-  "tags" : ["Restaurant","Dumplings"],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+  "name": "Chubby Dumpling",
+  "address": "Peckham",
+  "website": "https://www.instagram.com/chubbydumplinguk",
+  "description": "We are a dad & daughter business - Joe (my dad) and Chantel (me). We hand-make dumplings using recipes passed all the way down our family tree. Email for orders and we will send you a menu.  Selling frozen dumplings for cooking at home. Delivery costs £3.",
+  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
+  "email": "chubbydumplinguk@gmail.com",
+  "tags": [
+    "Restaurant",
+    "Dumplings"
+  ],
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587073592/ChubbyDumpling_01_bizm7k.jpg"
 }
