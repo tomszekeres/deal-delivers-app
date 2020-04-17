@@ -1,11 +1,24 @@
 {
-  "name" : "Volcano Coffee",
-  "address" : "1 Beadman Street, SE27 0DN",
-  "website" : "https://volcano-coffee-works-grocery.squarespace.com/",
-  "description" : "Fresh bread, milk, coffee, eggs, fruit and veg. Next-day delivery if ordered before 3pm. 10% off with code TENTENTEN. Currently covering SW2, SE21, SE24, SE27. Also offering donation deliveries to Kings College Hospital (100% of donations go to the hardworking staff).",
-  "safetyTips" : "Please enquire directly about safety measures.",
-  "phone" : "07855742212",
-  "email" : "cafe@volcanocoffeeworks.com",
-  "tags" : ["Coffee", "Breakfast"],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+  "safetyTips": "We are respecting social distancing and do not come in contact with our customers when dropping orders at your door. Produce is handled with the utmost care during the packaging process. We are following strict Government COVID-19 guidelines: Ensuring workers are free from symptoms (we record body temperatures on arrival at the premises), Regular and thorough hand washing, Wearing PPE (disposable gloves), Keeping packaging clean and using anti-bacterial cleaning agents, Maintaining a 2 metre distance at all times, Ensuring transportation vehicles are cleaned and sanitised.",
+  "name": "Volcano Coffee Works Grocery",
+  "phone": "07855742212",
+  "address": "1 Beadman Street, SE27 0DN",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587136747/EVvAd5sXsAkNMWq_amddxu.jpg",
+  "tags": [
+    "Coffee",
+    "Breakfast",
+    "Fruit & Veg",
+    "Donate",
+    "Support the NHS"
+  ],
+  "website": "https://volcano-coffee-works-grocery.squarespace.com/",
+  "deliveryHours": [
+    "Monday  11:00-16:00",
+    "Tuesday  11:00-16:00",
+    "Wednesday  11:00-16:00",
+    "Thursday  11:00-16:00",
+    "Friday  11:00-16:00"
+  ],
+  "email": "cafe@volcanocoffeeworks.com",
+  "description": "Fresh bread, milk, coffee, eggs, fruit and veg. Next-day delivery if ordered before 3pm. 10% off with code TENTENTEN. Currently covering SW2, SE21, SE24, SE27. Also offering donation deliveries to Kings College Hospital (100% of donations go to the hardworking staff)."
 }
