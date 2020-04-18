@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Gloves, sanitiser, safe distance",
+  "name": "Lila's",
+  "phone": "02086936674",
+  "address": "117 Lordship Lane, East Dulwich, SE22 8HU",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587246077/Lila_s_01_zbmt79.jpg",
+  "tags": [
+    "Gifts",
+    "Jewellry",
+    "Repairs"
+  ],
+  "website": "www.lilasjewels.co.uk",
+  "deliveryHours": [
+    "Monday 11.00-17.00",
+    "Tuesday 11.00-17.00",
+    "Wednesday 11.00-17.00",
+    "Thursday 11.00-17.00",
+    "Friday 11.00-17.00",
+    "Saturday 11.00-17.00"
+  ],
+  "email": "office@lilasjewels.co.uk",
+  "description": "Fine jewellery, jewellery repairs, jewellery valuations. Bespoke designs. We’re delivering website purchases, we pick up and deliver items for repairs"
+}
