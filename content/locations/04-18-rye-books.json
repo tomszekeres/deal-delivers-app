@@ -1,0 +1,16 @@
+{
+  "safetyTips": "Non-contact Delivery",
+  "name": "Rye Books",
+  "address": "47 North Cross Road, East Dulwich, SE22 9ET",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587243371/RyeBooks_01_t9cly2.jpg",
+  "tags": [
+    "Books",
+    "Children"
+  ],
+  "website": "www.ryebooks.co.uk",
+  "deliveryHours": [
+    "Friday 10.00-18.00"
+  ],
+  "email": "shop@ryebooks.co.uk",
+  "description": "Local independent bookshop, delivering anything from Fiction to Children's Activity books. All available through our website, as well as any special orders via email. "
+}
