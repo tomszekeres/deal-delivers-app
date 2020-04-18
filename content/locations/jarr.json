@@ -1,10 +1,12 @@
 {
-  "name" : "Jarr Market",
-  "address" : "19 Half Moon Lane, Herne Hill, SE24 9JU",
-  "website" : "https://www.facebook.com/jarrmarket/",
-  "description" : "Deliver within a 2 mile radius, with a 1kg limit on any one product and a 5kg limit total for deliveries. See Facebook page for how to order.",
-  "safetyTips" : "Please get in contact with this supplier to find out safety measures they are taking.",
-  "email" : "jess@jarrmarket.co.uk",
-  "tags" : ["Food"],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+  "name": "Jarr Market",
+  "address": "19 Half Moon Lane, Herne Hill, SE24 9JU",
+  "website": "https://www.facebook.com/jarrmarket/",
+  "description": "Deliver within a 2 mile radius, with a 1kg limit on any one product and a 5kg limit total for deliveries. See Facebook page for how to order.",
+  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
+  "email": "jess@jarrmarket.co.uk",
+  "tags": [
+    "Food"
+  ],
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587224109/Jarr_Market_diffzh.jpg"
 }
