@@ -1,8 +1,20 @@
 {
-  "name" : "Herne Hill Books",
-  "address" : "289 Railton Rd, Herne Hill SE24 0LY",
-  "phone" : "02079981673",
-  "email" : "shop@hernehillbooks.com",
-  "tags" : ["Books"],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+  "safetyTips": "Books are posted directly from the wholesalers warehouse.",
+  "name": "Herne Hill Books",
+  "phone": "020 7998 1673",
+  "address": "289 Railton Rd, Herne Hill SE24 0LY",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png",
+  "tags": [
+    "Books"
+  ],
+  "deliveryHours": [
+    "Tuesday 10:00 - 18:00",
+    "Wednesday 10:00 - 18:00",
+    "Thursday 10:00 - 18:00",
+    "Friday 10:00 - 18:00",
+    "Saturday 10:00 - 17:00",
+    "Sunday 10:00 - 16:00"
+  ],
+  "email": "shop@hernehillbooks.com",
+  "description": "An independent bookshop in Herne Hill, they are working from home to take orders by phone or email. Orders are posted out directly from their wholesalers warehouse for a small delivery charge."
 }
