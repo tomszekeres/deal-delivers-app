@@ -4,6 +4,15 @@
   "phone": "07812246235",
   "address": " Brockley Hall Road, London, SE4 ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587243110/RockMyBowl_01_o6s26m.jpg",
+  "tags": [
+    "Food",
+    "Vegetarian",
+    "Bread",
+    "Baked Goods",
+    "Zero Waste",
+    "Restaurant",
+    "Dairy"
+  ],
   "website": "",
   "deliveryHours": [
     "Monday 07.00-08.30",
