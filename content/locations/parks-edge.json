@@ -1,9 +1,20 @@
 {
-  "name" : "Park's Edge",
-  "address" : "49, 51 Norwood Rd, Dulwich SE24 9AA",
-  "website" : "https://parksedgebarandkitchen.com/",
-  "description" : "Bar and kitchen.",
-  "safetyTips" : "Please enquire directly about safety measures.",
-  "tags" : ["Restaurant"],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+  "safetyTips": "Please enquire directly about safety measures.",
+  "name": "Park's Edge",
+  "phone": "020 8671 0306",
+  "address": "49, 51 Norwood Rd, Dulwich SE24 9AA",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png",
+  "tags": [
+    "Restaurant"
+  ],
+  "website": "https://parksedgebarandkitchen.com/",
+  "deliveryHours": [
+    "Tuesday 12:00 - 15:00 and 17:00 - 21:30",
+    "Wednesday 12:00 - 15:00 and 17:00 - 21:30",
+    "Thursday 12:00 - 15:00 and 17:00 - 21:30",
+    "Friday 12:00 - 15:00 and 17:00 - 21:30",
+    "Saturday 12:00 - 16:00 and 17:00 - 21:30",
+    "Sunday 13:00 - 17:00"
+  ],
+  "description": "Bar and kitchen offering wine and modern British food for contactless collection and delivery."
 }
