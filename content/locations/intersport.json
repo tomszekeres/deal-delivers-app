@@ -1,12 +1,24 @@
 {
-  "name" : "Intersport Herne Hill",
-  "address" : "Intersport, 134a Herne Hill, SE24 9QL",
-  "website" : "https://hernehillintersport.co.uk/",
-  "description" : "Local independent sports shop - Expert Advice in Fitness, Training, Running and Tennis.\n\nCurrent popular items delivered - \n\nHome fitness equipment including Dumbbells, Kettlebells, Weight sets, TRX trainer, Resistance bands and skipping ropes. \n\nRunning shoes - Nike, Brooks, Asics, and On Running. \n\nGarden games - Table tennis nets, bats, and balls. Badminton sets, Footballs, Rugby balls, netballs, cricket bats and windballs. \n\n",
-  "safetyTips" : "Payment over the phone, can deliver to doorstep, or can park outside and we can put products straight into boot of car.",
-  "phone" : "02073265050",
-  "email" : "intersporthh@gmail.com",
-  "tags" : ["Clothing"],
-  "deliveryHours" : ["Monday 09:00 - 16:00","Tuesday 09:00 - 16:00","Wednesday 09:00 - 16:00","Thursday 09:00 - 16:00","Friday 09:00 - 16:00","Saturday 09:00 - 16:00","Sunday 09:00 - 16:00"],
-  "cover" : "https://dl.airtable.com/.attachments/801f340c7fbee395916349fe35ebfdf4/c38b2f8f/B7B1305B-5A70-4A63-820D-3E475892C6AE.jpeg"
+  "safetyTips": "Payment over the phone, can deliver to doorstep, or can park outside and we can put products straight into boot of car.",
+  "name": "Intersport Herne Hill",
+  "phone": "02073265050",
+  "address": "Intersport, 134a Herne Hill, SE24 9QL",
+  "cover": "https://dl.airtable.com/.attachments/801f340c7fbee395916349fe35ebfdf4/c38b2f8f/B7B1305B-5A70-4A63-820D-3E475892C6AE.jpeg",
+  "tags": [
+    "Sport",
+    "Running Shoes",
+    "Gym Equipment"
+  ],
+  "website": "https://hernehillintersport.co.uk/",
+  "deliveryHours": [
+    "Monday 09:00 - 16:00",
+    "Tuesday 09:00 - 16:00",
+    "Wednesday 09:00 - 16:00",
+    "Thursday 09:00 - 16:00",
+    "Friday 09:00 - 16:00",
+    "Saturday 09:00 - 16:00",
+    "Sunday 09:00 - 16:00"
+  ],
+  "email": "intersporthh@gmail.com",
+  "description": "Local, independent sports franchise - expert advice in fitness, training, running and tennis. Current popular items delivered: home fitness equipment including Dumbbells, Kettlebells, Weight sets, TRX trainer, Resistance bands and skipping ropes. Running shoes - Nike, Brooks, Asics, and On Running. Garden games - Table tennis nets, bats, and balls. Badminton sets, Footballs, Rugby balls, netballs, cricket bats and windballs."
 }
