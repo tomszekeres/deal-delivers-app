@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Social distancing measures, regular hand washing, gloves and hand sanitiser used after every delivery.",
+  "name": "Brick Brewery",
+  "phone": "",
+  "address": "Blenheim Grove, Peckham SE15 4QL",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587224926/Brick_Brewery_-_Peckham_Deptford-89_ii9inw.jpg",
+  "tags": [
+    "Craft Beer",
+    "Sour Beers"
+  ],
+  "website": "https://shop.brickbrewery.co.uk/collections",
+  "deliveryHours": [
+    "Monday 12:00 - 17:00",
+    "Tuesday 12:00 - 17:00",
+    "Wednesday 12:00 - 17:00",
+    "Thursday 12:00 - 17:00",
+    "Friday 12:00 - 17:00",
+    "Saturday 12:00 - 17:00"
+  ],
+  "email": "shop@brickbrewery.co.uk",
+  "description": "Independent, family run brewery based in Peckham and Deptford."
+}
