@@ -1,11 +1,14 @@
 {
-  "safetyTips": "* Takeaway Rules *  Collections will ONLY be from the side window facing Forest Hill station. Front door will be locked and there will be NO access to the restaurant/toilets. Cards ONLY, strictly no cash accepted. Own keep cups or boxes for collection will NOT be accepted. We are making sure the highest care is taken by all staff, from the kitchen to all environments we use throughout the day and the packaging of your meals. Therefore be relaxed, enjoy your meals and make the best decision to stay home and stay safe. We hope you understand the reasons for the rules and help us follow them in the best way possible.",
+  "safetyTips": "We are making sure the highest care is taken by all staff, from the kitchen to all environments we use throughout the day and the packaging of your meals. Therefore be relaxed, enjoy your meals and make the best decision to stay home and stay safe. ",
   "name": "Lazy Chef",
   "phone": "02086999454",
   "address": "7-8 The Facade, SE23 3HA",
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587224125/Lazy-Chef0210_qpv0pi.jpg",
   "tags": [
-    "Restaurant"
+    "Restaurant",
+    "Breakfast",
+    "Food",
+    "Coffee"
   ],
   "website": "http://www.lazychefforesthill.com",
   "deliveryHours": [
@@ -17,5 +20,5 @@
     "Saturday \t 08:00 - 16:30",
     "Sunday \t 09:00 - 15:30"
   ],
-  "description": "Breakfast, brunch or lunch. Collection made via phone, picked up from side window facing FOH station. Delivery also available via Uber Eats"
+  "description": "Breakfast, brunch or lunch. Delivery available via Uber Eats"
 }
