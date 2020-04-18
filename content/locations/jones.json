@@ -1,9 +1,12 @@
 {
-  "name" : "Jones",
-  "address" : "1 Dulwich Rd, Herne Hill, SE24 0NT",
-  "website" : "https://jonesthebutcher.me.uk/",
-  "description" : "Delivering to wide range of postcodes on different days. Big range of meat boxes. Supplier to restaurants now delivering to publc.",
-  "safetyTips" : "Please enquire directly about safety measures.",
-  "tags" : ["Butchers","Meat"],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+  "name": "Jones",
+  "address": "1 Dulwich Rd, Herne Hill, SE24 0NT",
+  "website": "https://jonesthebutcher.me.uk/",
+  "description": "Delivering to wide range of postcodes on different days. Big range of meat boxes. Supplier to restaurants now delivering to publc.",
+  "safetyTips": "Please enquire directly about safety measures.",
+  "tags": [
+    "Butchers",
+    "Meat"
+  ],
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587224117/jones-the-butcher-shop_os7ehe.png"
 }
