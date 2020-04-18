@@ -1,9 +1,11 @@
 {
-  "name" : "Rose's Fish Bar",
-  "address" : "46 East Dulwich Road, SE22 9AX",
-  "website" : "https://www.ubereats.com/gb/london/food-delivery/roses-fish-bar/3AF6vsm4TdOAQEc8xF2b0w",
-  "description" : "Classic Fish & Chip shop, located between East Dulwich and Peckham.",
-  "safetyTips" : "Please get in contact with this supplier to find out safety measures they are taking.",
-  "tags" : ["Fish & Chips"],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+  "name": "Rose's Fish Bar",
+  "address": "46 East Dulwich Road, SE22 9AX",
+  "website": "https://www.ubereats.com/gb/london/food-delivery/roses-fish-bar/3AF6vsm4TdOAQEc8xF2b0w",
+  "description": "Classic Fish & Chip shop, located between East Dulwich and Peckham.",
+  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
+  "tags": [
+    "Fish & Chips"
+  ],
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587252705/RosesFish_01_gfkvqd.jpg"
 }
