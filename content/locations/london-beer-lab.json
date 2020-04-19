@@ -1,11 +1,13 @@
 {
-  "name" : "London Beer Lab",
-  "address" : "Nursery Road, Brixton SW9 8BP",
-  "website" : "https://www.londonbeerlab.com/category-s/243.htm",
-  "description" : "Free delivery. Cans, bottles and draft beer on collection.",
-  "safetyTips" : "Please enquire directly about safety measures.",
-  "phone" : "02083966517",
-  "email" : "info@londonbeerlab.com",
-  "tags" : ["Beer"],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+  "safetyTips": "Please enquire directly about safety measures.",
+  "name": "London Beer Lab",
+  "phone": "02083966517",
+  "address": "Nursery Road, Brixton SW9 8BP",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587292586/London_Beer_attsvu.jpg",
+  "tags": [
+    "Beer"
+  ],
+  "website": "https://www.londonbeerlab.com/",
+  "email": "info@londonbeerlab.com",
+  "description": "Free delivery. Cans, bottles and draft beer on collection."
 }
