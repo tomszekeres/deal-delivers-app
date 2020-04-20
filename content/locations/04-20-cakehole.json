@@ -1,0 +1,21 @@
+{
+  "safetyTips": "We wear gloves and mask, deliver to your doorstep then knock or call and step back.",
+  "name": "Cakehole",
+  "phone": "07572 457 925",
+  "address": "Unit 17 Angerstein Business Park, 1 Horn Lane, SE10 0RT",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587404570/Cakehole_iv45t9.jpg",
+  "tags": [
+    "Brownies",
+    "Food",
+    "Baked goods",
+    "Gifts"
+  ],
+  "website": "https://www.cakeholelondon.com/",
+  "deliveryHours": [
+    "Monday 07:00 - 16:00",
+    "Thursday 07:00 - 16:00",
+    "Friday 07:00 - 16:00"
+  ],
+  "email": "lara@cakeholelondon.com",
+  "description": "From their kitchen in Gipsy Hill, Cakehole delivery a wide variety of homemade cakes and doughnuts throughout London."
+}
