@@ -1,0 +1,15 @@
+{
+  "safetyTips": "Deliveries are dropped off on your doorstep. Please get in contact with this supplier to find out any further safety measures they are taking.",
+  "name": "Mothership Beer Ltd",
+  "address": "Carden Road, London, SE15",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587404002/Mothership_fur6wu.jpg",
+  "tags": [
+    "Beer"
+  ],
+  "website": "https://www.mothership.beer/",
+  "deliveryHours": [
+    "Monday - Friday"
+  ],
+  "email": "zoe@mothership.beer",
+  "description": "Mothership is an all-female brewery that champions women in craft beer. Through dedicated craft, hard graft and a love of big flavour, we create innovative (and award-winning) seasonal beer collections with a social conscience.  Currently delivering: – American Pale Ale 330ml can 5.5% – Unfiltered Lager 330ml can 4.5% – Codebreaker NEDIPA 440ml can 8% – Tropical Chocolate Porter 440ml can 4.5%"
+}
