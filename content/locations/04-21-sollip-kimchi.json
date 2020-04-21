@@ -1,0 +1,22 @@
+{
+  "name": "Sollip Kimchi",
+  "description": "We are a Korean family restaurant (@sollip_restaurant) who are making healthy traditional kimchi delivered locally to your door. Sharing our love of Korean food to help support your immune system and surprise your taste buds to fiery tangy flavours. Delivering to Dulwich and surrounding areas !   50p discount for any jar returned to us at the next delivery. Place order through the below email.",
+  "tags": [
+    "Food",
+    "Restaurant",
+    "Zero Waste"
+  ],
+  "address": "8 Melior St, Bermondsey, London SE1 3QP",
+  "email": "npratusis@gmail.com",
+  "safetyTips": "All our jars are sanitised and delivered with respect to social distancing measures.",
+  "deliveryHours": [
+    "Monday 12.00-20.00",
+    "Tuesday 12.00-20.00",
+    "Wednesday 12.00-20.00",
+    "Thursday 12.00-20.00",
+    "Friday 12.00-20.00",
+    "Saturday 12.00-20.00",
+    "Sunday 12.00-20.00"
+  ],
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587481571/SollipKimchi_01_ed9yzv.png"
+}
