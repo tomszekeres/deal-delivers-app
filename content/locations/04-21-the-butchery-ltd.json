@@ -1,0 +1,26 @@
+{
+  "safetyTips": "NO CONTACT ON ALL DELIVERIES. We have enhanced our already very rigorous hygiene regulations and continue to revise them with updates to government guidelines. ",
+  "name": "The Butchery Ltd",
+  "address": "49 London Rd, Forest Hill, SE23 3TY ",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587480817/TheButchery_01_qyfcde.jpg",
+  "tags": [
+    "Bread",
+    "Butchers",
+    "Meat",
+    "Food",
+    "Deli",
+    "Dairy",
+    "Hot Sauce"
+  ],
+  "website": "https://thebutcheryltd.myshopify.com/",
+  "deliveryHours": [
+    "Monday 11.00-20.00",
+    "Tuesday 11.00-20.00",
+    "Wednesday 11.00-20.00",
+    "Thursday 11.00-20.00",
+    "Friday 11.00-20.00",
+    "Saturday 11.00-20.00"
+  ],
+  "email": "orders@thebutcheryltd.com",
+  "description": "Native-breed, English meats from small farmers, butchered with respect. Now offering online orders for next-day home delivery. Chilled Home delivery is free for orders over £50 otherwsise £3.50 and carried out by ourselves or chilled cycle couriers.  You can also order a small of selection of basics like butter, eggs, sourdough and condiments. Delivery is currently available to SE22, SE21, SE23, SE26 amongst others, full up-to-date list on our shop site."
+}
