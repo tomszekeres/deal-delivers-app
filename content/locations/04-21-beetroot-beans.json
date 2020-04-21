@@ -1,0 +1,21 @@
+{
+  "safetyTips": "No-contact delivery available. All products are handled in closed environment, we do carry all the safety procedures ",
+  "name": "Beetroot&Beans",
+  "phone": "07943504181",
+  "address": "57A Dartmouth Road, Forest Hill, SE23 3HN ",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587478555/BeetrootBeans_01_ycs2qq.jpg",
+  "tags": [
+    "Veg Box",
+    "Food",
+    "Zero Waste",
+    "Vegetables",
+    "Fruit"
+  ],
+  "deliveryHours": [
+    "Tuesday 10.00-19.00",
+    "Wednesday 10.00-19.00",
+    "Friday 10.00-19.00"
+  ],
+  "email": "beetrootandbeans@gmail.com",
+  "description": "Fresh fruits and vegetables. Run by the same people behind popular Forest Hill outpost Aga's Little Deli, this lovely, meat-free zero-waste shop has everything from fresh veg and fruit to beans and nuts to alternative milks, as well as gorgeously packaged condiments."
+}
