@@ -1,21 +1,21 @@
 {
-  "name": "Perkier Naturally",
-  "description": "I produce <a href="https://www.perkiernaturally.co.uk">beautiful artisanal botanical soaps</a> in small batches, using quality ingredients from sustainable sources. No minimum spend, no delivery charges. The soaps come beautifully packaged in slim, letterbox friendly boxes (recycled and recyclable). Please note, my website’s payment system is not running yet, so each product is showing as out of stock to avoid attempted payments through the website. Please use my website as a reference point, and email me to place your order and arrange delivery.",
+  "safetyTips": "All received stocked is wiped down and not handled for a further 72 hours.",
+  "name": "Winoship",
+  "phone": "07983440060",
+  "address": "13 Hambledon Place, Dulwich SE21 7EY",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587503989/2F19CE02-EC7E-43B2-BD80-5121E23FEE41_l27bqe.jpg",
   "tags": [
-    "Skincare",
-    "Zero Waste",
-    "Zero Carbon Delivery",
-    "Gifts",
-    "Homeware",
-    "Soap"
+    "Wine"
   ],
-  "address": "Hindmans Road, East Dulwich SE22 9NG",
-  "email": "perkiernaturally@gmail.com",
-  "safetyTips": "All orders are packed with care, taking the appropriate safety and hygiene precautions. Delivery is by bicycle as part of my hours exercise for the day. All boxes are letterbox friendly, meaning no contact is required during delivery, and our soaps will arrive as a beautiful surprise on your doormat!",
+  "website": "https://www.winoship.com",
   "deliveryHours": [
-    "Monday 10.00-18.00",
-    "Wednesday 10.00-18.00",
-    "Friday 10.00-18.00"
+    "Monday 10:00 - 18:00",
+    "Tuesday 10:00 - 18:00",
+    "Wednesday 10:00 - 18:00",
+    "Thursday 10:00 - 18:00",
+    "Friday 10:00 - 18:00",
+    "Saturday 10:00 - 18:00"
   ],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587479904/PerkierNaturally_01_ka6ecx.jpg"
+  "email": "dean.totham@winoship.com",
+  "description": "We are South African wine specialists supporting private clients' portfolio and hosted events. However, in these unprecedented times and to support my lovely Dulwichians and surrounding neighbouring boroughs, and their wishes for quality, affordable, drink-now wines we’ve worked closely with importers to provide something for everyone. Free delivery to neighbouring postcode districts, see COVID-19 sale t&cs for more."
 }
