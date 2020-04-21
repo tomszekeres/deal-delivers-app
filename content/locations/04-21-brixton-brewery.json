@@ -1,0 +1,21 @@
+{
+  "safetyTips": "All of our staff are wearing protective gloves to pack orders and we are offering non-contact delivery.",
+  "name": "Brixton Brewery",
+  "phone": "020 3609 8880",
+  "address": "Dylan Road, London SE24 0HL",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587480252/BrixtonBrewery_01_xxl9ju.jpg",
+  "tags": [
+    "Beer"
+  ],
+  "website": "https://www.brixtonbrewery.com/shop/",
+  "deliveryHours": [
+    "Monday 09:00 - 18:30",
+    "Tuesday 09:00 - 18:30",
+    "Wednesday 09:00 - 18:30",
+    "Thursday 09:00 - 18:30",
+    "Friday 09:00 - 18:30",
+    "Saturday 09:00 - 18:30"
+  ],
+  "email": "info@brixtonbrewery.com",
+  "description": "Brixton Brewery makes delicious craft beer in the heart of one of London’s most colourful neighbourhoods. Our full range is available for delivery via our webshop."
+}
