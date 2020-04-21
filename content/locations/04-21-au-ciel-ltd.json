@@ -1,0 +1,20 @@
+{
+  "safetyTips": "5-star food hygiene certificate. All orders are prepared in our 'closed-to-the-public' premises, which is sanitised and cleaned throughout the day. Our 3-person team continuously practises hygiene and social distancing measures at all times. ",
+  "name": "Au Ciel Ltd",
+  "phone": "07746154055",
+  "address": "1a Calton Avenue, Dulwich, SE21 7DE",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587479448/Au_Ciel_03_ofp144.jpg",
+  "tags": [
+    "Baked Goods",
+    "Bread",
+    "Coffee"
+  ],
+  "deliveryHours": [
+    "Thursday 09.00-15.00",
+    "Friday 09.00-15.00",
+    "Saturday 09.00-15.00",
+    "Sunday 09.00-15.00"
+  ],
+  "email": "aucielcafe@gmail.com",
+  "description": "Au how we adore French cuisine, offering freshly baked baguettes, croissants, pain-au-chocolat's and more. Please enquire via email for prices and offers. Email us for orders, request a menu to see what else we can offer; coffee beans, sandwiches, boxes of chocolate, cake slices/whole (vegan, gluten free options available), birthday cakes(*) and small patisseries. We will do our best get back to you as quickly as possible.(*) For general enquiries, please call us on the number below. Minimum order £10. "
+}
