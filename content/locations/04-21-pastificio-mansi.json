@@ -1,0 +1,17 @@
+{
+  "safetyTips": "We deliver by refrigerated van.",
+  "name": "Pastificio Mansi",
+  "phone": "07891942757",
+  "address": "Tyrrell Trading Estate, East Dulwich, SE22 9NA",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587481222/PastificioMansi_01_kd7h7c.jpg",
+  "tags": [
+    "Food",
+    "Pasta"
+  ],
+  "website": "https://pastamansi.com/find",
+  "deliveryHours": [
+    "Friday 15.00-19.00"
+  ],
+  "email": "hello@pastificiomansi.com",
+  "description": "We are a small Fresh Pasta company based in East Dulwich. We are specialised in Ravioli with vegetarian and meat fillings, long pasta like pappardelle, and spaghetti and short pasta like Caserecce and gnocchetti sardi. We do home delivery in SE london and our minimum order is £15."
+}
