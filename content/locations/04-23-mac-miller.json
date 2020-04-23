@@ -1,0 +1,20 @@
+{
+  "safetyTips": "Working alone. Please enquire directly about other safety measures.",
+  "name": "mac&miller",
+  "phone": "07817426667",
+  "address": "61 Northcross Road SE22 9ET",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587637277/60a4e307_rwuyrs.jpg",
+  "tags": [
+    "Clothing"
+  ],
+  "website": "www.blakefiftytwo.co.uk",
+  "deliveryHours": [
+    "Monday 12:00-15:00",
+    "Tuesday 12:00-15:00",
+    "Wednesday 12:00-15:00",
+    "Thursday 12:00-15:00",
+    "Friday 12:00-15:00"
+  ],
+  "email": "katie@macandmiller.co.uk",
+  "description": "High street and boutique brands hand picked for you"
+}
