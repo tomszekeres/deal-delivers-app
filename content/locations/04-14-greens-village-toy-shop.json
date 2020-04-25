@@ -1,5 +1,5 @@
 {
-  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
+  "safetyTips": "We have only one person in the shop processing the deliveries whilst adhering to strict hygiene protocols. Deliveries are contactless as standard.",
   "name": "Green's",
   "phone": "02086935938",
   "address": "31 Dulwich Village SE21 7BN",
@@ -11,6 +11,14 @@
     "Bicycle Delivery"
   ],
   "website": "https://www.greensdulwichvillage.com/",
+  "deliveryHours": [
+    "Monday 13:00 - 18:00",
+    "Tuesday 13:00 - 18:00",
+    "Wednesday 13:00 - 18:00",
+    "Thursday 13:00 - 18:00",
+    "Friday 13:00 - 18:00",
+    "Saturday 13:00 - 18:00"
+  ],
   "email": "greensdulwichvillage@gmail.com",
-  "description": "Art Stationers and Village Toyshop. Toys, art supplies, and stationery, for both kids and adults. Free, same-day local delivery when you spend £10+, 3-mile radius. Payment via phone only."
+  "description": "Art Stationers and Village Toyshop. Toys, art supplies, and stationery, for both kids and adults. Free, same-day local delivery when you spend £10+, 3-mile radius. Payment via phone only. Local deliveries by bicycle, wider affield by car."
 }
