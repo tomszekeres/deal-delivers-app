@@ -16,7 +16,11 @@
   ],
   "website": "",
   "deliveryHours": [
-    "Monday - Friday"
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
   ],
   "email": "anetocafe@gmail.com",
   "description": "Café turned deli offering veg boxes, deli items, and bread. £25 minimum spend, delivering Monday-Friday. Email to ask us what we have in stock."

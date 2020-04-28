@@ -10,7 +10,13 @@
   ],
   "website": "https://www.ubereats.com/gb/london/food-delivery/agua-na-boca/IDlnvNYXQjCk5uq3tvcCYw",
   "deliveryHours": [
-    "Monday - Sunday"
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
   ],
   "email": "agailey@hotmail.com",
   "description": "Normally a tricycle food stall selling mouthwatering Brazilian delicacies, they are now on Uber Eats."

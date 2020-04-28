@@ -1,13 +1,24 @@
 {
-  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
+  "safetyTips": "The idea behind offering a door to door delivery service for our local community is to compliment the government's advice to stay home. Our brewery on Harcourt Road in Brockley is small and in an effort to keep social interactions to an absolute minimum, we're operating on a skeleton crew and not permitting any access to the public.",
   "name": "Brockley Brewery",
   "phone": "07814 584 338",
-  "address": "31 Harcourt Road, Brockley, London SE4 2AJ",
+  "address": "31 Harcourt Road, Brockley SE4 2AJ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587400959/2606_Brockley-Brewery-building_uwyy2e.jpg",
   "tags": [
-    "Beer"
+    "Beer",
+    "Delivery by bike",
+    "Same-day delivery"
+  ],
+  "deliveryHours": [
+    "Monday 12:00 - 19:00",
+    "Tuesday 12:00 - 19:00",
+    "Wednesday 12:00 - 19:00",
+    "Thursday 12:00 - 19:00",
+    "Friday 12:00 - 19:00",
+    "Saturday 12:00 - 19:00",
+    "Sunday 12:00 - 19:00"
   ],
   "website": "https://www.brockleybrewery.co.uk/online-shop",
   "email": "hello@brockleybrewery.co.uk",
-  "description": "This local brewery is offering delivery of cans, bottles, mini-kegs, and 2 and 4 pint cartons. Their contact-less beer delivery is available to all residents of Southwark and Lewisham for just £2. Order by 11:00 for delivery by 19:00 the same day."
+  "description": "This local brewery is offering delivery of cans, bottles, mini-kegs, and 2 and 4 pint cartons. Their contactless beer delivery is available to all residents of Southwark and Lewisham for just £2 - or for free if you live in SE4, 12 or 13. Order by 11:00 for delivery by 19:00 the same day."
 }
