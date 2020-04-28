@@ -1,0 +1,31 @@
+{
+  "safetyTips": "Drivers equipped with PPE and providing contact-free deliveries. ",
+  "name": "High Quality Food London ",
+  "phone": "07584418500",
+  "pdf": "",
+  "address": "Blucher Road, Camberwell SE5 0LH",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588110330/92526531_dqkqyx.jpg",
+  "tags": [
+    "Meat",
+    "Fish",
+    "Coffee",
+    "Ice Cream",
+    "Olive Oil",
+    "Flour",
+    "Pulses",
+    "Deli",
+    "Olive Oil",
+    "Cheese"
+  ],
+  "website": "https://elfood.co.uk/",
+  "deliveryHours": [
+    "Monday 08:00 - 15:00",
+    "Tuesday 08:00 - 15:00",
+    "Wednesday 08:00 - 15:00",
+    "Thursday 08:00 - 15:00",
+    "Friday 08:00 - 15:00",
+    "Saturday 08:00 - 15:00"
+  ],
+  "email": "m.preite@elfood.co.uk",
+  "description": "We are a South London based supplier of fine food. We have been working with restaurants and caterers around the city for the last 5 years, providing small-batch, high-quality ingredients. We stock all essential cupboard items: pasta and rice, flours, cereal, nuts, pulses, oil and condiments as well as fresh meat and fish, fruit & vegetables. We offer 2 days delivery and our drivers are equipped to deliver to those isolating. Delivery is free above £80. "
+}
