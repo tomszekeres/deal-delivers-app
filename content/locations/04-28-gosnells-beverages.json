@@ -1,0 +1,17 @@
+{
+  "safetyTips": "We deliver ourselves and can leave on doorstep if required.",
+  "name": "Gosnells Beverages",
+  "address": "Print Village, Peckham SE15 4PU",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588108434/bd39bf01_pr2ajg.jpg",
+  "tags": [
+    "Mead",
+    "Alcohol"
+  ],
+  "website": "https://www.gosnells.co.uk/",
+  "deliveryHours": [
+    "Wednesday 10:00 - 18:00",
+    "Friday 10:00 - 18:00"
+  ],
+  "email": "contact@gosnells.co.uk",
+  "description": "Peckham's very own meadery, making the finest mead, from the best honeys. We are currently offering free local delivery, just use ILIVELOCAL at checkout."
+}
