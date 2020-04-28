@@ -1,0 +1,21 @@
+{
+  "safetyTips": "All customer facing staff will be wearing masks.",
+  "name": "148 Chinese",
+  "phone": "02086938266",
+  "address": "148 Lordship Lane, East Dulwich SE22 8HB",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588110109/Chinese_20writing_20-_20traditional_tr2mxr.webp",
+  "tags": [
+    "Chinese",
+    "Takeaway",
+    "Dumplings"
+  ],
+  "website": "https://www.148chinese.com/take-away-menu",
+  "deliveryHours": [
+    "Thursday 17:30 - 21:00",
+    "Friday 17:30 - 21:00",
+    "Saturday 17:30 - 21:00",
+    "Sunday 17:30 - 21:00"
+  ],
+  "email": "manager@148chinese.com",
+  "description": "Chinese food, delivered to your door. All our deliveries by car so your food is hot on arrival."
+}
