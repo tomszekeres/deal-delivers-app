@@ -1,0 +1,16 @@
+{
+  "name": "Forest",
+  "description": "Plants and products that bring nature into your home. 10% off your first order with code \"FORESTFIRST\".",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588107786/25496d92_uhbnrt.jpg",
+  "tags": [
+    "House Plants",
+    "Gifts",
+    "Pots",
+    "Homewares",
+    "Candles"
+  ],
+  "address": "43 Lordship Lane, East Dulwich SE22 8EW",
+  "website": "https://forest.london/collections/all",
+  "email": " hello@forest.london",
+  "safetyTips": "Please get in contact with Forest for more information."
+}
