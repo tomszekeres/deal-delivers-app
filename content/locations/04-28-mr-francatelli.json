@@ -1,0 +1,27 @@
+{
+  "safetyTips": "We will leave the food on the doorstep, ring the doorbell and step back 2 metres.",
+  "name": "Mr Francatelli",
+  "phone": "02034905037",
+  "address": "280 Norwood Road, London SE27 9AJ",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588109215/71030069_498718927359736_820174904828624896_o.jpg_jsgxhz.jpg",
+  "tags": [
+    "Bread",
+    "Meat",
+    "Coffee",
+    "Restaurant",
+    "Milk",
+    "Pasta",
+    "Groceries"
+  ],
+  "website": "http://www.mrfrancatelli.co.uk/shop/",
+  "deliveryHours": [
+    "Monday 10:00 - 17:00",
+    "Tuesday 10:00 - 17:00",
+    "Wednesday 10:00 - 17:00",
+    "Thursday 10:00 - 17:00",
+    "Friday 10:00 - 17:00",
+    "Saturday 10:00 - 17:00"
+  ],
+  "email": "mrfrancatelli@gmail.com",
+  "description": "Traditional Italian cafe in West Norwood."
+}
