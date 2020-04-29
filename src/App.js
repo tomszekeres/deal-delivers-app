@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 import MailchimpSubscribe from 'react-mailchimp-subscribe';
 import { ToastContainer } from 'react-toastify';
-import ReactGA from 'react-ga';
 import 'react-toastify/dist/ReactToastify.min.css';
 
 import { CalloutCard, CookieNotice, } from './components/Cards';
