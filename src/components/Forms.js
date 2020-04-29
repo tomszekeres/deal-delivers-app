@@ -42,7 +42,7 @@ export const CustomForm = ({ status, message, onValidated }) => {
         <input ref={email} value={inputVal} type="email" placeholder="Your email address" onChange={(e) => { setInputVal(e.target.value) }} required />
         <ButtonPrimary onClick={submit} className={inputVal.length < 1 && 'disabled'}>{buttonLabel}</ButtonPrimary>
       </StyledInputWrap>
-      <small>You can unsubscribe from these communications at anytime. We won't spam you. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our Privacy Policy.</small>
+      <small>You can unsubscribe from the email at anytime. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our Privacy Policy.</small>
     </StyledForm>
   )
 }
@@ -66,7 +66,7 @@ const StyledInputWrap = styled.div`
   display:block;
   justify-content:flex-start;
   align-items:center;
-  max-width:420px;  
+  max-width:420px;
   margin:var(--spacing-sm) auto;
   color:#d8d8d8;
 
@@ -74,14 +74,14 @@ const StyledInputWrap = styled.div`
     display:flex;
   }
 
-  button {    
+  button {
     width:100%;
     font-size:1.125rem;
-    line-height:1.25;        
+    line-height:1.25;
     margin:var(--spacing-xs) 0;
 
-    @media(min-width:48rem){   
-      flex:0 0 30%;   
+    @media(min-width:48rem){
+      flex:0 0 30%;
       width:auto;
       border-top-left-radius:0;
       border-bottom-left-radius:0;
@@ -93,7 +93,7 @@ const StyledInputWrap = styled.div`
     width:100%;
     flex:1;
     padding:var(--spacing-xs);
-    border-radius:0.25rem;    
+    border-radius:0.25rem;
     background-color:#fff;
     border:1px solid var(--base-light);
     box-shadow:0 0.5rem 1rem rgba(0,0,0,0.08);
@@ -112,8 +112,8 @@ const StyledInputWrap = styled.div`
       border-bottom-right-radius:0;
 
       &:focus {
-        outline:0;      
-        box-shadow:0 0.5rem 1rem rgba(0,0,0,0.08);  
+        outline:0;
+        box-shadow:0 0.5rem 1rem rgba(0,0,0,0.08);
       }
     }
   }
