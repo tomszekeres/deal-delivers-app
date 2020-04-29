@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Hands-free delivery via Royal Mail. And of course, we use our own sanitiser.",
+  "name": "Hande",
+  "phone": "07761261471",
+  "address": "Unit 2B, Copeland Park, SE15 3SN",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588159370/handesingle50_1_1296x_pwtuek.webp",
+  "tags": [
+    "Hand Sanitiser",
+    "Social Enterprise",
+    "Skincare",
+    "Organic"
+  ],
+  "website": "http://www.hande.co.uk",
+  "deliveryHours": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "email": "info@hande.co.uk",
+  "description": "Hande is manufacturing hand sanitiser to tackle the on-going pandemic. We return profits to supply the most vulnerable, including care homes and food banks."
+}
