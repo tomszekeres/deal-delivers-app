@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Prepaid and delivered to the doorstep.",
+  "name": "The Knackered Chef",
+  "phone": "07500 903 965",
+  "address": "194b Dunstans Road, East Dulwich SE22 0ES",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588180682/72817738_v9auao.jpg",
+  "tags": [
+    "Pies",
+    "Baked Goods"
+  ],
+  "deliveryHours": [
+    "Monday 12:00 - 20:00",
+    "Tuesday 12:00 - 20:00",
+    "Wednesday 12:00 - 20:00",
+    "Thursday 12:00 - 20:00",
+    "Friday 12:00 - 20:00",
+    "Saturday 12:00 - 20:00",
+    "Sunday 12:00 - 20:00"
+  ],
+  "email": "julian@julianmellor.co.uk",
+  "description": "Artisan, handmade pies. All ingredients are sourced from independent businesses in and around East Dulwich."
+}
