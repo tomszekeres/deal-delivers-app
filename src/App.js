@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import MailchimpSubscribe from 'react-mailchimp-subscribe';
 import { ToastContainer } from 'react-toastify';
+import ReactGA from 'react-ga';
 import 'react-toastify/dist/ReactToastify.min.css';
 
 import { CalloutCard, CookieNotice, } from './components/Cards';
@@ -27,8 +28,8 @@ const App = () => {
       </React.Suspense>
       <Container style={{ paddingBottom: '6rem' }}>
         <CalloutCard id="stay-informed">
-          <h2>Stay informed</h2>
-          <p>Sign up for occasional emails from Dulwich Delivers</p>
+          <h2>Get Updates</h2>
+          <p>Sign up for occasional emails from Dulwich Delivers. We'll tell you about new listings that we've added, and highlight offers and discounts.</p>
           <MailchimpSubscribe
             url={url}
             render={({ subscribe, status, message }) => (
