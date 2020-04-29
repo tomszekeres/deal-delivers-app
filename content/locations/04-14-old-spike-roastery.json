@@ -1,11 +1,12 @@
 {
-  "name": "Old Spike Roastery",
+  "name": "Old Spike Roastery | Coffee",
   "website": "https://oldspikeroastery.com/pages/subscription",
   "email": "hello@oldspikeroastery.com",
   "description": "Our coffee is freshly roasted on a weekly basis at our coffee shop in Peckham. Get it delivered to your door for £8.00 per 200g bag & help tackle homelessness in London.",
   "address": "54 Peckham Rye, London, SE15 4JR",
   "tags": [
     "Coffee",
+    "Social Enterprise",
     "Subscription"
   ],
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1586869121/90715094_2517923128473504_3841289840393977856_o_ssgq90.jpg",
