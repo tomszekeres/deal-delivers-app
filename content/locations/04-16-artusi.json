@@ -1,13 +1,21 @@
 {
-  "name": "Artusi",
-  "address": "161 Bellenden Rd, Peckham, London SE15 4DH",
-  "website": "https://artusi.co.uk/posts/home-deliveries",
-  "description": "One of our favourite Italian restaurants. Delivering anywhere in between the south circular and the river on Tuesdays, Thursdays and Saturdays.",
-  "safetyTips": "Please enquire directly about safety measures.",
+  "safetyTips": "If you live in an apartment block, please come and collect your delivery from the driver at the front door. If you are shielding or in a 'high risk' group please let us know in the delivery instructions.",
+  "name": "Artusi & Marcella",
   "phone": "02033028200",
+  "address": "161 Bellenden Rd, Peckham SE15 4DH",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587482367/Artusi_04_v4emrk.jpg",
   "tags": [
     "Restaurant",
-    "Italian"
+    "Italian",
+    "Pasta"
   ],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587482367/Artusi_04_v4emrk.jpg"
+  "website": "https://artusi.co.uk/posts/home-deliveries",
+  "deliveryHours": [
+    "Tuesday before 5pm",
+    "Wednesday before 5pm",
+    "Thursday before 5pm",
+    "Friday before 5pm",
+    "Saturday before 5pm"
+  ],
+  "description": "Two of our favourite Italian restaurants team up to offer home delivery anywhere in between the south circular and the river. Booking usually open each Thursday for the following week, but sell out fast - they will deliver food to you during the day ready to be put in the oven for dinner that evening."
 }
