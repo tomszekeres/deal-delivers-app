@@ -1,0 +1,27 @@
+{
+  "safetyTips": "We wear masks & gloves when packing & delivering. We offer contactless delivery.",
+  "name": "Rogues London",
+  "address": "Tulse Hill, SE24 9BB",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588242929/6b592e4e_jfomb3.jpg",
+  "tags": [
+    "Veg Box",
+    "Fruit",
+    "Groceries",
+    "Baked Goods",
+    "Bread",
+    "Cheese",
+    "Coffee",
+    "Deli",
+    "Pasta"
+  ],
+  "website": "https://rogueslondon.uk/shop",
+  "deliveryHours": [
+    "Tuesday 11:00 - 18:00",
+    "Wednesday 11:00 - 18:00",
+    "Thursday 11:00 - 18:00",
+    "Friday 11:00 - 18:00",
+    "Saturday 11:00 - 18:00"
+  ],
+  "email": "rogueslondon@gmail.com",
+  "description": "Fruit and Veg, eggs, milk, butter, jam, marmalade, banana bread, homemade sourdough, kombucha, granola, chia & mango pots, and more. Minimum spend of £25. Next day delivery if order placed before 1 pm, Monday to Friday. Orders placed after 1 pm Friday, will be delivered the following Tuesday. No packaging in fruit and veg box, all other containers are recyclable & biodegradable."
+}
