@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Payment done online and drivers are leaving products at the door. ",
+  "name": "H&M Meats",
+  "phone": "02086703201",
+  "address": "120 Norwood High Street, West Norwood, SE27 9NH",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588257600/HandM_o4vg6y.jpg",
+  "tags": [
+    "Butchers",
+    "Meat"
+  ],
+  "website": "http://www.handmmeats.co.uk",
+  "deliveryHours": [
+    "Monday 12:00 - 16:00",
+    "Tuesday 12:00 - 16:00",
+    "Wednesday 12:00 - 16:00",
+    "Thursday 12:00 - 16:00",
+    "Friday 12:00 - 16:00",
+    "Saturday 12:00 - 16:00"
+  ],
+  "email": "info@handmmeats.co.uk",
+  "description": "West Norwood butchers offering a delivery service."
+}
