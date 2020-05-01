@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
+  "name": "Mr Bao",
+  "phone": "",
+  "address": "293 Rye Ln, Peckham SE15 4UA",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587069953/MrBao_01_yhwpj1.webp",
+  "tags": [
+    "Bao",
+    "Dumplings",
+    "Restaurant",
+    "Chinese",
+    "Taiwanese"
+  ],
+  "website": "https://deliveroo.co.uk/menu/london/peckham/mr-bao-peckham",
+  "deliveryHours": [
+    "Thursday 17:00-21:30",
+    "Friday 17:00-21:30",
+    "Saturday 17:00-21:30"
+  ],
+  "email": "",
+  "description": "Open on Deliveroo Thu-Sat, 5-9:30pm. Peckham's Independent Taiwanese. Fluffiest buns in London. To continue our standard of service with the overwhelming demand, we sometimes close the restaurant on the app for kitchen breathers when we reach full capacity with tickets. These breaks last typically 20minutes whilst we make space to accept new orders. During this interval we appear as ‘closed’ on the app and your order may be rejected. We wish there was a way to know who’s been queuing online the longest but unlike our Restaurant wait-list, there are no records we can check on Deliveroo."
+}
