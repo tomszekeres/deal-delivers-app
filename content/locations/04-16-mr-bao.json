@@ -5,8 +5,9 @@
   "address": "293 Rye Ln, Peckham SE15 4UA",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587069953/MrBao_01_yhwpj1.webp",
   "tags": [
-    "Restaurant",
-    "Dumplings"
+    "Cook at Home",
+    "Dumplings",
+    "Restaurant"
   ],
   "deliveryHours": [
     "Monday 12:00-14:30 and 18:00-21:30",
@@ -18,5 +19,5 @@
     "Sunday 12:00-14:30 and 18:00-21:30"
   ],
   "email": "tables@mrbao.co.uk",
-  "description": "Dumplings delivered to your door. Delivery catchment area is 2 miles and costs £3 per drop-off. Pork, chicken, and veggie available to steam straight from frozen. 20 for £15, 40 for £25. To order your little bit of Mr Bao at home, email with your type, amount, address, and phone number."
+  "description": "Dumplings delivered to your door, to cook at home. Delivery catchment area is 2 miles and costs £3 per drop-off. Pork, chicken, and veggie available to steam straight from frozen. 20 for £15, 40 for £25. To order your little bit of Mr Bao at home, email with your type, amount, address, and phone number."
 }
