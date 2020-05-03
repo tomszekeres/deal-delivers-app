@@ -1,11 +1,16 @@
 {
-  "name" : "Forza Road",
-  "address" : "Copeland Park, Peckham SE15 3SN",
-  "website" : "",
-  "description" : "Coming soon. From the team behind Forza Win and Forza Wine",
-  "safetyTips" : "Please get in contact with this supplier to find out safety measures they are taking.",
-  "phone" : "",
-  "email" : "peckham@forzawin.com",
-  "tags" : ["Coming Soon"],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587050253/dulwichdelivers-instagram_wukemw.png"
+  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
+  "name": "Forza Road",
+  "phone": "",
+  "address": "Copeland Park, Peckham SE15 3SN",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588533232/95563745_299805864374961_2279508637411274424_n_hobu0x.jpg",
+  "tags": [
+    "Coming Soon"
+  ],
+  "website": "",
+  "deliveryHours": [
+    "Friday"
+  ],
+  "email": "peckham@forzawin.com",
+  "description": "Coming soon. From the team behind Forza Win and Forza Wine."
 }
