@@ -1,0 +1,23 @@
+{
+  "safetyTips": "All products are sanitised prior to dispatch, delivery personnel have gloves and alcohol gel in vehicles. Products left on doorstep in secure bags and we wait for answer at the door at a safe distance. If no answer products left in secure place and details provided.",
+  "name": "Bullfinch Brewery",
+  "phone": "07795546630",
+  "address": "Rosendale Road, Herne Hill, SE24 9EH ",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588596701/c4afde80_rhlspm.jpg",
+  "tags": [
+    "Beer",
+    "Alcohol",
+    "Same-day delivery",
+    "Cider",
+    "Hot Sauce",
+    "Wine"
+  ],
+  "website": "https://www.thebullandfinch.com/",
+  "deliveryHours": [
+    "Thursday 14:00 - 20:00",
+    "Friday 14:00 - 20:00",
+    "Saturday 14:00 - 20:00"
+  ],
+  "email": "phil@thebullfinchbrewery.co.uk",
+  "description": "We are a brewery and online bottle shop based in Herne Hill and Gipsy Hill. We offer both our beer which has been brewed in Herne Hill since 2016 alongside a large selection of beers from across the UK and Europe. We sell everything from alcohol-free and low ABV beer through to hoppy American styles and dark chocolatey stouts. We offer same-day delivery, Thursday - Saturday. Cutoff is 14:00 on Thursday and Friday, and 12:00 on Saturdays."
+}
