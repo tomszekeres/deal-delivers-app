@@ -1,0 +1,19 @@
+{
+  "safetyTips": "We are offering a non-contact delivery service. Protective gloves are worn whilst packing your order and we practise regular hand-washing. Our delivery service is run by a skeleton crew and there is currently no public access to our premises.",
+  "name": "Perks and White",
+  "address": "Herne Hill Station, London SE24 0JW",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588596284/c99e158d_iu6swd.jpg",
+  "tags": [
+    "Coffee",
+    "Mylk",
+    "Bicycle Delivery"
+  ],
+  "website": "https://www.perksandwhite.com/",
+  "deliveryHours": [
+    "Monday 13:00 - 17:00",
+    "Wednesday 13:00 - 17:00",
+    "Friday 13:00 - 17:00"
+  ],
+  "email": "hello@perksandwhite.com",
+  "description": "Perks and White are currently delivering coffee (beans or ground), alternative milks, and reusable cups to local residents by bike. We are a local business based in Herne Hill and Tulse Hill making the finest coffee, tea and locally produced artisan food. Our coffee is roasted locally by Volcano Coffee Works in West Norwood."
+}
