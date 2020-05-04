@@ -8,7 +8,7 @@
     "Butchers",
     "Meat"
   ],
-  "website": "http://www.handmmeats.co.uk",
+  "website": "https://handmmeats.myshopify.com/",
   "deliveryHours": [
     "Monday 12:00 - 16:00",
     "Tuesday 12:00 - 16:00",
@@ -18,5 +18,5 @@
     "Saturday 12:00 - 16:00"
   ],
   "email": "info@handmmeats.co.uk",
-  "description": "West Norwood butchers offering a delivery service."
+  "description": "West Norwood butchers offering a delivery service. Delivery is free for all local addresses, using our refrigerated vans. We have a minimum spend of £40 for all orders."
 }
