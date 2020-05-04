@@ -1,0 +1,16 @@
+{
+  "safetyTips": "For local orders, we have a contact-free service. We will contact you when we are on our way and will leave your order in your designated safe place. Orders further affield will be dispatched via courier. ",
+  "name": "Elia Olive Oil & Greek Products",
+  "address": "Tulsemere Road, West Norwood SE27 9EJ",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588596183/9b3c30b9_ugknw0.jpg",
+  "tags": [
+    "Olive Oil",
+    "Greek"
+  ],
+  "website": "https://www.eliaoliveoil.co.uk",
+  "deliveryHours": [
+    "Monday 09:00-12:00"
+  ],
+  "email": "eliaoliveoilltd@gmail.com",
+  "description": "Elia Olive Oil is a family business based in West Norwood. We have been importing organic EVOO since 2015 and until recently, were trading at local markets. As a response to the current situation, we are offering free delivery within a 1-mile radius of SE27 9EJ. Simply add discount code 'SE27' at checkout."
+}
