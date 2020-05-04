@@ -23,7 +23,7 @@ export const HeroHeader = ({ search }) => {
       <Container>
         <h1>Dulwich Delivers</h1>
         <p>Local restaurants, suppliers, shops & services that deliver contact-free to your door.</p>
-        <p>Search for what you'd like delivered e.g. bread, coffee, hand sanitiser, beer, prescriptions, yeast:</p>
+        <p>Search for what you'd like delivered e.g. bread, coffee, hand sanitiser, beer, prescriptions, yeast, toilet paper:</p>
         <LocationSearch />
       </Container>
     </StyledHeroHeader >

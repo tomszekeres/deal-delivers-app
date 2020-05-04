@@ -83,7 +83,7 @@ export const LocationCard = ({ details, children, ...rest }) => {
             {deliveryHours.map(time => <small key={time}>{time}</small>)}
           </LocationCardAccordion>
         </li>}
-        {safetyTips && <li onClick={() => postModalContent(safetyTips)}><AlertCircle /><p>Safety tips</p></li>}
+        {safetyTips && <li onClick={() => postModalContent(safetyTips)}><AlertCircle /><p>Safety precautions</p></li>}
       </LocationCardPropList>
       <StyledCardLinks>
         {website && isURL(website) && <li><StyledCardLinkItem target="_blank" href={`${website}`}>🔗 Order online</StyledCardLinkItem></li>}

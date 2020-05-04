@@ -23,7 +23,7 @@ collections:
     label_singular: "Location"
     format: "json"
     extension: "json"
-    delete: false
+    delete: true
     editor:
       preview: false
     folder: content/locations
