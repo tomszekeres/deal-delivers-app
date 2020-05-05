@@ -1,25 +1,14 @@
 {
-  "safetyTips": "We are respecting social distancing and do not come in contact with our customers when dropping orders at your door. Produce is handled with the utmost care during the packaging process. We are following strict Government COVID-19 guidelines: Ensuring workers are free from symptoms (we record body temperatures on arrival at the premises), Regular and thorough hand washing, Wearing PPE (disposable gloves), Keeping packaging clean and using anti-bacterial cleaning agents, Maintaining a 2 metre distance at all times, Ensuring transportation vehicles are cleaned and sanitised.",
-  "name": "Volcano Coffee Works Grocery",
+  "safetyTips": "Delivered by post or courier. Please check with Volcano for further details.",
+  "name": "Volcano Coffee Works",
   "phone": "07855742212",
   "address": "1 Beadman Street, SE27 0DN",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587136747/EVvAd5sXsAkNMWq_amddxu.jpg",
   "tags": [
-    "Coffee",
-    "Breakfast",
-    "Fruit & Veg",
-    "Donate",
-    "Support the NHS",
-    "Milk"
+    "Coffee"
   ],
-  "website": "https://volcano-coffee-works-grocery.squarespace.com/",
-  "deliveryHours": [
-    "Monday  11:00-16:00",
-    "Tuesday  11:00-16:00",
-    "Wednesday  11:00-16:00",
-    "Thursday  11:00-16:00",
-    "Friday  11:00-16:00"
-  ],
+  "website": "https://volcanocoffeeworks.com/collections",
+  "deliveryHours": [],
   "email": "cafe@volcanocoffeeworks.com",
-  "description": "A pop-up grocery delivery service for the locally locked-down. Fresh bread, milk, eggs, fruit and veg, as well as Volcano's signature coffee. Next-day delivery if ordered before 3 pm. 10% off with code TENTENTEN. We deliver to: SW2, SW9, SW16, SE4, SE15, SE19, SE21, SE22, SE23, SE24, SE26, SE27. There's also an option to donate fresh groceries for staff at Kings College Hospital."
+  "description": "Great coffee doesn’t have to be complicated. We do the hard work so you can enjoy a great tasting cup every time, confident that the coffee you chose to drink has a real and positive impact. Beans, ground coffee, and compostable pods, delivered."
 }
