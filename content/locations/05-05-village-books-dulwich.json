@@ -1,0 +1,24 @@
+{
+  "safetyTips": "All deliveries contact free.",
+  "name": "Village Books (Dulwich)",
+  "phone": "02086932808",
+  "pdf": "",
+  "address": "1D Calton Avenue, Dulwich, SE21 7DE",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588694366/Village_books_akwy4x.jpg",
+  "tags": [
+    "Books",
+    "Children's book",
+    "Bicycle delivery"
+  ],
+  "website": "https://www.village-books.co.uk/",
+  "deliveryHours": [
+    "Monday 16:00 - 18:00",
+    "Tuesday 16:00 - 18:00",
+    "Wednesday 16:00 - 18:00",
+    "Thursday 16:00 - 18:00",
+    "Friday 16:00 - 18:00",
+    "Saturday 16:00 - 18:00"
+  ],
+  "email": "hello@village-books.co.uk",
+  "description": "Local award-winning independent bookshop with books for the entire family, including a strong children's and educational book section. Lots of new books in stock. Tonieboxes and Tonies in stock. Cards and giftwrap available. Delivery by bicycle, post or car. Free delivery when you spend £10."
+}
