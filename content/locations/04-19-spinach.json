@@ -2,13 +2,20 @@
   "safetyTips": "Please enquire directly about safety measures.",
   "name": "Spinach",
   "phone": "02082993344",
-  "address": "161 Lordship Ln, East Dulwich SE22 8HD",
+  "address": "161 Lordship Lane, East Dulwich SE22 8HD",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587253232/Spinach_01_a41o0a.jpg",
   "tags": [
     "Restaurant",
-    "Brunch"
+    "Brunch",
+    "Baked goods"
   ],
   "website": "https://www.ubereats.com/gb/london/food-delivery/spinach/knHZ8Zd_R52877Bc64wF9Q",
+  "deliveryHours": [
+    "Thursday 09:00 - 16:00",
+    "Friday 09:00 - 16:00",
+    "Saturday 09:00 - 16:00",
+    "Sunday 09:00 - 16:00"
+  ],
   "email": "info@spinach.london",
-  "description": "Hours may vary."
+  "description": "Working alongside our delivery partners, Deliveroo and Ubereats you can have Spinach dishes, homemade baked goods, grocery staples along with hot and cold drinks delivered to your door."
 }
