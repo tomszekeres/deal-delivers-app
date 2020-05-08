@@ -5,5 +5,9 @@
   "address": "36 Norwood High Street, London, SE27 9NR",
   "website": "https://www.superpizza.biz/order#/delivery",
   "phone": "02086707799",
-  "safetyTips": "Contact free delivery and customer can let us know how they would like the delivery."
+  "safetyTips": "Contact free delivery - customers can let us know how they would like the delivery.",
+  "tags": [
+    "Pizza",
+    "Restaurant"
+  ]
 }
