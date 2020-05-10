@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Contact free",
+  "name": "General Store",
+  "address": "174 Bellenden Road, Peckham, SE15 4BW",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1589120700/8db117c0_vlas5i.jpg",
+  "tags": [
+    "Veg Box",
+    "Bread",
+    "Eggs",
+    "Butter",
+    "Milk",
+    "Wine",
+    "Beer",
+    "Biscuits"
+  ],
+  "website": "http://www.generalsto.re",
+  "deliveryHours": [
+    "Friday 10:00 - 17:00"
+  ],
+  "email": "hello@generalsto.re",
+  "description": "Groceries & Provisions delivered in a weekly box every Friday. Delivering fresh produce, bread, milk, butter and lots of our storecupboard items. £5 for delivery using our own driver."
+}
