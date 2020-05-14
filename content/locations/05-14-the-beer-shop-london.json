@@ -1,0 +1,23 @@
+{
+  "name": "The Beer Shop London",
+  "description": "Craft beer, cider, wine, soft drinks and snacks delivered to your door. We have a wide selection of draft beer and cider for that at-home pub experience. Delivering Tuesdays, Thursdays and Saturdays - same-day if you order by 2 pm. Free delivery, minimum spend £20.00.",
+  "tags": [
+    "Draft Beer",
+    "Alcohol",
+    "Cheese",
+    "Cider",
+    "Mead",
+    "Wine",
+    "Snacks",
+    "Gifts"
+  ],
+  "address": "40 Nunhead Green, Nunhead, SE15 3QF",
+  "website": "http://thebeershoplondon.co.uk/beer-menu",
+  "safetyTips": "Always contact-free delivery. We'll be wearing gloves and will drop the order on your doorstep, move well away and wait for you to collect. If you have any specific instructions you can leave them as a note at checkout.",
+  "deliveryHours": [
+    "Tuesday 14:30 - 19:30",
+    "Thursday 14:30 - 19:30",
+    "Saturday 14:30 - 19:30"
+  ],
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1589465714/7c0b00c9_begiyo.jpg"
+}
