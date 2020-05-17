@@ -1,0 +1,26 @@
+{
+  "safetyTips": "We leave the delivery in front of the delivery place, wearing gloves and mask, no contact, always social distancing.",
+  "name": "Petitou",
+  "phone": "07720542891",
+  "address": "63 Choumert Road, Peckham SE15 4AR",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1589738005/504566ee_fkcpfv.jpg",
+  "tags": [
+    "Veg Box",
+    "Bread",
+    "Milk",
+    "Coffee",
+    "Eggs",
+    "Cheese",
+    "Baked Goods",
+    "Groceries"
+  ],
+  "website": "https://petitoucafe.com",
+  "deliveryHours": [
+    "Tuesday 14:00 - 19:00",
+    "Wednesday 14:00 - 19:00",
+    "Thursday 14:00 - 19:00",
+    "Friday 14:00 - 19:00"
+  ],
+  "email": "petitoucafe@gmail.com",
+  "description": "We deliver fruit and veg boxes, bread, milk, coffee, eggs, and hot meals such as quiches, couscous, toasties, panini, and salads."
+}
