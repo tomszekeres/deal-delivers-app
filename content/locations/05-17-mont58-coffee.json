@@ -1,0 +1,19 @@
+{
+  "safetyTips": "When we hand deliver we leave the coffee on the doorstep or another place we agree with the customer. We always keep a safe distance.",
+  "name": "Mont58 Coffee",
+  "phone": "07977511398",
+  "address": "58 Montacute Road, SE6 4XJ",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1589745518/aed24954_c3gnn7.jpg",
+  "tags": [
+    "Coffee",
+    "Organic"
+  ],
+  "website": "https://mont58coffee.com/",
+  "deliveryHours": [
+    "Monday 10:00 - 17:00",
+    "Wednesday 10:00 - 17:00",
+    "Friday 10:00 - 17:00"
+  ],
+  "email": "contact@mont58coffee.com",
+  "description": "Mont58 is a craft roastery, based in South-East London. We roast the very best Arabica beans in small batches and deliver your coffee free to your door. You can order by the bag – we’ll grind it for you or send you whole beans. Or get a regular delivery (we’re like the milkman) – and never run out of great coffee again. No minimum quantity. If possible we deliver by hand, otherwise by post."
+}

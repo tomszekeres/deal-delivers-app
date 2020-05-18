@@ -1,0 +1,22 @@
+{
+  "safetyTips": "We take payment by bank transfer and the driver drops at the door and stands back until you collect it.",
+  "name": "Fruit and Flowers",
+  "phone": "07968313987",
+  "address": "Windsor Walk, Camberwell SE5 8BB",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1589737794/dd4038e2_qimfus.jpg",
+  "tags": [
+    "Veg Box",
+    "Fruit",
+    "Vegetables",
+    "Eggs"
+  ],
+  "deliveryHours": [
+    "Monday 10.00 - 15.00",
+    "Tuesday 10.00 - 15.00",
+    "Wednesday 10.00 - 15.00",
+    "Thursday 10.00 - 15.00",
+    "Friday 10.00 - 15.00"
+  ],
+  "email": "keelyfruitandveg@outlook.com",
+  "description": "Fresh fruit and veg boxes delivered by black cab. No minimum spend, and orders can be customised. Call or email to get started."
+}
