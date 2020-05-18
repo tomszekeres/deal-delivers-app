@@ -16,5 +16,9 @@ You'll need a Cloudinary account - this is the CDN that the images are hosted on
 
 ## Brand Colours for Dulwich Delivers
 
+Dulwich Pink:
 #ff48a3
+Dulwich Blue:
 #3426a6
+Delivers Navy:
+#0b132b
