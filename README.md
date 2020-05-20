@@ -1,4 +1,4 @@
-Dulwich Delivers is a simple directory of independent businesses offering local delivery. Enabling people to stay at home and save lives, while keeping our high streets alive.
+Dulwich Delivers is a simple directory of independent businesses offering local delivery. Enabling people to stay at home and save lives, while supporting the high streets.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -18,7 +18,9 @@ You'll need a Cloudinary account - this is the CDN that the images are hosted on
 
 Dulwich Pink:
 #ff48a3
+
 Dulwich Blue:
 #3426a6
+
 Delivers Navy:
 #0b132b
