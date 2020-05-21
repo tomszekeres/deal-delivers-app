@@ -1,8 +1,8 @@
 {
-  "safetyTips": "Monday. Delivery customers have an option to pay via a payment link, or can make a contactless payment upon delivery. ",
+  "safetyTips": "Delivery customers have an option to pay via a payment link, or can make a contactless payment upon delivery.",
   "name": "The Dulwich Bakery",
   "phone": "02086700510",
-  "address": "78 Park Hall Road, West Dulwich, SE21 8BW ",
+  "address": "78 Park Hall Road, West Dulwich SE21 8BW ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588255532/bakery_nsfbcb.jpg",
   "tags": [
     "Baked goods",
@@ -17,13 +17,13 @@
   ],
   "website": "http://dulwichbakery.com/",
   "deliveryHours": [
-    "Monday 08:00- 14:00",
-    "Tuesday 08:00- 14:00",
-    "Wednesday 08:00- 14:00",
-    "Thursday 08:00- 14:00",
-    "Friday 08:00- 14:00",
-    "Saturday 08:00- 14:00"
+    "Monday 08:00 - 14:00",
+    "Tuesday 08:00 - 14:00",
+    "Wednesday 08:00 - 14:00",
+    "Thursday 08:00 - 14:00",
+    "Friday 08:00 - 14:00",
+    "Saturday 08:00 - 14:00"
   ],
   "email": "manager@dulwichbakery.com",
-  "description": "Family owned independent bakery in West Dulwich offering artisan sourdough bread, handmade sausage rolls and scotch eggs, speciality coffee and delicious sweet treats. We also have eggs, flour, pasta, milk and bags of coffee (ground & wholebean). We can deliver no contact, on foot, within a 10 minute radius of the shop.  Please see our Instagram @dulwichbakery for our full delivery menu!"
+  "description": "Family-owned, independent bakery in West Dulwich offering artisan sourdough bread, handmade sausage rolls and scotch eggs, speciality coffee and delicious sweet treats. We also have fresh yeast, flour, eggs, honey, and milk. We deliver no contact, on foot, within a 10-minute radius."
 }
