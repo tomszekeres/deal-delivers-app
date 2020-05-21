@@ -1,15 +1,23 @@
 {
+  "safetyTips": "Please enquire directly about safety measures.",
   "name": "Capo Caccia Fine Food ",
   "address": "Tyrrell Road, East Dulwich SE22 9NA",
-  "website": "http://www.capocaccia.co.uk",
-  "description": "We do a range of artisan Sardinian food like organic pecorino, matured goat cheese, blue cheese, smoked ricotta, pasta, olive oil, honey, carasau bread, bottarga, gluten free salami.",
-  "safetyTips": "Please enquire directly about safety measures.",
-  "email": "antonio@capocaccia.co.uk",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587073207/CapoCaccia_02_il3pbv.jpg",
   "tags": [
-    "Food",
+    "Charcuterie",
     "Italian",
     "Cheese",
-    "Olive oil"
+    "Olive oil",
+    "Pasta",
+    "Honey"
   ],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587073207/CapoCaccia_02_il3pbv.jpg"
+  "website": "http://www.capocaccia.co.uk",
+  "deliveryHours": [
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "email": "antonio@capocaccia.co.uk",
+  "description": "We regularly travel throughout Sardinia meeting cheese producers, butchers and farmers and sourcing the finest regional staples to bring a unique range of charcuterie and cheese to London. We do a range of artisan Sardinian food like organic pecorino, matured goat cheese, blue cheese, smoked ricotta, pasta, olive oil, honey, carasau bread, bottarga, gluten free salami. As well as delivery, we offer click and collect on Wednesday and Friday."
 }
