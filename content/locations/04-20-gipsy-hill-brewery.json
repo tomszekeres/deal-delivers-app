@@ -1,13 +1,14 @@
 {
-  "safetyTips": "Please enquiry directly about safety measures,",
+  "safetyTips": "Please enquiry directly about safety measures.",
   "name": "Gipsy Hill Brewery",
   "phone": "020 8761 9061",
   "address": "160 Hamilton Road, Gipsy Hill, SE27 9SF",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587400984/Gipsy_Hill_Brewery_abgbwg.jpg",
   "tags": [
-    "Beer"
+    "Beer",
+    "Support the NHS"
   ],
   "website": "https://gipsyhillbrew.com/",
   "email": "shop@gipsyhillbrewing.com",
-  "description": "Based in Gipsy Hill, this brewery offer a range of core and special craft beers available for delivery. Delivery costs £4.95, but is free for orders of 12 beers or more."
+  "description": "Based in Gipsy Hill, this brewery offer a range of core and special craft beers available for delivery. Delivery costs £4.95, but is free for orders of 24 beers or more. They're also doing limited click & collect – orders must be placed in advance and collected between 3 and 5 pm, Wednesday-Friday."
 }
