@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Limited team, strict hygiene precautions, contact-free delivery via Slerp. ",
+  "name": "Fat Boy BBQ",
+  "phone": "02076356699",
+  "address": "11a Station Way, Peckham SE15 4RX",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1590084182/7dd2fe10_sf64av.png",
+  "tags": [
+    "Barbecue",
+    "Ribs",
+    "Wings",
+    "Burgers",
+    "Beer",
+    "Street Food",
+    "Takeaway",
+    "American"
+  ],
+  "website": "https://fatboybbq.slerp.com/order",
+  "deliveryHours": [
+    "Thursday 16:00 - 21:00",
+    "Friday 16:00 - 21:00",
+    "Saturday 12:00 - 21:00",
+    "Sunday 12:00 - 21:00"
+  ],
+  "description": "American-style BBQ food from the team behind Coal Rooms. Think ribs, wings, epic Peckham In N Out burgers, and all the sides including Mac N Cheese, slaw and bone marrow mash. For delivery only, order via coalrooms.com. 50% off delivery on orders over £35, if you use the code FEEDME. "
+}
