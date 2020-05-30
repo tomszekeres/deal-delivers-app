@@ -1,13 +1,22 @@
 {
-  "name": "Jones",
-  "address": "1 Dulwich Rd, Herne Hill, SE24 0NT",
-  "website": "https://jonesthebutcher.me.uk/delivery-information/",
-  "description": "Delivering to wide range of postcodes on different days. Big range of meat boxes. Supplier to restaurants now delivering to public. ",
   "safetyTips": "Please enquire directly about safety measures.",
+  "name": "Jones, The Butcher.",
+  "phone": "02072744629",
+  "address": "1 Dulwich Rd, Herne Hill, SE24 0NT",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587224117/jones-the-butcher-shop_os7ehe.png",
   "tags": [
     "Butchers",
-    "Meat"
+    "Meat Boxes",
+    "Barbecue Box",
+    "Cheese Box",
+    "Veg Box",
+    "Sunday Roast Meal Kit"
   ],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587224117/jones-the-butcher-shop_os7ehe.png",
-  "phone": "02072744629"
+  "website": "https://jonesthebutcher.me.uk/online-shop/",
+  "deliveryHours": [
+    "Wednesday 9am – 5pm (SE4 SE5 SE6 SE14 SE15 SE17 SE21 SE22 SE23 SE24 SE26 SE27)",
+    "Thursday 9am – 5pm (SW2 SW4 SW8 SW9 SW11 SW12 SW16 SW17)",
+    "Friday 9am – 5pm (SE19 SE20 SE25 BR1 BR2 BR3 BR4 SE1 CR7)"
+  ],
+  "description": "Supplier to restaurants now delivering to public. Delivery £5 - free for all orders over £50. Cutoff is noon the day before delivery - click days to see postcodes and delivery times."
 }
