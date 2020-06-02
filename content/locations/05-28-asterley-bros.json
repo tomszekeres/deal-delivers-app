@@ -1,0 +1,22 @@
+{
+  "safetyTips": "All staff wear full PPE at all times and are operating under social distancing rules at all times. ",
+  "name": "Asterley Bros",
+  "phone": "07817478196",
+  "address": "Keynote Studios, Forest Hill SE23 1AT",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1590689404/88b40124_crglgp.jpg",
+  "tags": [
+    "Vermouth",
+    "Cocktails",
+    "Kits"
+  ],
+  "website": "https://www.asterleybros.com/",
+  "deliveryHours": [
+    "Monday 09:00-18:00",
+    "Tuesday 09:00-18:00",
+    "Wednesday 09:00-18:00",
+    "Thursday 09:00-18:00",
+    "Friday 09:00-18:00"
+  ],
+  "email": "info@asterleybros.com",
+  "description": "We are two brothers, based in Forest Hill, making English Vermouth, Amaro and Ready To Drink Cocktails. Bold, bitter and British. Those are the flavours we love, and the drinks we make. Next day delivery by courier anywhere in the UK."
+}
