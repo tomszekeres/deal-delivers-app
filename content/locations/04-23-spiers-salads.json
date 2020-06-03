@@ -1,15 +1,24 @@
 {
-  "website": "https://www.spierssalads.com/",
+  "website": "https://www.spierssalads.com/salad-boxes",
   "name": "Spiers Salads",
-  "description": "Fruit, veg, meat and staple boxes.SE5, SE15, SE21, SE22, SE23, SE24 (Deliveries between 8am - 12:00pm) / SE4, SE6, SE8, SE10, SE13, SE14, SE16 (Deliveries between 12:00pm - 5:00pm). Order before 6pm for next day delivery. ",
+  "description": " Salad boxes, salsa pots, bagels, salad platters and BBQ packs. Fresh coffee, energy balls, flapjacks, feta cheese, chicken skewers. Order by midnight for next weekday delivery (can specify am/pm). Free delivery for orders over £30 (SE4,8,14,15,22 - otherwise £2.85) or £40 (SE5,10,13,16,21,23,24 - otherwise £4.95).",
   "tags": [
-    "Fruit",
-    "Veg",
-    "Meat",
-    "Groceries",
-    "Donations"
+    "Lunches",
+    "Salad Boxes",
+    "Meat Boxes",
+    "Eggs",
+    "Donations",
+    "Bagels",
+    "Next-day Delivery"
   ],
-  "address": "London",
+  "deliveryHours": [
+    "Monday 08:00-17:00",
+    "Tuesday 08:00-17:00",
+    "Wednesday 08:00-17:00",
+    "Thursday 08:00-17:00",
+    "Friday 08:00-17:00"
+  ],
+  "address": "Railway Arches, Deptford, SE8 5QA",
   "safetyTips": "Please enquire directly about safety measures.",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587645317/Spiers_lcp8vz.jpg"
 }
