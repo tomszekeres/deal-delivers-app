@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Safely packaged, socially distanced store.",
+  "name": "Kanpai - London Craft Sake",
+  "address": "Copeland Park, Peckham Rye SE15 3SN",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591177911/4b021f16_ebnbby.jpg",
+  "tags": [
+    "Alcohol",
+    "Japanese",
+    "Wine",
+    "Vegan",
+    "Gifts",
+    "Merch",
+    "Click & Collect"
+  ],
+  "website": "https://kanpai.london/shop",
+  "deliveryHours": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "email": "hello@kanpailondon.co.uk",
+  "description": "The UK's first sake brewery. Based in Peckham, we deliver fresh sake direct to your door via courier, or select Click & Collect to pick up next day direct from the brewery."
+}
