@@ -1,0 +1,25 @@
+{
+  "safetyTips": "We comply by current food safety standards in our kitchen and our staff wear PPE and socially distance in the workplace. For contact-free delivery, we place orders on the doorstep and call the customer to collect from there.",
+  "name": "Dulwich Lyceum",
+  "phone": "02086705837",
+  "address": "7 Croxted Road, West Dulwich SE21 8SZ",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591195114/bc7feaac_fj3i6j.jpg",
+  "tags": [
+    "Mediterranean",
+    "Cook at Home",
+    "Date Night",
+    "Greek",
+    "Wine",
+    "Cocktails",
+    "Same-day Delivery"
+  ],
+  "website": "https://www.dulwichlyceum.com/",
+  "deliveryHours": [
+    "Wednesday 16:00-19:00",
+    "Thursday 16:00-19:00",
+    "Friday 16:00-19:00",
+    "Thursday 16:00-19:00"
+  ],
+  "email": "orders@dulwichlyceum.com",
+  "description": "We offer a dine-at-home service for customers in the local area. Our ordering line is open every day 12-3pm and we deliver between 4-7pm. We offer small plates, salads, large dishes, desserts, wines, beers, and cocktails. We offer contact-free delivery, no minimum spend."
+}
