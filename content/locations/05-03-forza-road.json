@@ -1,16 +1,21 @@
 {
-  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
+  "safetyTips": "One person, socially distanced service. Pick up is now from the roof, come up in the lift to Floor 5, down the stairs - a one way system.",
   "name": "Forza Road",
   "phone": "",
-  "address": "Copeland Park, Peckham SE15 3SN",
+  "address": "133 Rye Ln, Peckham, SE15 4ST",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588533232/95563745_299805864374961_2279508637411274424_n_hobu0x.jpg",
   "tags": [
-    "Coming Soon"
+    "Click & Collect",
+    "Italian",
+    "Pasta",
+    "Date Night",
+    "Dinner for Two",
+    "Wine"
   ],
-  "website": "",
+  "website": "https://shop.forzawin.com/",
   "deliveryHours": [
-    "Friday"
+    "Friday 16:00 - 18:00 (Collection Only)"
   ],
   "email": "peckham@forzawin.com",
-  "description": "Coming soon. From the team behind Forza Win and Forza Wine."
+  "description": "You can now order delicious Forza Win food & wine on a Friday to your own home and pretend your some sort of kitchen wiz. Impress your partner, nan, dog, parrot, hell who cares - just get some delicious fresh pasta and things inside ya."
 }
