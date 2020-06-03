@@ -1,0 +1,20 @@
+{
+  "safetyTips": "Contact free, temperature controlled delivery. ",
+  "name": "Cook and Feast",
+  "phone": "07986805033",
+  "address": "37 Chalford Road, West Dulwich, SE21 8BX",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591175758/bbd6bb64_lmmapz.jpg",
+  "tags": [
+    "Meat Boxes",
+    "Meal Kit",
+    "Supper Club",
+    "Butcher"
+  ],
+  "website": "https://www.cookandfeast.co.uk/",
+  "deliveryHours": [
+    "Wednesday 08.30 - 16:00",
+    "Friday 08.30 - 16:00"
+  ],
+  "email": "hello@cookandfeast.co.uk",
+  "description": "We are Giovanna and Marcus, a chef and butcher couple in West Dulwich. Giovanna was runner-up on Masterchef and Marcus has been a butcher for 14 years. We are delivering a range of high-welfare, premium meat boxes and a weekly supper club kit for you to assemble at home to replace our regular supper clubs during the lockdown. We deliver in temperature-controlled boxes on Wednesdays and Fridays. Cutoff is 4 pm, two days before delivery."
+}
