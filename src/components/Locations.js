@@ -50,7 +50,7 @@ export const LocationList = () => {
                 return (
                   <LocationCard key={name} details={location}>
                     <h4>{name}</h4>
-                    <small>{tags.map((tag, i) => { return (i + 1) == tags.length ? <span key={tag}>{tag}</span> : <span key={tag}>{tag} • </span> })}</small>
+                    <small>{tags && tags.map((tag, i) => { return (i + 1) == tags.length ? <span key={tag}>{tag}</span> : <span key={tag}>{tag} • </span> })}</small>
                     <p>{description}</p>
                   </LocationCard>
                 )
@@ -60,7 +60,7 @@ export const LocationList = () => {
         }
         }
       </FilterResults>
-      {locations.length > locationLimit ? <ButtonSecondary onClick={() => setLocationLimit(locationLimit + 9)}>Load More</ButtonSecondary> : null}
+      {locations.length > locationLimit ? <ButtonSecondary onClick={() => { setLocationLimit(locationLimit + 9); console.log(locationLimit) }}>Load More</ButtonSecondary> : null}
     </Container>
   )
 }
@@ -68,7 +68,7 @@ export const LocationList = () => {
 const StyledInputWrap = styled.div`
   position:relative;
   display:block;
-  max-width:420px;  
+  max-width:420px;
   margin:var(--spacing-sm) 0;
   color:#d8d8d8;
 

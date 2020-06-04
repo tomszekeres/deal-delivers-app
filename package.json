@@ -17,8 +17,7 @@
     "react-scripts": "3.4.1",
     "react-toastify": "^5.5.0",
     "react-toasts": "^3.0.6",
-    "styled-components": "^5.0.1",
-    "universal-cookie": "^4.0.3"
+    "styled-components": "^5.0.1"
   },
   "scripts": {
     "start": "npm-run-all prepare-content -p start:content start:app",
