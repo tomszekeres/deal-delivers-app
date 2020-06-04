@@ -1,9 +1,37 @@
-import React, { useState, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
+import Cookies from 'universal-cookie';
 import { MapPin, Clock, AlertCircle } from 'react-feather';
 import { getDeliveryRange, isURL, isEmail, formatPhone } from './Helpers';
 import { useData } from '../context/DataProvider';
 import { ButtonPrimary } from './Buttons';
+
+export const CookieNotice = () => {
+  const [hasCookie, setHasCookie] = useState();
+  const cookies = new Cookies();
+
+  useEffect(() => {
+    const cookie = cookies.get('gaAccept');
+    setHasCookie(cookie);
+  }, []);
+
+  const setCookieAccept = () => {
+    cookies.set('gaAccept', true);
+    setHasCookie(true);
+  }
+
+  return(
+    <StyledCookieBarWrap visible={!hasCookie}>
+      <StyledCard base="var(--base)" align="center">
+        <StyledCookieBarInner>
+          <span>🍪</span>
+          <p>This website uses cookies to give you a better experience.</p>
+        </StyledCookieBarInner>
+      <ButtonPrimary onClick={setCookieAccept}>Accept</ButtonPrimary>
+      </StyledCard>
+    </StyledCookieBarWrap>
+  )
+}
 
 export const CalloutCard = ({ children, ...rest }) => {
   return (
@@ -201,3 +229,50 @@ const StyledCalloutCardInner = styled.div`
     margin-left:auto;
     margin-right:auto;
   }
+`
+
+const StyledCookieBarWrap = styled.div`
+  position:fixed;
+  bottom:var(--spacing-sm);
+  left:0;
+  right:0;
+  padding:0 var(--spacing-sm);
+  margin:0 auto;
+  z-index:998;
+  opacity:${props => props.visible ? 1 : 0};
+  pointer-events:${props => props.visible ? 'auto' : 'none'};
+
+  article{
+    max-width:780px;
+    margin:0 auto;
+    padding:var(--spacing-sm);
+
+    @media(min-width:48rem) {
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      flex-flow:row nowrap;
+      padding:0 var(--spacing-sm);
+    }
+  }
+  button {
+    flex:0;
+    margin:0;
+  }
+`;
+const StyledCookieBarInner = styled.div`
+  display:flex;
+  justify-content:flex-start;
+  align-items:center;
+  padding:var(--spacing-sm) 0;
+  margin:0;
+
+  p {
+    color:var(--text-high-white);
+    padding-left:var(--spacing-xs);
+    margin:0;
+  }
+  a {
+    color:var(--text-high-white);
+  }
+`;
