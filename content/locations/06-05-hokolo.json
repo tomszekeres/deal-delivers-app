@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Contact-free delivery is offered via Royal Mail / courier or by personal delivery at doorstep.",
+  "name": "Hokolo",
+  "address": "8 Little Bornes, Dulwich SE21 8SE",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591393167/0fd35f48_nqsuvl.jpg",
+  "tags": [
+    "Furniture",
+    "Gifts",
+    "Homeware",
+    "Stationery",
+    "Clothing",
+    "Kids",
+    "Masks"
+  ],
+  "website": "https://www.hokolo.com/",
+  "deliveryHours": [
+    "Monday 10:00 - 14:00",
+    "Tuesday 10:00 - 14:00",
+    "Wednesday 10:00 - 14:00",
+    "Thursday 10:00 - 14:00",
+    "Friday 10:00 - 14:00"
+  ],
+  "email": "info@hokolo.com",
+  "description": "Hokolo is a homeware and lifestyle brand founded by Jen Taylor. Working from her home studio in Dulwich, Jen creates colourful and bold patterns, inspired by Scandinavian and mid-century designs, for products ranging from handmade lampshades, placemats to face masks. Shipping is free on orders over £30."
+}
