@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Contact free delivery.",
+  "name": "Vegan Plates",
+  "address": "139 Crystal Palace Road, East Dulwich SE22 9ES",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591390840/7c424baa_yqfuqc.jpg",
+  "tags": [
+    "Vegan",
+    "Plant-based",
+    "Takeaway",
+    "Street Food",
+    "Ice Cream"
+  ],
+  "website": "http://www.veganplates.co.uk",
+  "deliveryHours": [
+    "Monday 12:00 - 22:00",
+    "Tuesday 12:00 - 22:00",
+    "Wednesday 12:00 - 22:00",
+    "Thursday 12:00 - 22:00",
+    "Friday 12:00 - 22:00",
+    "Saturday 12:00 - 22:00",
+    "Sunday 12:00 - 22:00"
+  ],
+  "email": "hello@veganplates.co.uk",
+  "description": "Vegan plates are here to serve 100% vegan fast food, including burgers, kebabs, not dogs and yummy vegan desserts to your door. Ordering direct via our website gets you a free vegan salted caramel cheesecake."
+}
