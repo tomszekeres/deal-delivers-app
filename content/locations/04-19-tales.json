@@ -2,12 +2,13 @@
   "name": "Tales on Moon Lane",
   "address": "25 Half Moon Ln, Herne Hill SE24 9JU",
   "website": "https://www.talesonmoonlane.co.uk/",
-  "description": "An award-winning children's bookshop dedicated to raising equality in children’s books: equality of access, representation and roles in the industry. Free delivery within 2 miles, postage beyond. Email us with the book you would like to order.",
+  "description": "An award-winning children's bookshop dedicated to raising equality in children’s books: equality of access, representation and roles in the industry. Free delivery within 2 miles, postage beyond. Either email us or call us with the book you would like to order. We also offer Click & Collect, 9am - 11am.",
   "safetyTips": "Please enquire directly about safety measures.",
   "phone": "02072745759",
   "tags": [
     "Children",
-    "Books"
+    "Books",
+    "Click & Collect"
   ],
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587246400/TalesOnMoonLane_01_epk1hl.jpg"
 }
