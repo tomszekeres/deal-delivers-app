@@ -5,13 +5,15 @@
   "address": "Tyrrell Trading Estate, East Dulwich, SE22 9NA",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587481222/PastificioMansi_01_kd7h7c.jpg",
   "tags": [
-    "Food",
-    "Pasta"
+    "Pasta",
+    "Cook at Home",
+    "Italian",
+    "Click & Collect"
   ],
-  "website": "https://pastamansi.com/find",
+  "website": "https://pastamansi.com/delivery",
   "deliveryHours": [
-    "Friday 15.00-19.00"
+    "Friday 14.00-19.00"
   ],
-  "email": "hello@pastificiomansi.com",
-  "description": "We are a small fresh pasta company based in East Dulwich. We are specialised in ravioli with vegetarian and meat fillings, long pasta like pappardelle, and spaghetti and short pasta like Caserecce and gnocchetti sardi. We do home delivery in SE london and our minimum order is £15."
+  "email": "hello@pastamansi.com",
+  "description": "We are a small fresh pasta company based in East Dulwich. We specialise in ravioli with vegetarian and meat fillings, long pasta like pappardelle, and spaghetti and short pasta like caserecce and gnocchetti sardi. We do home delivery in SE London. No minimum order - flat delivery fee of £5 (this goes 100% to the driver). Place your order before 12pm of every Wednesday. Or if you'd like to Click & Collect this can be arranged by email."
 }
