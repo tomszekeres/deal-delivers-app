@@ -1,0 +1,24 @@
+{
+  "safetyTips": "Contact-free delivery. We wear gloves and will drop the order on your doorstep, move well away and wait for you to collect. If you have any specific instructions you can let us know at checkout.",
+  "name": "Hoop & Joy",
+  "phone": "07739515278",
+  "address": "51 Lyham Road, Brixton SW2 5DS",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591691586/96656205_250528902965958_1452993157133238272_o.jpg_psqpxz.jpg",
+  "tags": [
+    "Soft Drinks",
+    "Alcohol-free Beer",
+    "Coffee",
+    "Eggs",
+    "Flour",
+    "Charcuterie",
+    "Snacks",
+    "Box Delivery",
+    "Apéritifs"
+  ],
+  "website": "https://www.hoopandjoy.co.uk/",
+  "deliveryHours": [
+    "Friday 10:00 - 19:00"
+  ],
+  "email": "woop@hoopandjoy.co.uk",
+  "description": "Weekly delivery of craft sodas, alcohol-free beers & apéritifs, ethical coffee, charcuterie, farm-fresh free-range eggs, baking flour and other treats from independent businesses we admire."
+}
