@@ -1,0 +1,27 @@
+{
+  "safetyTips": "We use strict hygiene protocols when packing and picking. We offer a doorstep drop-and-go service within SE postcodes.",
+  "name": "Meet Bernard",
+  "phone": "02088584047",
+  "address": "37 North Cross Road, East Dulwich SE22 9ET",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591690292/2cb23f38_xgxtwf.jpg",
+  "tags": [
+    "Clothing",
+    "Gifts",
+    "Jewellery",
+    "Candles",
+    "Gift Cards",
+    "Click & Collect"
+  ],
+  "website": "http://meetbernard.com",
+  "deliveryHours": [
+    "Monday 14:00 - 20:00",
+    "Tuesday 14:00 - 20:00",
+    "Wednesday 14:00 - 20:00",
+    "Thursday 14:00 - 20:00",
+    "Friday 14:00 - 20:00",
+    "Saturday 14:00 - 20:00",
+    "Sunday 14:00 - 20:00"
+  ],
+  "email": "info@meetbernard.com",
+  "description": "We are South London's oldest independent men's and women's fashion and lifestyle store. We bring the best brands to the heart of South East London. Delivering free same-day delivery within SE postcode. Free returns. Shipping UK and worldwide also."
+}
