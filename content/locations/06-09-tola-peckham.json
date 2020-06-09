@@ -1,0 +1,26 @@
+{
+  "safetyTips": "Our venue is deep cleaned and sterilised every 24 hours. All our staff are fully trained on the governments current guidelines to hygiene and social distancing and all drinks are pre-made by staff wearing latex gloves and face coverings. ",
+  "name": "TOLA Peckham",
+  "phone": "07405445848",
+  "address": "56 Peckham High Street SE15 5DP",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591712056/b2f9e9d2_xtloxu.jpg",
+  "tags": [
+    "Cocktails",
+    "Craft Beer",
+    "Wine",
+    "Alcohol",
+    "Soft Drinks",
+    "T-Shirts",
+    "Deliveroo"
+  ],
+  "website": "https://deliveroo.co.uk/menu/london/peckham/tola",
+  "deliveryHours": [
+    "Tuesday 17:00 - 23:59",
+    "Wednesday 17:00 - 23:59",
+    "Thursday 17:00 - 23:59",
+    "Friday 12:00 - 23:59",
+    "Saturday 12:00 - 23:59"
+  ],
+  "email": "info@tolapeckham.com",
+  "description": "TOLA is an independent late night bar and music venue in Peckham. Having had to close our doors to the public due to the ongoing crisis, we now offer a premium cocktail, craft beer and wine delivery service to most areas in London."
+}
