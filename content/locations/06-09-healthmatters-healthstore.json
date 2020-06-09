@@ -1,0 +1,31 @@
+{
+  "safetyTips": "Contact-free delivery, leaving shopping at the door, knocking on the door then moving to a safe distance, to wait for the customer to open the door and pick up shopping.",
+  "name": "Healthmatters Healthstore",
+  "phone": "02082996040",
+  "address": "47 Lordship Lane, East Dulwich SE22 8EP",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591689113/9d07ed12_sarc7j.jpg",
+  "tags": [
+    "Household",
+    "Candles",
+    "Hand Sanitiser",
+    "Organic",
+    "Nuts and Seeds",
+    "Skincare",
+    "Vegan",
+    "Zero Waste",
+    "Gluten-free",
+    "Herbal Tea"
+  ],
+  "website": "http://www.dulwichhealthmatters.com",
+  "deliveryHours": [
+    "Monday 18:30 onwards",
+    "Tuesday 18:30 onwards",
+    "Wednesday 18:30 onwards",
+    "Thursday 18:30 onwards",
+    "Friday 18:30 onwards",
+    "Saturday 18:30 onwards",
+    "Sunday 18:30 onwards"
+  ],
+  "email": "info@dulwichhealthmatters.com",
+  "description": "We sell natural and herbal remedies, food supplements, probiotics, skincare, bath salts, and household products. We offer organic grains, seeds, nuts, dried fruits, plant-based milk, and wheat-free bread. Our aromatherapy range includes essential oils, candles, reed diffusers, and incense sticks. We have organic nut butter, low-GI fruit spreads, cider vinegar, cranberry, blueberry and apple juice. Our refill station includes shampoo, conditioner, body wash, washing-up liquid, detergent, fabric conditioner, toilet cleaner, and multipurpose cleaner. And we offer a wide choice of herbal teas including Pukka, Clipper, Yogi, Dragonfly, Tea Pigs and Celestial Teas."
+}
