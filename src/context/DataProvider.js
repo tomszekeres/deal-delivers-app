@@ -22,15 +22,15 @@ const DataProvider = (props) => {
 
   // Imports from static JSON file
   const getLocations = () => {
-    import('../data.json')    
-    .then(data => {      
+    import('../data.json')
+    .then(data => {
       const array = data.default.slice(0);
       const sorted = array.sort((a,b) => {
         const x = a.name.toLowerCase();
         const y = b.name.toLowerCase();
         return x < y ? -1 : x > y ? 1 : 0;
       });
-      setLocations(sorted);
+      setLocations(array);
     })
     .catch(err => console.log(err));
   }
