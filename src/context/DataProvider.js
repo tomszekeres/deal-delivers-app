@@ -30,7 +30,7 @@ const DataProvider = (props) => {
         const y = b.name.toLowerCase();
         return x < y ? -1 : x > y ? 1 : 0;
       });
-      setLocations(array);
+      setLocations(sorted);
     })
     .catch(err => console.log(err));
   }
