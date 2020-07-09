@@ -1,0 +1,26 @@
+{
+  "safetyTips": "We use PPE For the safety of both staff and clients. Our health and safety, food hygiene licenses are up to date. We deliver to your door. Well packaged and we will place it by your front door and step 2 meters backwards till you get your delivery.",
+  "name": "Esther Fairs",
+  "phone": "07738713222",
+  "address": "96 Knights Hill, West Norwood SE27 0SB",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1594299054/esther1b-2_enfh3h.jpg",
+  "tags": [
+    "Cakes",
+    "Biscuits",
+    "Sauces",
+    "Gifts",
+    "Hampers",
+    "Birthdays"
+  ],
+  "website": "http://estherfairs.com",
+  "deliveryHours": [
+    "Monday 10:00 - 15:00",
+    "Tuesday 10:00 - 15:00",
+    "Wednesday 10:00 - 15:00",
+    "Thursday 10:00 - 15:00",
+    "Friday 10:00 - 15:00",
+    "Saturday 10:30 - 12:00"
+  ],
+  "email": "estherfairs@mail.com",
+  "description": "Bespoke cakes, cookies and condiments that will take you on a journey."
+}
