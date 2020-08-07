@@ -7,14 +7,14 @@ import { Button } from './Buttons';
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
+      <Button path="https://subship.co.uk">
+       🆕 Weekly Deliveries by Subship
+      </Button>
       <Button path="http://getlisted.dulwichdelivers.com">
         📍 List your business
       </Button>
        <Button path="mailto:tom@dulwichdelivers.com">
         📧 Email us
-       </Button>
-       <Button path="https://subship.co.uk">
-        🚚 Get Subship Weekly Deliveries
        </Button>
     </StyledNav>
   )
