@@ -1,6 +1,7 @@
 {
   "safetyTips": "Maintaining social distancing, wearing disposable gloves & face covering when in shop, adhering to government guidelines.",
   "name": "Mr Simms Olde Sweet Shoppe",
+  "order": 14,
   "phone": "07904124050",
   "address": "82 Lordship Lane, East Dulwich SE22 8HF",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591390246/4585c98e_et0sl3.jpg",

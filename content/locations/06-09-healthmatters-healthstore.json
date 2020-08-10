@@ -1,6 +1,7 @@
 {
   "safetyTips": "Contact-free delivery, leaving shopping at the door, knocking on the door then moving to a safe distance, to wait for the customer to open the door and pick up shopping.",
   "name": "Healthmatters Healthstore",
+  "order": 11,
   "phone": "02082996040",
   "address": "47 Lordship Lane, East Dulwich SE22 8EP",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591689113/9d07ed12_sarc7j.jpg",

@@ -1,6 +1,7 @@
 {
   "safetyTips": "Contact free delivery.",
   "name": "Vegan Plates",
+  "order": 13,
   "address": "139 Crystal Palace Road, East Dulwich SE22 9ES",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591390840/7c424baa_yqfuqc.jpg",
   "tags": [

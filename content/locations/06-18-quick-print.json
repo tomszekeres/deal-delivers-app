@@ -1,6 +1,7 @@
 {
   "safetyTips": "We deliver locally for free. We will package in a safe dry place.",
   "name": "Quick Print",
+  "order": 10,
   "phone": "02076396764",
   "address": "20 Maxted Road, Peckham SE15 4LF",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1592505353/f777f5e3_bndtkj.jpg",

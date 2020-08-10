@@ -1,6 +1,7 @@
 {
   "safetyTips": "All orders prepared while masked in a sanitized area and delivered personally.",
   "name": "The Stovetop",
+  "order": 2,
   "address": "9 Staveley Close, Peckham SE15 2JL ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1596649614/d1809e0d_n7syxz.jpg",
   "tags": [

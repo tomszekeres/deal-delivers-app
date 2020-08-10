@@ -1,6 +1,7 @@
 {
   "safetyTips": "Bouquets are left outside the front door.",
   "name": "The Brockley Botanist",
+  "order": 6,
   "phone": "07921809063",
   "address": "104 Drakefell Road, Brockley SE14 5SR",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1593020599/c4d950cc_ohaznz.jpg",

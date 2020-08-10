@@ -1,6 +1,7 @@
 {
   "safetyTips": "Social distancing, knocking and leaving on doorstep, contact-free.",
   "name": "Niangs Thai",
+  "order": 3,
   "phone": "07398579212",
   "address": "92a Underhill Road, East Dulwich SE22 0QU",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1596644939/3c15550d_ldjevt.jpg",

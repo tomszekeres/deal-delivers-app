@@ -1,6 +1,7 @@
 {
   "safetyTips": "Delivered to your doorstep at a designated time.",
   "name": "South London Ferments",
+  "order": 5,
   "address": "85 Pellatt Road, East Dulwich SE22 9JD",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1594121892/0a0446e0_ed0deb.jpg",
   "tags": [

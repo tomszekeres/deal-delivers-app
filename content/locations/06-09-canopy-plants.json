@@ -1,6 +1,7 @@
 {
   "safetyTips": "Contact-free delivery.",
   "name": "Canopy Plants",
+  "order": 12,
   "address": "Latona Road, Peckham SE15 6RX",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591691726/4aca04d1_hnydux.jpg",
   "tags": [
