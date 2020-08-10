@@ -70,7 +70,7 @@ export const LocationCard = ({ details, children, ...rest }) => {
   const { postModalContent } = useData();
   return (
     <StyledCard base="#fff" {...rest}>
-      <StyledCardImageWrap>
+      <StyledCardImageWrap target="_blank" href={`${website}`}>
         <img src={cover} alt={name} />
       </StyledCardImageWrap>
       <StyledCardBody>
