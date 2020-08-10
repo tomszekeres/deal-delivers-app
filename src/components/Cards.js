@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import Cookies from 'universal-cookie';
-import { MapPin, Clock, AlertCircle } from 'react-feather';
+import { MapPin, Truck, AlertCircle } from 'react-feather';
 import { getDeliveryRange, isURL, isEmail, formatPhone } from './Helpers';
 import { useData } from '../context/DataProvider';
 import { ButtonPrimary } from './Buttons';
@@ -48,7 +48,7 @@ const LocationCardAccordion = ({ title, children }) => {
   return (
     <StyledAccordionWrap>
       <StyledAccordionTitle onClick={() => setIsAccordionOpen(!isAccordionOpen)}>
-        <Clock /><p>{title}</p>
+        <Truck /><p>{title}</p>
       </StyledAccordionTitle>
       <StyledAccordionBody isOpen={isAccordionOpen}>
         {children}
