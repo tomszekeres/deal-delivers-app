@@ -1,6 +1,7 @@
 {
   "safetyTips": "Limited team, strict hygiene precautions, contact-free delivery via Slerp. ",
   "name": "Fat Boy BBQ",
+  "order": 25,
   "phone": "02076356699",
   "address": "11a Station Way, Peckham SE15 4RX",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1590084182/7dd2fe10_sf64av.png",

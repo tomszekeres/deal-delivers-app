@@ -1,6 +1,7 @@
 {
   "safetyTips": "Contact-free delivery is offered via Royal Mail / courier or by personal delivery at doorstep.",
   "name": "Hokolo",
+  "order": 16,
   "address": "8 Little Bornes, Dulwich SE21 8SE",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1591393167/0fd35f48_nqsuvl.jpg",
   "tags": [

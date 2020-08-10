@@ -1,5 +1,6 @@
 {
   "name": "Review Bookshop",
+  "order": 35,
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1589373624/Review_Books_sbaw1n.jpg",
   "description": "Independent bookshop in Peckham. Working from home. Taking orders by email. Books are posted direct from supplier. Small delivery fee. ",
   "tags": [

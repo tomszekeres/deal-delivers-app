@@ -1,6 +1,7 @@
 {
   "safetyTips": "Contact free delivery - either by post or through the door. Everything is made at home.",
   "name": "Blockforest",
+  "order": 31,
   "phone": "",
   "address": "95 Grove Vale, East Dulwich, SE22 8EN",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1589746828/65ce6791_oaflfv.png",

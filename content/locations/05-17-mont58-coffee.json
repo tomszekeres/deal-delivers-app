@@ -1,6 +1,7 @@
 {
   "safetyTips": "When we hand deliver we leave the coffee on the doorstep or another place we agree with the customer. We always keep a safe distance.",
   "name": "Mont58 Coffee",
+  "order": 28,
   "phone": "07977511398",
   "address": "58 Montacute Road, SE6 4XJ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1589745518/aed24954_c3gnn7.jpg",

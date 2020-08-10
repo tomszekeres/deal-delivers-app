@@ -1,6 +1,7 @@
 {
   "safetyTips": "The owner and her husband are doing the deliveries. We wear gloves. We place the box outside the door, ring the doorbell and step back at least 2 metres and wait till the box is picked up.",
   "name": "The Wine Parlour",
+  "order": 34,
   "phone": "02033021617",
   "address": "Vining Street, Brixton SW9 8QA",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1589366078/Wine_Parlour_ipeept.jpg",
