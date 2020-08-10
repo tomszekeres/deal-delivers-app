@@ -2,6 +2,7 @@
   "safetyTips": "Items are sanitised and securely packed! ",
   "name": "Bottlecave",
   "phone": "07957107923",
+  "order": 71,
   "address": "79 Lordship Lane, East Dulwich SE22 8EP",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587635672/58c80280_h0czrp.jpg",
   "tags": [

@@ -2,6 +2,7 @@
   "safetyTips": "Items are being delivered on a Next Day Service by DHL who are following all necessary precautions to protect their drivers and customers.",
   "name": "The Dulwich Trader",
   "phone": "02087613457",
+  "order": 120,
   "address": "9-11 Croxted Road, West Dulwich, SE21 8SZ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1586991263/DulwichTrader_01_ypngk1.jpg",
   "tags": [

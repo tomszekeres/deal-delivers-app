@@ -1,6 +1,7 @@
 {
   "safetyTips": "We are offering a non-contact delivery service. Protective gloves are worn whilst packing your order and we practise regular hand-washing. Our delivery service is run by a skeleton crew and there is currently no public access to our premises.",
   "name": "Perks and White",
+  "order": 42,
   "address": "Herne Hill Station, London SE24 0JW",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588596284/c99e158d_iu6swd.jpg",
   "tags": [

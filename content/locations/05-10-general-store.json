@@ -1,6 +1,7 @@
 {
   "safetyTips": "Contact free",
   "name": "General Store",
+  "order": 37,
   "address": "174 Bellenden Road, Peckham, SE15 4BW",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1589120700/8db117c0_vlas5i.jpg",
   "tags": [

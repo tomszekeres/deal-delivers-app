@@ -2,6 +2,7 @@
   "safetyTips": "Items are being delivered on a next-day service by DHL who are following all necessary precautions to protect their drivers and customers.",
   "name": "Tomlinsons",
   "phone": "02082991260",
+  "order": 119,
   "address": "89 Dulwich Village, SE21 7BJ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1586986179/Tomlinsons_01_mvyip8.jpg",
   "tags": [

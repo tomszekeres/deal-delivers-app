@@ -2,6 +2,7 @@
   "safetyTips": "If you live in an apartment block, please come and collect your delivery from the driver at the front door. If you are shielding or in a 'high risk' group please let us know in the delivery instructions.",
   "name": "Artusi & Marcella",
   "phone": "02033028200",
+  "order": 118,
   "address": "161 Bellenden Rd, Peckham SE15 4DH",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587482367/Artusi_04_v4emrk.jpg",
   "tags": [

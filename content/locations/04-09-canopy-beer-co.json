@@ -1,6 +1,7 @@
 {
   "safetyTips": "Delivering orders, non-contact, locally .",
   "name": "Canopy Beer Co",
+  "order": 140,
   "phone": "02086719496",
   "address": "Under the arches by Brockwell Park, SE24 9AJ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1586463627/IMG_6285_large_s3pjym.webp",

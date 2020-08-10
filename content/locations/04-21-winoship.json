@@ -1,6 +1,7 @@
 {
   "safetyTips": "All received stocked is wiped down and not handled for a further 72 hours.",
   "name": "Winoship",
+  "order": 72,
   "phone": "07983440060",
   "address": "13 Hambledon Place, Dulwich SE21 7EY",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587503989/2F19CE02-EC7E-43B2-BD80-5121E23FEE41_l27bqe.jpg",

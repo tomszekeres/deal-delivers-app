@@ -1,6 +1,7 @@
 {
   "safetyTips": "Hand-sanitiser, only George in the shop packaging and delivering.",
   "name": "Lane Eight Coffee",
+  "order": 123,
   "address": "11 Melbourne Grove, East Dulwich SE22 8RG",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1586984832/LaneEight_02_landscape_zg6wlo.jpg",
   "tags": [

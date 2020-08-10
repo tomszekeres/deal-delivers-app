@@ -1,6 +1,7 @@
 {
   "safetyTips": "Delivery customers have an option to pay via a payment link, or can make a contactless payment upon delivery.",
   "name": "The Dulwich Bakery",
+  "order": 49,
   "phone": "02086700510",
   "address": "78 Park Hall Road, West Dulwich SE21 8BW ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588255532/bakery_nsfbcb.jpg",

@@ -1,6 +1,7 @@
 {
   "safetyTips": "We are making sure the highest care is taken by all staff, from the kitchen to all environments we use throughout the day and the packaging of your meals. Therefore be relaxed, enjoy your meals and make the best decision to stay home and stay safe. ",
   "name": "Lazy Chef",
+  "order": 95,
   "phone": "02086999454",
   "address": "7-8 The Facade, SE23 3HA",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587224125/Lazy-Chef0210_qpv0pi.jpg",

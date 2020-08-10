@@ -2,6 +2,7 @@
   "safetyTips": "Non-contact home delivery",
   "name": "Romeo Jones",
   "phone": "02082991900",
+  "order": 121,
   "address": "80 Dulwich Village, SE21 7AJ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1586983618/RomeoJones_01_ftvx9y.jpg",
   "tags": [

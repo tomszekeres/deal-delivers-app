@@ -1,6 +1,7 @@
 {
   "safetyTips": "All items handled with gloves and delivered with social distancing policy",
-  "name": "Biff ",
+  "name": "Biff",
+  "order": 128,
   "phone": "07736 105999",
   "address": "41 Dulwich Village, SE21 7BN",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1586955493/biff_02_u52iyu.jpg",

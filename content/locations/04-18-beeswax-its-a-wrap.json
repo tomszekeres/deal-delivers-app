@@ -2,6 +2,7 @@
   "safetyTips": "All items are securely packaged and we use Royal Mail and courier services for delivery.",
   "name": "Beeswax It's A Wrap",
   "phone": "02077388352",
+  "order": 107,
   "address": "8 Lion Yard, London, SW4 7NQ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587245688/beeswax_wraps_svofcl.jpg",
   "tags": [

@@ -1,5 +1,6 @@
 {
   "name": "Super Pizza",
+  "order": 50,
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588258456/Superpizza_mxx4e6.jpg",
   "description": "Pizza delivery to your door within 45minutes. Our opening hours are 12pm till 11pm every day. ",
   "address": "36 Norwood High Street, London, SE27 9NR",

@@ -1,6 +1,7 @@
 {
   "safetyTips": "Wearing gloves when arranging. Dropping flowers to doorsteps and stepping back until the recipient opens the door. Taking payment over the phone.",
   "name": "Grove Flora",
+  "order": 55,
   "phone": "07966 619 241",
   "address": "23 Brabourn Grove, Nunhead SE15 2BS",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588180636/6ddad71f_awusfd.jpg",

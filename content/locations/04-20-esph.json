@@ -1,6 +1,7 @@
 {
   "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
   "name": "ESPH",
+  "order": 81,
   "phone": "020 7907 1900",
   "address": "116 Lordship Lane, East Dulwich, London SE22 8HD",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587402007/gyms-esph-east-dulwich3-1_fvmbn4.jpg",

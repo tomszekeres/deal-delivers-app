@@ -1,6 +1,7 @@
 {
   "safetyTips": "We wear gloves and mask, deliver to your doorstep then knock or call and step back.",
   "name": "Cakehole",
+  "order": 82,
   "phone": "07572 457 925",
   "address": "Unit 17 Angerstein Business Park, 1 Horn Lane, SE10 0RT",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587404570/Cakehole_iv45t9.jpg",

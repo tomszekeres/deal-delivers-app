@@ -1,6 +1,7 @@
 {
   "safetyTips": "Delivered by post or courier. Please check with Volcano for further details.",
   "name": "Volcano Coffee Works",
+  "order": 86,
   "phone": "07855742212",
   "address": "1 Beadman Street, SE27 0DN",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587136747/EVvAd5sXsAkNMWq_amddxu.jpg",

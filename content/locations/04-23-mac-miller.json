@@ -1,6 +1,7 @@
 {
   "safetyTips": "Working alone. Please enquire directly about other safety measures.",
   "name": "mac&miller",
+  "order": 70,
   "phone": "07817426667",
   "address": "61 Northcross Road SE22 9ET",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1587637277/60a4e307_rwuyrs.jpg",

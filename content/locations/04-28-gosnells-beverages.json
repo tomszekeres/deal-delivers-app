@@ -1,6 +1,7 @@
 {
   "safetyTips": "We deliver ourselves and can leave on doorstep if required.",
   "name": "Gosnells Beverages",
+  "order": 62,
   "address": "Print Village, Peckham SE15 4PU",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588108434/bd39bf01_pr2ajg.jpg",
   "tags": [

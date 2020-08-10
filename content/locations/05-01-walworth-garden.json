@@ -2,6 +2,7 @@
   "safetyTips": "We are offering a contactless kerbside delivery using our own staff, packed and delivered following Public Health England Guidance. ",
   "name": "Walworth Garden",
   "phone": "02075822652",
+  "order": 46,
   "address": "206 Manor Place, SE17 3BN",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588346466/Walworth_Garden_de0slf.jpg",
   "tags": [

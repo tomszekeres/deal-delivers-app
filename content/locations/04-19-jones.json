@@ -1,6 +1,7 @@
 {
   "safetyTips": "Please enquire directly about safety measures.",
   "name": "Jones, The Butcher.",
+  "order": 96,
   "phone": "02072744629",
   "address": "1 Dulwich Rd, Herne Hill, SE24 0NT",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587224117/jones-the-butcher-shop_os7ehe.png",

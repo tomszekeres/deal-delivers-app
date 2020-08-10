@@ -1,6 +1,7 @@
 {
   "safetyTips": "Gloves, sanitiser, safe distance",
   "name": "Lila's",
+  "order": 103,
   "phone": "02086936674",
   "address": "117 Lordship Lane, East Dulwich, SE22 8HU",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587246077/Lila_s_01_zbmt79.jpg",

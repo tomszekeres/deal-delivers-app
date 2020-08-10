@@ -2,6 +2,7 @@
   "safetyTips": "We have only one person in the shop processing the deliveries whilst adhering to strict hygiene protocols. Deliveries are contactless as standard.",
   "name": "Green's",
   "phone": "02086935938",
+  "order": 135,
   "address": "31 Dulwich Village SE21 7BN",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1586875520/front_of_toy_shop_gqfgke.jpg",
   "tags": [

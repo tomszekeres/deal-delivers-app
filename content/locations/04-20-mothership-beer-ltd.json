@@ -1,6 +1,7 @@
 {
   "safetyTips": "Deliveries are dropped off on your doorstep. Please get in contact with this supplier to find out any further safety measures they are taking.",
   "name": "Mothership Beer Ltd",
+  "order": 79,
   "address": "Carden Road, London, SE15",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587404002/Mothership_fur6wu.jpg",
   "tags": [

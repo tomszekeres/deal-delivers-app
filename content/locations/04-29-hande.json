@@ -1,6 +1,7 @@
 {
   "safetyTips": "Hands-free delivery via Royal Mail. And of course, we use our own sanitiser.",
   "name": "Hande",
+  "order": 54,
   "phone": "07761261471",
   "address": "Unit 2B, Copeland Park, SE15 3SN",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588159370/handesingle50_1_1296x_pwtuek.webp",

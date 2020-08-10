@@ -1,6 +1,7 @@
 {
   "safetyTips": "Books are posted directly from the wholesaler's warehouse.",
   "name": "Herne Hill Books",
+  "order": 99,
   "phone": "020 7998 1673",
   "address": "289 Railton Rd, Brixton SE24 0LY",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1590068192/IMG_4847_cq0lwz.jpg",

@@ -1,6 +1,7 @@
 {
   "safetyTips": "Payment over the phone, can deliver to doorstep, or can park outside and we can put products straight into boot of car.",
   "name": "Intersport Herne Hill",
+  "order": 98,
   "phone": "02073265050",
   "address": "Intersport, 134a Herne Hill, SE24 9QL",
   "cover": "https://dl.airtable.com/.attachments/801f340c7fbee395916349fe35ebfdf4/c38b2f8f/B7B1305B-5A70-4A63-820D-3E475892C6AE.jpeg",

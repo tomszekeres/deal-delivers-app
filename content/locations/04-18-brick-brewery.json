@@ -2,6 +2,7 @@
   "safetyTips": "Social distancing measures, regular hand washing, gloves and hand sanitiser used after every delivery.",
   "name": "Brick Brewery",
   "phone": "",
+  "order": 106,
   "address": "Blenheim Grove, Peckham SE15 4QL",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587224926/Brick_Brewery_-_Peckham_Deptford-89_ii9inw.jpg",
   "tags": [

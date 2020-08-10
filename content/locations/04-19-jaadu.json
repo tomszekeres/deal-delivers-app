@@ -1,6 +1,7 @@
 {
   "safetyTips": "Deliveries by hand with the necessary COVID 19 precautions in place.",
   "name": "Jaadu",
+  "order": 98,
   "phone": "02087619041",
   "address": "92 Park Hall Road, West Dulwich SE21 8BW",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588159044/7baa9c16_gjtsv1.jpg",

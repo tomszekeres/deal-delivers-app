@@ -1,6 +1,7 @@
 {
   "name" : "The South East Cakery & Cafe",
   "address" : "20 Upland Road, East Dulwich SE22 9EF",
+  "order": 113,
   "website" : "https://www.southeastcakery.com/our-bakes",
   "description" : "Treat boxes containing baked goods and grocery essentials, as well as brownie bars.",
   "safetyTips" : "We will offer a contactless delivery - a knock and run type - please reply to your confirmation email if you think you may be out and there is a safe place you would like us to leave it",

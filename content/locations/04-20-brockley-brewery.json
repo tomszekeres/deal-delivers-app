@@ -1,6 +1,7 @@
 {
   "safetyTips": "The idea behind offering a door to door delivery service for our local community is to compliment the government's advice to stay home. Our brewery on Harcourt Road in Brockley is small and in an effort to keep social interactions to an absolute minimum, we're operating on a skeleton crew and not permitting any access to the public.",
   "name": "Brockley Brewery",
+  "order": 83,
   "phone": "07814 584 338",
   "address": "31 Harcourt Road, Brockley SE4 2AJ",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587400959/2606_Brockley-Brewery-building_uwyy2e.jpg",

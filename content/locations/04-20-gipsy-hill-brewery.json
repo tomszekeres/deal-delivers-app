@@ -1,6 +1,7 @@
 {
   "safetyTips": "All staff members prepping online orders are instructed to wear gloves and sanitation stations are available across the site. We’re totally contact-free for collections (all payment is taken in advance via the online shop) and have social distancing measures in place, marked out at the collection point.",
   "name": "Gipsy Hill Brewery",
+  "order": 80,
   "phone": "020 8761 9061",
   "address": "160 Hamilton Road, Gipsy Hill, SE27 9SF",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587400984/Gipsy_Hill_Brewery_abgbwg.jpg",
