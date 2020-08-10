@@ -26,8 +26,8 @@ const DataProvider = (props) => {
     .then(data => {
       const array = data.default.slice(0);
       const sorted = array.sort((a,b) => {
-        const x = a.order.toLowerCase();
-        const y = b.order.toLowerCase();
+        const x = a.name.toLowerCase();
+        const y = b.name.toLowerCase();
         return x < y ? -1 : x > y ? 1 : 0;
       });
       setLocations(sorted);
