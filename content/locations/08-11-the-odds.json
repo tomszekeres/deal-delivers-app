@@ -1,0 +1,29 @@
+{
+  "safetyTips": "All deliveries are contact free and we follow strict cleaning procedures in the shop.",
+  "name": "The Odds",
+  "order": "-1",
+  "address": "28 Choumert Road, Peckham SE15 4SE",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1597165579/0d06b213_crfixq.jpg",
+  "tags": [
+    "Natural Wine",
+    "Vegan",
+    "Deli",
+    "Booze",
+    "Bicycle Delivery",
+    "Beer",
+    "Bread",
+    "Vegan Cheese"
+  ],
+  "website": "https://theoddsnomnom.com/",
+  "deliveryHours": [
+    "Monday 10:30 - 16:30",
+    "Tuesday 10:30 - 16:30",
+    "Wednesday 10:30 - 16:30",
+    "Thursday 10:30 - 16:30",
+    "Friday 10:30 - 16:30",
+    "Saturday 10:30 - 16:30",
+    "Sunday 10:30 - 16:30"
+  ],
+  "email": "hello@theoddsnomnom.com",
+  "description": "Born a vegan restaurant, we evolved during lockdown to become a vegan deli and natural wine shop. We sell a large selection of vegan cheese, natural wine, craft beer, coffee, bread, vegan ice cream and baked goods. We deliver free to our local area for orders over £15. Order before 3 pm for same-day delivery. We also offer next day delivery nationwide by courier."
+}
