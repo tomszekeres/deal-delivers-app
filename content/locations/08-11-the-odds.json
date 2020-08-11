@@ -1,7 +1,7 @@
 {
   "safetyTips": "All deliveries are contact free and we follow strict cleaning procedures in the shop.",
   "name": "The Odds",
-  "order": "-1",
+  "order": 1,
   "address": "28 Choumert Road, Peckham SE15 4SE",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1597165579/0d06b213_crfixq.jpg",
   "tags": [
