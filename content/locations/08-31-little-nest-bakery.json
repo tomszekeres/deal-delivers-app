@@ -1,0 +1,24 @@
+{
+  "safetyTips": "We have level 2 food safety certification. Once the goods are baked, we have minimal contact with them... we use tongs to pick up and pack them into bags and we leave the bags wherever the customers instruct us to.",
+  "name": "Little Nest Bakery",
+  "phone": "07973507989",
+  "order": "-1",
+  "address": "161 Upper Brockley Road, SE4 1TG",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1598907871/little-nest_jpvyip.jpg",
+  "tags": [
+    "Bread",
+    "Sourdough",
+    "Bakery",
+    "Buns",
+    "Brownies",
+    "Scones"
+  ],
+  "website": "https://www.facebook.com/littlenestbakery/",
+  "deliveryHours": [
+    "Wednesday",
+    "Friday",
+    "Saturday"
+  ],
+  "email": "littlenestbakery@gmail.com",
+  "description": "We bake sourdough bread and focaccia, sweet and savoury scones, buns, cookies and brownies, and deliver them to our customers' homes. We deliver on foot and by car. Our minimum spend is £10. You can find our menu on our Facebook page and Instagram Highlights. We bake Wednesday, Friday and Saturday, and need 24-hour notice for sourdough bread and focaccia."
+}
