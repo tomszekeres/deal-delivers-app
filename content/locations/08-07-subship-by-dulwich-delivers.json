@@ -1,8 +1,8 @@
 {
   "safetyTips": "https://subship.co.uk/pages/covid-19-prevention-policy",
   "name": " Subship by Dulwich Delivers",
-  "order": 0,
   "phone": "07808938946",
+  "order": 0,
   "address": "310b Lordship Lane, East Dulwich SE22 8LY",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1597067355/subship_social-share-image-rust_bhbxop.png",
   "tags": [
@@ -20,5 +20,5 @@
     "Thursday 14:00 - 20:00"
   ],
   "email": "hello@subship.co.uk",
-  "description": "Delivering better: a weekly crate of ethical staples and local favourites. Dropped to your door, emission-free. A subscription service with heart: supporting independent businesses, local jobs, and young lungs: 100% electric delivery. First deliveries Thursday 3rd September. Register today to get 10% off your first order."
+  "description": "A weekly delivery of local, ethical goods. Dropped to your door, emission-free. Minimal plastic, maximum impact. A subscription service with heart: supporting independent businesses, local jobs, and young lungs: 100% electric delivery. Order by midnight Tuesday for Thursday afternoon delivery. Postcodes covered: SE5, SE15, SE21, SE22, SE23, SE24."
 }
