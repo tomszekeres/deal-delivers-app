@@ -2,7 +2,7 @@
   "safetyTips": "We have level 2 food safety certification. Once the goods are baked, we have minimal contact with them... we use tongs to pick up and pack them into bags and we leave the bags wherever the customers instruct us to.",
   "name": "Little Nest Bakery",
   "phone": "07973507989",
-  "order": "-1",
+  "order": "1",
   "address": "161 Upper Brockley Road, SE4 1TG",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1598907871/little-nest_jpvyip.jpg",
   "tags": [
