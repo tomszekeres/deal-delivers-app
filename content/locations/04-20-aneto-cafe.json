@@ -1,28 +1,12 @@
 {
-  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
-  "name": "Aneto Cafe",
+  "safetyTips": "Aneto has sadly now closed.",
+  "name": "Aneto Cafe (RIP)",
   "order": 84,
-  "phone": "020 7732 6774",
-  "website": "http://www.anetocafe.com/",
+  "website": "https://www.facebook.com/Anetocafedulwich/photos/a.305610059566666/2921985167929129/",
   "address": "57- 60 East Dulwich Road, SE22 9AX",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587403110/aneto-cafe_kv2uts.jpg",
   "tags": [
-    "Veg box",
-    "Deli",
-    "flour",
-    "groceries",
-    "pasta",
-    "eggs",
-    "milk",
-    "cheese"
+    "Closed"
   ],
-  "deliveryHours": [
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday"
-  ],
-  "email": "anetocafe@gmail.com",
-  "description": "Café turned deli offering veg boxes, deli items, and bread. £25 minimum spend, delivering Monday-Friday. Click 'order online' to see what we have in stock."
+  "description": "Was a café turned deli offering veg boxes, deli items, and bread. Sadly didn't make it through the tough conditions of the pandemic. Good luck to Damiano and team with your future ventures."
 }

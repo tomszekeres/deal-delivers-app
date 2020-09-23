@@ -1,8 +1,8 @@
 {
   "safetyTips": "https://subship.co.uk/pages/covid-19-prevention-policy",
-  "name": " Subship by Dulwich Delivers",
+  "name": "Subship",
   "phone": "07808938946",
-  "order": "0",
+  "order": 0,
   "address": "310b Lordship Lane, East Dulwich SE22 8LY",
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1597067355/subship_social-share-image-rust_bhbxop.png",
   "tags": [
@@ -11,6 +11,7 @@
     "Toilet Tissue",
     "Craft Beer",
     "Nappies & Wipes",
+    "Bicycle Delivery",
     "Electric Van Delivery",
     "Box Delivery",
     "Zero Waste"
