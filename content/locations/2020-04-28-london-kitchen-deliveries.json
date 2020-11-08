@@ -1,18 +1,16 @@
 {
   "safetyTips": "Contactless delivery. 5 star rated catering kitchen ",
   "name": "London Kitchen Deliveries",
-  "order": 60,
   "phone": "07795462689",
+  "order": 60,
   "address": "12 Canterbury Industrial Estate, SE15 1NP",
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588106920/00e089f8_yz9ob7.jpg",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1604870851/lkd_l5fvz4.jpg",
   "tags": [
-    "Bread",
-    "Frozen Meals",
-    "Frozen Meals",
-    "Veg Box",
-    "Groceries",
-    "Cocktails",
-    "Plant-based",
+    "Set menus",
+    "Desserts",
+    "Afternoon tea",
+    "Heat at Home",
+    "Hampers",
     "Gluten-free"
   ],
   "website": "https://london-kitchen-deliveries.co.uk/collections",
@@ -21,5 +19,5 @@
     "Friday 13:00 - 18:00"
   ],
   "email": "lkd@londonbasquekitchen.co.uk",
-  "description": "Home-cooked meals, fresh produce boxes and ‘Friday Night Dinners’ - virtual supper club fun. Minimum order £40, deliveries on Tuesday and Fridays. In-house delivery service for contactless delivery."
+  "description": "Restaurant-style meal delivery each Friday, set menu, chef collaborations, seasonal meal bundles and afternoon tea. Free local delivery."
 }
