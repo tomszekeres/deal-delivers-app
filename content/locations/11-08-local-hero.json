@@ -1,0 +1,25 @@
+{
+  "safetyTips": "The shop is Covid Secure and we will doorstep your delivery ",
+  "name": "Franklins Farm Shop",
+  "phone": "02086933992",
+  "order": "-3",
+  "address": "155 Lordship Lane, East Dulwich SE22 8HX",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1604872385/67d1e62f_qhkdim.jpg",
+  "tags": [
+    "Alcohol",
+    "Box Delivery",
+    "Deli",
+    "Organic",
+    "Groceries",
+    "Vegetables",
+    "Beer"
+  ],
+  "deliveryHours": [
+    "Tuesday 12:00 - 17:00",
+    "Wednesday 12:00 - 17:00",
+    "Thursday 12:00 - 17:00",
+    "Friday 12:00 - 17:00"
+  ],
+  "email": "franklinsfarmshop@gmail.com",
+  "description": "Organic fruit and vegetables, delicatessen, wine and beers. Minimum £25 spend for free deiivery to SE15/21/22/23/26."
+}

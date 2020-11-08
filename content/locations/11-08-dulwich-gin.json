@@ -1,0 +1,21 @@
+{
+  "safetyTips": "We'll leave the bottle on a doorstep for contact-free delivery but will need someone to answer the door. We have a Challenge 25 policy so will ask to see your ID if we think you are under 25. ",
+  "name": "Dulwich Gin",
+  "order": "0",
+  "address": "59 Calton Avenue, London SE21 7DF",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1604871704/8df5a50e_bg2tqn.jpg",
+  "tags": [
+    "Alcohol",
+    "Bicycle Delivery"
+  ],
+  "website": "http://dulwichgin.co.uk",
+  "deliveryHours": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "email": "info@dulwichgin.co.uk",
+  "description": "We make South London's finest gin. We're a classic London Dry Gin with a contemporary twist - alongside more traditional botanicals we use dill (which Dulwich is named after), to give our gin soft floral and lemony citrus notes with juniper and hint of aniseed to follow. Every bottle has a unique label and for each bottle sold we make a contribution to the Dulwich Picture Gallery. We can usually deliver the next day and most local deliveries are by bike."
+}
