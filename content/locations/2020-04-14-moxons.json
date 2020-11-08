@@ -1,14 +1,16 @@
 {
-  "safetyTips": "Contact Moxons to find out more information.",
-  "name": "Moxons",
+  "safetyTips": "Restricting number of customers in shop. Home delivery consignments packaged in a \"non-public\" environment, a dedicated facility. Our courier is DPD who practise contactless delivery.",
+  "name": "Moxon's Fishmongers",
+  "phone": "02036591413",
   "order": 132,
-  "phone": "07513403346",
   "address": "149 Lordship Lane, East Dulwich SE22 8HX",
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1586872866/P1020600_cx5qev.webp",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1604871954/ba3337cd_irmtob.jpg",
   "tags": [
-    "Fish"
+    "Fish",
+    "Deli",
+    "Olive Oil"
   ],
-  "website": "",
+  "website": "https://www.moxonsfreshfish.com",
   "deliveryHours": [
     "Tuesday",
     "Wednesday",
@@ -16,5 +18,5 @@
     "Friday",
     "Saturday"
   ],
-  "description": "We buy the best fish daily from Billingsgate market. We also stock a range of seasonal vegetables and store cupboard goods so you have everything you need to prepare a meal. For deliveries, please phone."
+  "description": "We are a high street retail fishmonger specialising in the finest British fish and shellfish. We also produce our own range of smoked fish and ready to eat foods and have an extensive selection of deli items and store cupboard goods. You can now order online for next day home delivery anywhere in the UK."
 }
