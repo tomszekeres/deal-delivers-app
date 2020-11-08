@@ -1,27 +1,25 @@
 {
-  "safetyTips": "We employ the use of hand-sanitiser, masks, social distancing etc when shopping for the produce and delivery is contact-free.",
-  "name": "Local Hero",
-  "order": "6",
-  "address": "West Norwood",
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1604872272/8f4e6dad_vpu28z.png",
+  "safetyTips": "The shop is Covid Secure and we will doorstep your delivery ",
+  "name": "Franklins Farm Shop",
+  "phone": "02086933992",
+  "order": "-3",
+  "address": "155 Lordship Lane, East Dulwich SE22 8HX",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1604872385/67d1e62f_qhkdim.jpg",
   "tags": [
-    "Groceries",
-    "Bread",
+    "Alcohol",
+    "Box Delivery",
     "Deli",
-    "Beer",
+    "Organic",
+    "Groceries",
     "Vegetables",
-    "Fruit"
+    "Beer"
   ],
-  "website": "https://www.localherolondon.com",
   "deliveryHours": [
-    "Monday 12:00 - 16:00",
-    "Tuesday 12:00 - 16:00",
-    "Wednesday 12:00 - 16:00",
-    "Thursday 12:00 - 16:00",
-    "Friday 12:00 - 16:00",
-    "Saturday 12:00 - 16:00",
-    "Sunday 12:00 - 16:00"
+    "Tuesday 12:00 - 17:00",
+    "Wednesday 12:00 - 17:00",
+    "Thursday 12:00 - 17:00",
+    "Friday 12:00 - 17:00"
   ],
-  "email": "contactlocalherolondon@gmail.com",
-  "description": "Local Hero is a new, small business based in West Norwood. It was set up after a Covid-19 redundancy and was inspired during the first lockdown when there were issues with grocery shopping. Our aim is to make sure that everyone can still support local and have access to the wonderful and delicious food offered by our local shops. Order from local butchers, bakers, delicatessens, cheesemongers, greengrocers, fishmongers and more for next-day delivery. All the prices are the same as in-store. You can browse through all the products from all of the local shops we currently have in one place, add items to one basket, pay for it altogether, and receive it all in one single delivery."
+  "email": "franklinsfarmshop@gmail.com",
+  "description": "Organic fruit and vegetables, delicatessen, wine and beers. Minimum £25 spend for free deiivery to SE15/21/22/23/26."
 }
