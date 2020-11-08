@@ -8,10 +8,16 @@
     "Olive Oil",
     "Greek"
   ],
-  "website": "https://www.eliaoliveoil.co.uk",
+  "website": "https://www.eliaoliveoil.co.uk/collections/all",
   "deliveryHours": [
-    "Monday 09:00-12:00"
+    "Monday 09:00-12:00",
+    "Tuesday 09:00-12:00",
+    "Wednesday 09:00-12:00",
+    "Thursday 09:00-12:00",
+    "Friday 09:00-12:00",
+    "Saturday 09:00-12:00",
+    "Sunday 09:00-12:00"
   ],
   "email": "eliaoliveoilltd@gmail.com",
-  "description": "Elia Olive Oil is a family business based in West Norwood. We have been importing organic EVOO since 2015 and until recently, were trading at local markets. As a response to the current situation, we are offering free delivery within a 1-mile radius of SE27 9EJ. Simply add discount code 'SE27' at checkout."
+  "description": "Elia Olive Oil is a family business based in West Norwood. We have been importing organic EVOO since 2015, trading at local markets. As a response to the current situation, we are offering free delivery within a 2-mile radius of SE27 9EJ. This will be automatically calculated at checkout."
 }

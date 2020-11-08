@@ -2,13 +2,16 @@
   "name": "Forza Win",
   "order": 63,
   "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1588107006/3006ecb0_b8noxh.gif",
-  "description": "Although Forza's restaurant and wine bar are currently closed, they still have t-shirts and enamel pins ready to ship your way.",
+  "description": "All food & drink is available midday to 8pm - come to collect or use local delivery Stuart. You can order for right now (if ordering between midday & 8pm) or schedule for later",
   "tags": [
-    "Clothing",
+    "Italian",
+    "Wine",
+    "Beer",
+    "Cocktails",
     "Gifts"
   ],
   "address": "Copeland Park, Peckham SE15 3SN",
-  "website": "https://www.forzawin.com/shop",
+  "website": "https://shop.forzawin.com/",
   "email": "peckham@forzawin.com",
   "safetyTips": "Contact Forza Win to find out more."
 }
