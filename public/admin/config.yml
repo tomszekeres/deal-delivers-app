@@ -27,11 +27,11 @@ collections:
     editor:
       preview: false
     folder: content/locations
-    slug: "{{month}}-{{day}}-{{name}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{name}}"
     create: true # Allow users to create new documents in this collection
     fields:
       - { label: "Name", name: "name", widget: "string" }
-      - { label: "Order", name: "order", widget: "string" } 
+      - { label: "Order", name: "order", widget: "string" }
       - { label: "Cover Image", name: "cover", widget: "image", multiple: false }
       - { label: "Description", name: "description", widget: "string" }
       - label: "Tags"
