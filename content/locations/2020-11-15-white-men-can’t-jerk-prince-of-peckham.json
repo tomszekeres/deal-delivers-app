@@ -1,0 +1,26 @@
+{
+  "safetyTips": "Prince of Peckham has a food hygiene rating of 5/5.",
+  "name": "White Men Can’t Jerk @ Prince of Peckham",
+  "phone": "020 7635 8844",
+  "order": "1",
+  "address": "1 Clayton Road, Peckham SE15 5JA",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1605471972/external-content.duckduckgo.com_uxcphj.jpg",
+  "tags": [
+    "Pub",
+    "Caribbean",
+    "Jerk",
+    "Cocktails"
+  ],
+  "website": "https://deliveroo.co.uk/menu/london/peckham/white-men-cant-jerk-peckham",
+  "deliveryHours": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "email": "hello@princeofpeckham.co.uk",
+  "description": "We get locked down, but we get up again! Throughout lockdown we’re still bringing you the most banging jerk chicken in London, courtesy of White Men Can’t Jerk. We are also serving up some of your favourite cocktails, including The Prince and our most popular new addition to the menu, the Hennessy Bramble."
+}
