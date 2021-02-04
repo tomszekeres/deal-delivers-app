@@ -1,0 +1,28 @@
+{
+  "safetyTips": "All delivery is contact-free and prepared in a regularly sanitized environment without household mixing.",
+  "name": "The Stovetop",
+  "order": 2,
+  "address": "9 Staveley Close, Peckham SE15 2JL ",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1596649614/d1809e0d_n7syxz.jpg",
+  "tags": [
+    "Gluten-free",
+    "Meal Kits",
+    "Black Owned",
+    "Date Night",
+    "Street Food",
+    "Bicycle Delivery",
+    "Date Night"
+  ],
+  "website": "https://www.thestovetop.co.uk/",
+  "deliveryHours": [
+    "Monday 10:00 - 20:00",
+    "Tuesday 10:00 - 20:00",
+    "Wednesday 10:00 - 20:00",
+    "Thursday 10:00 - 20:00",
+    "Friday 10:00 - 20:00",
+    "Saturday 10:00 - 20:00",
+    "Sunday 10:00 - 20:00"
+  ],
+  "email": "hello@thestovetop.co.uk",
+  "description": "We're reimagining recipe kits for adventurous eaters. Serve up delicious meals and discover ingredients you may have never seen before. All hand-delivered in SE London."
+}
