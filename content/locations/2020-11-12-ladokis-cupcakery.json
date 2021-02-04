@@ -1,10 +1,10 @@
 {
   "safetyTips": "The sealed box is placed on the doorstep on top of one of our wipeable plastic sheets. The delivery person steps away 2 metres and waits for the recipient to come to the door before confirming the parcel is for them and leaving. No signatures required. The wipeable mat is taken away and disinfected before the next delivery. ",
-  "name": "Ladoki’s Cupcakery",
+  "name": "Whisk & Things",
   "phone": "07825087147",
   "order": 15,
   "address": "Birch Grove, Lee SE12 0SP",
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1605471842/LCC_2020_MST_v3_Txt_nbcckc.png",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1612189617/Attachment_1610281799_ccuqve.png",
   "tags": [
     "Cupcakes",
     "Baked Goods",
@@ -13,7 +13,7 @@
     "Gluten Free",
     "Confectionery"
   ],
-  "website": "https://www.ladokiscupcakery.co.uk/",
+  "website": "http://www.whiskandthings.co.uk/",
   "deliveryHours": [
     "Monday 13:00 - 17:00",
     "Tuesday 13:00 - 17:00",
@@ -22,6 +22,6 @@
     "Friday 13:00 - 17:00",
     "Saturday 13:00 - 17:00"
   ],
-  "email": "info@ladokiscupcakery.co.uk",
+  "email": "team@whiskandthings.co.uk",
   "description": "Your favourite flavours, made fresh to order. Cupcakes, mini cookie cups, mini cupcakes and baked doughnuts with chocolate sauce made fresh daily. Made using fresh jams, caramels and sauces.  Minimum spend is £10 and delivered via car."
 }
