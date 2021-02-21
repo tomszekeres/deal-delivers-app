@@ -1,0 +1,17 @@
+{
+  "safetyTips": "Please contact vendor for more information.",
+  "name": "La Maison Guimauve",
+  "phone": "07962949504",
+  "order": "12",
+  "address": "31 College Road, Dulwich SE21 7BG",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1613921397/621d1c8e_kwoc3q.jpg",
+  "tags": [
+    "Confectionery",
+    "Gifts",
+    "Great Taste Awards",
+    "Gluten-free"
+  ],
+  "website": "https://www.lamaisonguimauve.com/",
+  "email": "info@lamaisonguimauve.com",
+  "description": "An award-winning business based in Dulwich creating delicious marshmallows in a range of delicious flavours. "
+}
