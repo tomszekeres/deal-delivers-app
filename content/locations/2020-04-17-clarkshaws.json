@@ -1,12 +1,19 @@
 {
+  "safetyTips": "We deliver contact free by placing your order outside your door, ringing the bell and waiting for you to answer at least 2 metres from the door. We wear masks and sanitise our hands between each delivery. ",
   "name": "Clarkshaws Brewery",
   "order": 108,
   "address": "497 Ridgway Rd, Brixton SW9 7AH",
-  "website": "https://www.clarkshaws.co.uk/shop.html",
-  "description": "We have plenty of bottles, cases and 5L minikegs of beer available. Delivery is free for nearby postcode - select 'Collect from Brewery' when checking out. Minimum order £15.",
-  "safetyTips": "Please get in contact with this supplier to find out safety measures they are taking.",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1613921169/060d0e96_jjvl86.jpg",
   "tags": [
-    "Beer"
+    "Beer",
+    "Vegan",
+    "Click & Collect"
   ],
-  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1587074098/ClarkshawsBrewery_01_nbsnhh.jpg"
+  "website": "https://www.clarkshaws.co.uk/shop.html",
+  "deliveryHours": [
+    "Wednesday 13:00-18:00",
+    "Friday 13:00-18:00"
+  ],
+  "email": "clark@clarkshaws.co.uk",
+  "description": "Clarkshaws brews award winning ecologically sustainable vegan beers. We deliver beer kegs, bottles, gift packs, cases and merchandise."
 }
