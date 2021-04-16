@@ -27,7 +27,7 @@ export const LocationSearch = () => {
 
 export const LocationList = () => {
   const { locations, getLocations } = useData();
-  const [locationLimit, setLocationLimit] = useState(9);
+  const [locationLimit, setLocationLimit] = useState(12);
 
   // Grabs JSON data from provider
   useEffect(() => {
@@ -38,6 +38,8 @@ export const LocationList = () => {
   if (locations.length < 1) {
     return <LoadingSpinner />
   }
+
+let totalAmountHidden = locations.length - (locationLimit);
 
   return (
     <Container style={{ marginTop: '-6rem', paddingBottom: '5rem' }}>
@@ -60,7 +62,7 @@ export const LocationList = () => {
         }
         }
       </FilterResults>
-      {locations.length > locationLimit ? <ButtonSecondary onClick={() => { setLocationLimit(locationLimit + 9); console.log(locationLimit) }}>Load More</ButtonSecondary> : null}
+        {totalAmountHidden > 0 && <ButtonSecondary onClick={() => { setLocationLimit(locationLimit + 24); console.log(locationLimit) }}>Load More ({totalAmountHidden})</ButtonSecondary>}
     </Container>
   )
 }
