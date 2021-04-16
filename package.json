@@ -2,54 +2,57 @@
   "name": "dulwich-delivers",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "dayjs": "^1.8.23",
-    "json-concat": "^0.0.1",
-    "polished": "^3.5.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-feather": "^2.0.3",
-    "react-fuzzy-filter": "^5.0.1",
-    "react-mailchimp-subscribe": "^2.1.0",
-    "react-scripts": "3.4.1",
-    "react-toastify": "^5.5.0",
-    "react-toasts": "^3.0.6",
-    "styled-components": "^5.0.1",
-    "universal-cookie": "^4.0.3"
-  },
-  "scripts": {
-    "start": "npm-run-all prepare-content -p start:content start:app",
-    "build": "npm-run-all -s prepare-content build:app",
-    "start:app": "react-scripts start",
-    "start:content": "chokidar 'content/**/**' -c 'npm run prepare-content'",
-    "build:app": "react-scripts build",
-    "build:react-snapshot": "react-snapshot",
-    "parse-content": "node ./functions/parse-content.js",
-    "prepare-content": "npm-run-all -s parse-content",
-    "test": "react-scripts test"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "chokidar-cli": "^2.1.0",
-    "glob": "^7.1.6",
-    "lodash": "^4.17.15",
-    "npm-run-all": "^4.1.5"
-  }
+"dependencies": {
+  "@testing-library/jest-dom": "^4.2.4",
+  "@testing-library/react": "^9.3.2",
+  "@testing-library/user-event": "^7.1.2",
+  "dayjs": "^1.8.23",
+  "json-concat": "^0.0.1",
+  "polished": "^3.5.1",
+  "react": "^16.13.1",
+  "react-dom": "^16.13.1",
+  "react-feather": "^2.0.3",
+  "react-fuzzy-filter": "^5.0.1",
+  "react-inlinesvg": "^1.2.0",
+  "react-mailchimp-subscribe": "^2.1.0",
+  "react-markdown": "^4.3.1",
+  "react-router": "^5.2.0",
+  "react-router-dom": "^5.2.0",
+  "react-scripts": "3.4.1",
+  "react-toastify": "^5.5.0",
+  "react-toasts": "^3.0.6",
+  "styled-components": "^5.0.1",
+  "universal-cookie": "^4.0.3"
+},
+"scripts": {
+  "start": "npm-run-all prepare-content -p start:content start:app",
+  "build": "npm-run-all -s parse-content build:app",
+  "start:app": "react-scripts start",
+  "start:content": "chokidar 'content/**/**' -c 'npm run prepare-content'",
+  "build:app": "react-scripts build",
+  "build:react-snapshot": "react-snapshot",
+  "parse-content": "node ./functions/parse-content.js",
+  "test": "react-scripts test"
+},
+"eslintConfig": {
+  "extends": "react-app"
+},
+"browserslist": {
+  "production": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "development": [
+    "last 1 chrome version",
+    "last 1 firefox version",
+    "last 1 safari version"
+  ]
+},
+"devDependencies": {
+  "chokidar-cli": "^2.1.0",
+  "glob": "^7.1.6",
+  "lodash": "^4.17.19",
+  "npm-run-all": "^4.1.5"
+}
 }
